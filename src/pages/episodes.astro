@@ -1,0 +1,49 @@
+---
+import PageLayout from "../layouts/PageLayout.astro";
+import { getCollection } from "astro:content";
+
+const publishedEpisodeEntries = await getCollection("episodes", ({ data }) => {
+  return data.draft !== true;
+});
+
+const sortedEpisodeEntries = publishedEpisodeEntries.sort(
+  (a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf()
+);
+---
+
+<PageLayout title="Episodes">
+  <section slot="main">
+    <ul>
+      {
+        sortedEpisodeEntries.map((entry) => {
+          const formattedDate = new Date(entry.data.date).toLocaleString(
+            "en-us",
+            {
+              year: "numeric",
+              month: "short",
+              day: "numeric",
+              timeZone: "UTC",
+            }
+          );
+          return (
+            <li class="grid grid-cols-[1fr] md:grid-cols-[1fr_auto] mb-3 md:gap-2 items-start">
+              <div class="title">
+                <a
+                  href={`/episodes/${entry.slug}`}
+                  class="unset hover:text-text-link"
+                >
+                  {entry.data.title}
+                </a>
+              </div>
+              <div class="text-text-muted text-sm italic">
+                <time datetime={entry.data.date.toISOString()}>
+                  {formattedDate}
+                </time>
+              </div>
+            </li>
+          );
+        })
+      }
+    </ul>
+  </section>
+</PageLayout>
