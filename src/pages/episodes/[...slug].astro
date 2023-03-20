@@ -26,6 +26,8 @@ const { Content } = await entry.render();
   title={entry.data.title}
   date={entry.data.date}
   description={entry.data.tagline ?? PODCAST_TAGLINE}
+  coverArtURL={"/episodes/coverart/" + entry.slug + ".jpg"}
+  audioURL={"/episodes/audio/" + entry.slug + ".m4a"}
 >
   <Content />
 </ContentLayout>

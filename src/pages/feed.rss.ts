@@ -74,7 +74,7 @@ export const all: APIRoute = async () => {
             "@href": SITE_URL + PODCAST_LOGO_URL,
           },
           language: "en-us",
-          link: "homepage url",
+          link: SITE_URL,
           item: [
             sortedEpisodeEntriesWithAudio.map((entry) => ({
               guid: {

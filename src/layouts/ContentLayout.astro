@@ -18,10 +18,12 @@ import { PODCAST_TITLE } from "src/config";
 export interface Props {
   title: string;
   description: string;
+  coverArtURL?: string;
+  audioURL: string;
   date: Date;
 }
 
-const { title, description, date } = Astro.props;
+const { title, description, audioURL, coverArtURL, date } = Astro.props;
 const formattedDate = new Date(date).toLocaleString("en-us", {
   year: "numeric",
   month: "short",
@@ -55,6 +57,8 @@ const formattedDate = new Date(date).toLocaleString("en-us", {
       <section class="blog-post prose max-w-none prose-sleek">
         <h1 class="m-0 mb-[0.25em]">{title}</h1>
         <time class="block mb-[2em] text-text-muted">{formattedDate}</time>
+        <audio src={audioURL} class="w-full" controls></audio>
+        {coverArtURL && <img class="rounded-lg border-2" src={coverArtURL} alt="Cover art for the episode">}
         <slot />
       </section>
     </main>
