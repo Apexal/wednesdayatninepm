@@ -31,7 +31,7 @@ const sortedEpisodeEntriesWithAudio = await Promise.all(
       path.dirname(__filename),
       "..",
       "..",
-      "public",
+      SITE_URL.includes("localhost") ? "public" : ".",
       "episodes",
       "audio",
       entry.slug + ".m4a"
