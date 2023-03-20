@@ -60,7 +60,7 @@ export const all: APIRoute = async () => {
     {
       rss: {
         "@version": "2.0",
-        "@xlmns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+        "@xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
         "@xmlns:content": "http://purl.org/rss/1.0/modules/content/",
         channel: {
           title: PODCAST_TITLE,
