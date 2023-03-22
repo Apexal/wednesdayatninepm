@@ -50,7 +50,7 @@ const entryToItem = ({
   pubDate: episode.publishedAt.toUTCString(),
   "itunes:explicit": episode.explicit ? "yes" : "no",
   enclosure: {
-    "@url": audioMetadata.url,
+    "@url": SITE_URL + audioMetadata.path,
     "@type": "audio/m4a",
     "@length": audioMetadata.bytes,
   },

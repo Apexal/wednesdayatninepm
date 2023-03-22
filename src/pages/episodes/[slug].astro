@@ -69,6 +69,11 @@ const coverArtURL = getEpisodeCoverArtPath(slug);
         <h4 class="m-0 mb-[0.25em] text-text-muted">Episode {episode.episodeNumber}</h4>
         <h1 class="m-0 mb-[0.25em]">{episode.title}</h1>
         <time class="block mb-[2em] text-text-muted">{formattedDate}</time>
+
+        <blockquote>
+          <p>{episode.tagline}</p>
+        </blockquote>
+
         <astro-player
           data-title={episode.title}
           data-audio-url={audioURL}

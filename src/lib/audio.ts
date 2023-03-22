@@ -7,12 +7,12 @@ import { SITE_URL } from "src/config";
 const __filename = fileURLToPath(import.meta.url);
 
 export type AudioMetadata = {
-  url: string;
+  path: string;
   seconds: number;
   bytes: number;
 };
 
-export async function getEpisodeAudioMetadata(slug: string) {
+export async function getEpisodeAudioMetadata(slug: string): Promise<AudioMetadata> {
   const audioPath = path.join(
     path.dirname(__filename),
     "..",
@@ -28,7 +28,7 @@ export async function getEpisodeAudioMetadata(slug: string) {
   ]);
 
   return {
-    url: `/episodes/audio/${slug}.m4a`,
+    path: `/episodes/audio/${slug}.m4a`,
     seconds: Math.round(metadata.format.duration!),
     bytes: stats.size ?? metadata.native,
   }
