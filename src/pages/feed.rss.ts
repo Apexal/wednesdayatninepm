@@ -82,9 +82,10 @@ export const all: APIRoute = async () => {
         channel: {
           title: PODCAST_TITLE,
           "itunes:owner": {
+            "itunes:name": "Hollow Moon Studio",
             "itunes:email": PODCAST_EMAIL,
           },
-          "itunes:author": PODCAST_HOSTS.join(" / "),
+          "itunes:author": "Hollow Moon Studio",
           "itunes:category": "Society & Culture",
           description: PODCAST_DESCRIPTION,
           "itunes:image": {
