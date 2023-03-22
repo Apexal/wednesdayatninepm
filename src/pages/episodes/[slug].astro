@@ -67,28 +67,37 @@ const coverArtURL = getEpisodeCoverArtPath(slug);
     <Header />
     <main id="main">
       <section class="prose max-w-none prose-sleek">
-        <h1 class="m-0 mb-[0.25em]">{episode.title}</h1>
-        <time class="block mb-[2em] text-text-muted">Episode {episode.episodeNumber} | {formattedDate}</time>
+        <div class="overflow-hidden h-[350px] max-w-3xl flex items-center relative rounded-lg">
+          {
+            coverArtURL && (
+              <img
+                class="absolute pointer-events-none -top-1/2 left-0 w-full h-auto opacity-20 rounded-lg"
+                src={coverArtURL}
+                alt="Cover art for the episode"
+              />
+            )
+          }
+          <div class="z-10 flex-1 px-10">
+            <h1 class="m-0 mb-[0.25em]">{episode.title}</h1>
+            <time class="block mb-[2em] text-text-muted">Episode {episode.episodeNumber} | {formattedDate}</time>
 
-        <blockquote>
-          <strong>{EPISODE_PREFACE}</strong>
-          {episode.tagline}
-        </blockquote>
+            <blockquote>
+              <p>
+                <strong>{EPISODE_PREFACE}</strong>
+                <br>{" "}
+                {episode.tagline}
+              </p>
+            </blockquote>
+          </div>
+          
+        </div>
 
         <astro-player
           class="z-10"
           data-title={episode.title}
           data-audio-url={audioURL}
           data-cover-art-url={coverArtURL}></astro-player>
-        {
-          coverArtURL && (
-            <img
-              class="rounded-lg border-2"
-              src={coverArtURL}
-              alt="Cover art for the episode"
-            />
-          )
-        }
+        
         <Content />
 
         {
@@ -122,7 +131,7 @@ const coverArtURL = getEpisodeCoverArtPath(slug);
               <h2>Sources</h2>
 
               <ul>
-                {episode.sources.map(url => <li><a href={url}>{url}</a></li>)}  
+                {episode.sources.map(url => <li><a target="_blank" href={url}>{url}</a></li>)}  
               </ul>
             </div>
           )

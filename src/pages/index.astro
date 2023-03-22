@@ -1,10 +1,28 @@
 ---
 import PageLayout from "../layouts/PageLayout.astro";
-import Intro from "../components/Intro.astro";
+import { PODCAST_TITLE, PODCAST_TAGLINE, PODCAST_EMAIL } from "src/config";
 ---
 
 <PageLayout>
-  <Fragment slot="main">
-    <Intro />
-  </Fragment>
+  <section class="mb-8">
+    <div class="mb-4">
+      <h1
+        class="font-extrabold text-5xl md:text-6xl tracking-tight pt-4 pb-2 overflow-hidden"
+      >
+        <span
+          class="bg-gradient-to-br from-[#fb923c] via-[#f97316] to-[#ea580c] dark:from-primary-main dark:via-primary-main dark:to-primary-main bg-clip-text text-transparent"
+        >
+          {PODCAST_TITLE}
+        </span>
+      </h1>
+      <p class="text-2xl pb-4">{PODCAST_TAGLINE}</p>
+    </div>
+    <div class="space-y-5">
+      <p >
+        Hello! Welcome to the website for our podcast. We are 3 young students/professionals with backgrounds in Economics, Electrical Engineering, and Computer Science in New York. We are interested in the possible existence of the paranormal and supernatural. We often hear and share stories with each other.   
+      </p>
+      <p>We decided to turn those conversations into a podcast you can listen along to.</p>
+      <p>Contact us at <a href={"mailto:" + PODCAST_EMAIL}>{PODCAST_EMAIL}</a>.</p>
+    </div>
+  </section>
 </PageLayout>
