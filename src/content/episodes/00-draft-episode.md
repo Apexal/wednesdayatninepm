@@ -1,8 +1,14 @@
 ---
 draft: false
-title: "0: The False Science of Economics"
+episodeNumber: 0
+title: "Show Trailer"
+tagline: A trailer for our show.
 description: Testing the podcast site and feed!
-date: 2000-01-11T07:30:00Z
+publishedAt: 2023-03-22T21:00:00Z
+hosts:
+    - Frank Matranga
+guests:
+    - Ryan the Skeleton
 ---
 
 

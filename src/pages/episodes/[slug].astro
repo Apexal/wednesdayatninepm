@@ -1,0 +1,134 @@
+---
+import "shikwasa/dist/style.css";
+import "src/styles/global.css";
+
+import { CollectionEntry, getCollection } from "astro:content";
+import GoogleFont from "src/layouts/GoogleFont.astro";
+import FontAwesome from "src/layouts/FontAwesome.astro";
+import ThemeScript from "src/layouts/ThemeScript.astro";
+import Favicon from "src/layouts/Favicon.astro";
+import Header from "src/components/Header.astro";
+import Footer from "src/components/Footer.astro";
+
+import { PODCAST_TAGLINE, PODCAST_TITLE } from "src/config";
+import { getEpisodeCoverArtPath } from "src/lib/utils";
+
+export async function getStaticPaths() {
+  const episodeEntries = await getCollection("episodes", ({ data }) => {
+    return data.draft !== true;
+  });
+  return episodeEntries.map((entry) => ({
+    params: { slug: entry.slug },
+    props: { entry },
+  }));
+}
+
+interface Props {
+  entry: CollectionEntry<"episodes">;
+}
+
+const {
+  entry: { render, slug, data: episode },
+} = Astro.props;
+const { Content } = await render();
+
+const formattedDate = new Date(episode.publishedAt).toLocaleString("en-us", {
+  year: "numeric",
+  month: "short",
+  day: "numeric",
+  timeZone: "UTC",
+  hour: "numeric",
+  minute: "2-digit",
+});
+
+const audioURL = `/episodes/audio/${slug}.m4a`;
+const coverArtURL = getEpisodeCoverArtPath(slug);
+---
+
+<!DOCTYPE html>
+<html class="theme-sleek" lang="en">
+  <head>
+    <!-- Global Metadata -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="generator" content="Blogster" />
+    <Favicon />
+    <title>
+      {episode.title ? `${episode.title} | ${PODCAST_TITLE}` : PODCAST_TITLE}
+    </title>
+    <meta name="description" content={episode.tagline ?? PODCAST_TAGLINE} />
+    <GoogleFont />
+    <ThemeScript />
+    <FontAwesome />
+  </head>
+
+  <body class="min-h-screen max-w-3xl mx-auto px-6 sm:px-8 mb-36">
+    <Header />
+    <main id="main">
+      <section class="prose max-w-none prose-sleek">
+        <h4 class="m-0 mb-[0.25em] text-text-muted">Episode {episode.episodeNumber}</h4>
+        <h1 class="m-0 mb-[0.25em]">{episode.title}</h1>
+        <time class="block mb-[2em] text-text-muted">{formattedDate}</time>
+        <astro-player
+          data-title={episode.title}
+          data-audio-url={audioURL}
+          data-cover-art-url={coverArtURL}></astro-player>
+        {
+          coverArtURL && (
+            <img
+              class="rounded-lg border-2"
+              src={coverArtURL}
+              alt="Cover art for the episode"
+            />
+          )
+        }
+        <Content />
+      </section>
+    </main>
+    <Footer />
+    <style>
+      body {
+        display: grid;
+        grid-template-areas:
+          "header"
+          "main"
+          "footer";
+        grid-template-rows: 5rem minmax(0, 1fr) 5rem;
+        grid-template-columns: minmax(0, 1fr);
+      }
+      main {
+        grid-area: main;
+      }
+    </style>
+    <script>
+      import { Player } from "shikwasa";
+
+      class AstroPlayer extends HTMLElement {
+        constructor() {
+          super();
+          // Read the message from the data attribute.
+          const title = this.dataset.title;
+          const src = this.dataset.audioUrl;
+          const cover = this.dataset.coverArtUrl;
+
+          new Player({
+            container: this,
+            audio: {
+              title,
+              artist: "Wednesday at 9PM",
+              cover,
+              src,
+            },
+            fixed: {
+              type: "fixed",
+              position: "bottom",
+            },
+            download: true,
+          });
+        }
+      }
+
+      customElements.define("astro-player", AstroPlayer);
+    </script>
+  </body>
+</html>

@@ -4,11 +4,15 @@
 export const PODCAST_TITLE = "Wednesday at 9PM";
 export const PODCAST_LOGO_URL = "/logo.jpg";
 export const PODCAST_TAGLINE= "A very serious research podcast about weird, local stories."
-export const PODCAST_EMAIL = "fakeemail@email.com";
+export const PODCAST_EMAIL = "wednesdayatninepm@gmail.com";
 export const PODCAST_DESCRIPTION =
   "Beep boop write stuff here one day";
 
-export const PODCAST_AUTHOR = "Frank & Nick & Aaron";
+export const PODCAST_HOSTS = [
+  "Aaron Reers",
+  "Frank Matranga",
+  "Nicholas Oertel"
+];
 
 // setup in astro.config.mjs
 const BASE_URL = new URL(import.meta.env.SITE);
