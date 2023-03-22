@@ -18,6 +18,12 @@ const episodeCollection = defineCollection({
     guests: z.array(z.string()).optional(),
     // 1000-character episode description shown in podcast apps
     description: z.string(),
+    locations: z.array(z.object({
+      name: z.string(),
+      lat: z.number(),
+      long: z.number(),
+    })).optional(),
+    sources: z.array(z.string()).optional()
   }),
 });
 

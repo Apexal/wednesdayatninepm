@@ -1,5 +1,6 @@
 ---
 import "shikwasa/dist/style.css";
+import "leaflet/dist/leaflet.css";
 import "src/styles/global.css";
 
 import { CollectionEntry, getCollection } from "astro:content";
@@ -66,15 +67,16 @@ const coverArtURL = getEpisodeCoverArtPath(slug);
     <Header />
     <main id="main">
       <section class="prose max-w-none prose-sleek">
-        <h4 class="m-0 mb-[0.25em] text-text-muted">Episode {episode.episodeNumber}</h4>
         <h1 class="m-0 mb-[0.25em]">{episode.title}</h1>
-        <time class="block mb-[2em] text-text-muted">{formattedDate}</time>
+        <time class="block mb-[2em] text-text-muted">Episode {episode.episodeNumber} | {formattedDate}</time>
 
         <blockquote>
-          <p>{episode.tagline}</p>
+          <strong>This Wednesday night at 9pm at midnight at 3am in a cemetery...</strong>
+          {episode.tagline}
         </blockquote>
 
         <astro-player
+          class="z-10"
           data-title={episode.title}
           data-audio-url={audioURL}
           data-cover-art-url={coverArtURL}></astro-player>
@@ -88,6 +90,43 @@ const coverArtURL = getEpisodeCoverArtPath(slug);
           )
         }
         <Content />
+
+        {
+          episode.locations && (
+            <div id="locations" class="mt-16">
+              <h2>
+                Discussed Locations
+              </h2>
+              {episode.locations.map((location, index) => (
+                <div>
+                  <h3>{location.name}</h3>
+                  <astro-map
+                    data-map-id={"map-" + index}
+                    data-lat={location.lat}
+                    data-long={location.long}
+                  >
+                    <div
+                      id={"map-" + index}
+                      class="w-full h-[500px] border-2 rounded-lg"
+                    />
+                  </astro-map>
+                </div>
+              ))}
+            </div>
+          )
+        }
+
+        {
+          episode.sources && (
+            <div id="sources" class="mt-16">
+              <h2>Sources</h2>
+
+              <ul>
+                {episode.sources.map(url => <li><a href={url}>{url}</a></li>)}  
+              </ul>
+            </div>
+          )
+        }
       </section>
     </main>
     <Footer />
@@ -106,6 +145,7 @@ const coverArtURL = getEpisodeCoverArtPath(slug);
       }
     </style>
     <script>
+      import L from "leaflet";
       import { Player } from "shikwasa";
 
       class AstroPlayer extends HTMLElement {
@@ -128,13 +168,28 @@ const coverArtURL = getEpisodeCoverArtPath(slug);
               type: "fixed",
               position: "bottom",
             },
-            themeColor: 'rgb(var(--color-text-link))',
+            themeColor: "rgb(var(--color-text-link))",
             download: true,
           });
         }
       }
 
+      class AstroMap extends HTMLElement {
+        constructor() {
+          super();
+          // Read the message from the data attribute.
+          const { mapId, lat, long } = this.dataset;
+          const map = L.map(mapId).setView([lat, long], 13);
+          L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+            maxZoom: 19,
+            attribution:
+              '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+          }).addTo(map);
+        }
+      }
+
       customElements.define("astro-player", AstroPlayer);
+      customElements.define("astro-map", AstroMap);
     </script>
   </body>
 </html>
