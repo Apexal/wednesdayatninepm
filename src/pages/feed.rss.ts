@@ -59,6 +59,10 @@ const entryToItem = ({
     "#text": name,
     "@role": "guest"
   })) ?? []],
+  "podcast:location": episode.locations?.map(loc => ({
+    "#text": loc.name,
+    "@geo": `geo:${loc.lat}.${loc.long}`
+  })),
   "podcast:episode": episode.episodeNumber,
 });
 
