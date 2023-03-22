@@ -18,9 +18,6 @@ sources:
     - https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md#person
 ---
 
-
-## This Wednesday night at 9pm at midnight at 3am in a cemetery...
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor magna eget est lorem ipsum dolor sit amet consectetur. Est velit egestas dui id. Nulla facilisi etiam dignissim diam quis enim. Laoreet sit amet cursus sit amet dictum. Eget nullam non nisi est. Mauris in aliquam sem fringilla ut morbi tincidunt augue. Luctus accumsan tortor posuere ac ut consequat semper. Elementum nisi quis eleifend quam adipiscing vitae. Quis auctor elit sed vulputate mi sit amet mauris.
 
 Pretium aenean pharetra magna ac placerat vestibulum lectus. Non consectetur a erat nam at lectus urna duis. In metus vulputate eu scelerisque. Nisl vel pretium lectus quam. In hac habitasse platea dictumst quisque sagittis purus sit amet. Id semper risus in hendrerit gravida rutrum quisque non. Arcu odio ut sem nulla. Risus at ultrices mi tempus imperdiet nulla malesuada pellentesque elit. Vitae proin sagittis nisl rhoncus mattis rhoncus. Iaculis urna id volutpat lacus laoreet. Quam vulputate dignissim suspendisse in. Volutpat diam ut venenatis tellus in metus vulputate. Porta lorem mollis aliquam ut porttitor leo a diam sollicitudin.

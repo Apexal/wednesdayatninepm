@@ -7,6 +7,7 @@ export const PODCAST_TAGLINE= "A very serious research podcast about weird, loca
 export const PODCAST_EMAIL = "wednesdayatninepm@gmail.com";
 export const PODCAST_DESCRIPTION =
   "Beep boop write stuff here one day";
+export const EPISODE_PREFACE = "This Wednesday night at 9pm at midnight at 3am in a cemetery...";
 
 export const PODCAST_HOSTS = [
   "Aaron Reers",

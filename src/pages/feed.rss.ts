@@ -8,10 +8,11 @@ import {
   PODCAST_LOGO_URL,
   PODCAST_TITLE,
   SITE_URL,
+  EPISODE_PREFACE,
 } from "src/config";
 import XMLBuilder from "xmlbuilder";
 import { AudioMetadata, getEpisodeAudioMetadata } from "src/lib/audio";
-import { getEpisodePath } from "src/lib/utils";
+import { getEpisodeCoverArtPath, getEpisodePath } from "src/lib/utils";
 
 const publishedEpisodeEntries = await getCollection("episodes", ({ data }) => {
   return data.draft !== true;
@@ -40,12 +41,10 @@ const entryToItem = ({
   entry: CollectionEntry<"episodes">;
   audioMetadata: AudioMetadata;
 }) => ({
-  guid: {
-    "@isPermaLink": true,
-    "#text": SITE_URL + getEpisodePath(slug),
-  },
+  guid: SITE_URL + getEpisodePath(slug),
   link: SITE_URL + getEpisodePath(slug),
   title: episode.title,
+  "itunes:summary": EPISODE_PREFACE + episode.tagline,
   description: episode.description,
   pubDate: episode.publishedAt.toUTCString(),
   "itunes:explicit": episode.explicit ? "yes" : "no",
@@ -54,6 +53,9 @@ const entryToItem = ({
     "@type": "audio/m4a",
     "@length": audioMetadata.bytes,
   },
+  "itunes:image": {
+    "@href": SITE_URL + getEpisodeCoverArtPath(slug),
+  },
   "itunes:duration": audioMetadata.seconds,
   "podcast:person": [...episode.hosts ?? [], ...episode.guests?.map(name => ({
     "#text": name,
@@ -61,7 +63,7 @@ const entryToItem = ({
   })) ?? []],
   "podcast:location": episode.locations?.map(loc => ({
     "#text": loc.name,
-    "@geo": `geo:${loc.lat}.${loc.long}`
+    "@geo": `geo:${loc.lat},${loc.long}`
   })),
   "podcast:episode": episode.episodeNumber,
 });

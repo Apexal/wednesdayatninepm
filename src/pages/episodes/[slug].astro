@@ -11,7 +11,7 @@ import Favicon from "src/layouts/Favicon.astro";
 import Header from "src/components/Header.astro";
 import Footer from "src/components/Footer.astro";
 
-import { PODCAST_TAGLINE, PODCAST_TITLE } from "src/config";
+import { EPISODE_PREFACE, PODCAST_TAGLINE, PODCAST_TITLE } from "src/config";
 import { getEpisodeCoverArtPath } from "src/lib/utils";
 
 export async function getStaticPaths() {
@@ -71,7 +71,7 @@ const coverArtURL = getEpisodeCoverArtPath(slug);
         <time class="block mb-[2em] text-text-muted">Episode {episode.episodeNumber} | {formattedDate}</time>
 
         <blockquote>
-          <strong>This Wednesday night at 9pm at midnight at 3am in a cemetery...</strong>
+          <strong>{EPISODE_PREFACE}</strong>
           {episode.tagline}
         </blockquote>
 
