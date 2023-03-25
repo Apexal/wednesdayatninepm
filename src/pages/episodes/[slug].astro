@@ -11,7 +11,7 @@ import Favicon from "src/layouts/Favicon.astro";
 import Header from "src/components/Header.astro";
 import Footer from "src/components/Footer.astro";
 
-import { EPISODE_PREFACE, PODCAST_TAGLINE, PODCAST_TITLE } from "src/config";
+import { EPISODE_PREFACE, PODCAST_HOSTS, PODCAST_TAGLINE, PODCAST_TITLE } from "src/config";
 import { getEpisodeAudioPath, getEpisodeCoverArtPath } from "src/lib/utils";
 
 export async function getStaticPaths() {
@@ -127,6 +127,17 @@ const coverArtURL = getEpisodeCoverArtPath(slug);
             </div>
           )
         }
+
+        
+        <div id="participants" class="mt-16">
+          <h2>In This Episode</h2>
+
+          <ul>
+            {(episode.hosts ?? PODCAST_HOSTS).map(name => <li>{name} <span class="text-text-muted">Host</span></li>)}  
+            {episode.guests?.map(name => <li>{name} <span class="text-text-muted">Guest</span></li>)}  
+          </ul>
+        </div>
+      
 
         {
           episode.sources && (
