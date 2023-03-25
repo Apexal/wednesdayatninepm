@@ -11,8 +11,12 @@ import {
   EPISODE_PREFACE,
 } from "src/config";
 import XMLBuilder from "xmlbuilder";
-import { AudioMetadata, getEpisodeAudioMetadata } from "src/lib/audio";
-import { getEpisodeCoverArtPath, getEpisodePath } from "src/lib/utils";
+import {
+  AudioMetadata,
+  getEpisodeAudioMetadata,
+  getEpisodeCoverArtPath,
+  getEpisodePath,
+} from "src/lib/utils";
 
 const publishedEpisodeEntries = await getCollection("episodes", ({ data }) => {
   return data.draft !== true;
@@ -57,13 +61,16 @@ const entryToItem = ({
     "@href": SITE_URL + getEpisodeCoverArtPath(slug),
   },
   "itunes:duration": audioMetadata.seconds,
-  "podcast:person": [...episode.hosts ?? [], ...episode.guests?.map(name => ({
-    "#text": name,
-    "@role": "guest"
-  })) ?? []],
-  "podcast:location": episode.locations?.map(loc => ({
+  "podcast:person": [
+    ...(episode.hosts ?? []),
+    ...(episode.guests?.map((name) => ({
+      "#text": name,
+      "@role": "guest",
+    })) ?? []),
+  ],
+  "podcast:location": episode.locations?.map((loc) => ({
     "#text": loc.name,
-    "@geo": `geo:${loc.lat},${loc.long}`
+    "@geo": `geo:${loc.lat},${loc.long}`,
   })),
   "podcast:episode": episode.episodeNumber,
 });
@@ -91,10 +98,13 @@ export const all: APIRoute = async () => {
           "itunes:image": {
             "@href": SITE_URL + PODCAST_LOGO_URL,
           },
-          "podcast:person": [...PODCAST_HOSTS, {
-            "#text": "Ryan the Skeleton",
-            "@role": "guest"
-          }],
+          "podcast:person": [
+            ...PODCAST_HOSTS,
+            {
+              "#text": "Ryan the Skeleton",
+              "@role": "guest",
+            },
+          ],
           language: "en-us",
           link: SITE_URL,
           item: sortedEpisodeEntriesWithAudioMetadata.map(entryToItem),
