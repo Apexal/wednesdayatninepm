@@ -4,7 +4,10 @@ import path from "path";
 import { stat } from "node:fs/promises";
 import { SITE_URL } from "src/config";
 
-export const getEpisodePath = (slug: string) => `/episodes/${slug}`;
+export const getEpisodePagePath = (slug: string) => `/episodes/${slug}`;
+
+export const getEpisodeAudioPath = (slug: string) =>
+  `/episodes/audio/${slug}.m4a`;
 
 export const getEpisodeCoverArtPath = (slug: string) =>
   `/episodes/coverart/${slug}.jpg`;
@@ -35,8 +38,8 @@ export async function getEpisodeAudioMetadata(
   ]);
 
   return {
-    path: `/episodes/audio/${slug}.m4a`,
+    path: getEpisodeAudioPath(slug),
     seconds: Math.round(metadata.format.duration!),
-    bytes: stats.size ?? metadata.native,
+    bytes: stats.size,
   };
 }

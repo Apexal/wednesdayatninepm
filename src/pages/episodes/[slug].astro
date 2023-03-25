@@ -12,7 +12,7 @@ import Header from "src/components/Header.astro";
 import Footer from "src/components/Footer.astro";
 
 import { EPISODE_PREFACE, PODCAST_TAGLINE, PODCAST_TITLE } from "src/config";
-import { getEpisodeCoverArtPath } from "src/lib/utils";
+import { getEpisodeAudioPath, getEpisodeCoverArtPath } from "src/lib/utils";
 
 export async function getStaticPaths() {
   const episodeEntries = await getCollection("episodes", ({ data }) => {
@@ -42,7 +42,7 @@ const formattedDate = new Date(episode.publishedAt).toLocaleString("en-us", {
   minute: "2-digit",
 });
 
-const audioURL = `/episodes/audio/${slug}.m4a`;
+const audioURL = getEpisodeAudioPath(slug);
 const coverArtURL = getEpisodeCoverArtPath(slug);
 ---
 

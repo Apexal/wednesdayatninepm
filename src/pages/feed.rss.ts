@@ -8,14 +8,13 @@ import {
   PODCAST_LOGO_URL,
   PODCAST_TITLE,
   SITE_URL,
-  EPISODE_PREFACE,
 } from "src/config";
 import XMLBuilder from "xmlbuilder";
 import {
   AudioMetadata,
   getEpisodeAudioMetadata,
   getEpisodeCoverArtPath,
-  getEpisodePath,
+  getEpisodePagePath,
 } from "src/lib/utils";
 
 const publishedEpisodeEntries = await getCollection("episodes", ({ data }) => {
@@ -45,10 +44,10 @@ const entryToItem = ({
   entry: CollectionEntry<"episodes">;
   audioMetadata: AudioMetadata;
 }) => ({
-  guid: SITE_URL + getEpisodePath(slug),
-  link: SITE_URL + getEpisodePath(slug),
+  guid: SITE_URL + getEpisodePagePath(slug),
+  link: SITE_URL + getEpisodePagePath(slug),
   title: episode.title,
-  "itunes:summary": EPISODE_PREFACE + episode.tagline,
+  "itunes:summary": episode.tagline,
   description: episode.description,
   pubDate: episode.publishedAt.toUTCString(),
   "itunes:explicit": episode.explicit ? "yes" : "no",
