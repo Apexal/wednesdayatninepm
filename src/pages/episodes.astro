@@ -1,7 +1,7 @@
 ---
 import PageLayout from "../layouts/PageLayout.astro";
 import { getCollection } from "astro:content";
-import { getEpisodePath } from "src/lib/utils"
+import { getEpisodePagePath } from "src/lib/utils"
 
 const publishedEpisodeEntries = await getCollection("episodes", ({ data }) => {
   return data.draft !== true;
@@ -30,7 +30,7 @@ const sortedEpisodeEntries = publishedEpisodeEntries.sort(
             <li class="grid grid-cols-[1fr] md:grid-cols-[1fr_auto] mb-3 md:gap-2 items-start">
               <div class="title">
                 <a
-                  href={getEpisodePath(slug)}
+                  href={getEpisodePagePath(slug)}
                   class="unset hover:text-text-link"
                   title={episode.tagline}
                 >

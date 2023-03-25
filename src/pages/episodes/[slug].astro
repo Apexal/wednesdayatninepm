@@ -63,23 +63,25 @@ const coverArtURL = getEpisodeCoverArtPath(slug);
     <FontAwesome />
   </head>
 
-  <body class="min-h-screen max-w-3xl mx-auto px-6 sm:px-8 mb-36">
-    <Header />
+  <body class="min-h-screen max-w-3xl mx-auto mb-36">
+    <div class="mx-auto px-6 sm:px-8 w-full flex">
+      <Header />
+    </div>
     <main id="main">
-      <section class="prose max-w-none prose-sleek">
-        <div class="overflow-hidden h-[350px] max-w-3xl flex items-center relative rounded-lg">
+      <section class="prose max-w-none prose-sleek sm:px-8">
+        <div class="overflow-hidden py-10 px-6 sm:px-8 max-w-3xl flex items-center relative sm:rounded-lg">
           {
             coverArtURL && (
               <img
-                class="absolute pointer-events-none -top-1/2 left-0 w-full h-auto opacity-20 rounded-lg"
+                class="absolute pointer-events-none top-0 left-0 -translate-y-1/4 w-full h-auto opacity-40"
                 src={coverArtURL}
                 alt="Cover art for the episode"
               />
             )
           }
-          <div class="z-10 flex-1 px-10">
+          <div class="z-10 flex-1 sm:px-8">
             <h1 class="m-0 mb-[0.25em]">{episode.title}</h1>
-            <time class="block mb-[2em] text-text-muted">Episode {episode.episodeNumber} | {formattedDate}</time>
+            <time class="block sm:mb-[2em]">Episode {episode.episodeNumber} | {formattedDate}</time>
 
             <blockquote>
               <p>
@@ -91,7 +93,8 @@ const coverArtURL = getEpisodeCoverArtPath(slug);
           </div>
           
         </div>
-
+    </section>
+    <section class="prose max-w-none prose-sleek px-6 sm:px-8">
         <astro-player
           class="z-10"
           data-title={episode.title}
@@ -131,7 +134,7 @@ const coverArtURL = getEpisodeCoverArtPath(slug);
               <h2>Sources</h2>
 
               <ul>
-                {episode.sources.map(url => <li><a target="_blank" href={url}>{url}</a></li>)}  
+                {episode.sources.map(url => <li><a target="_blank" href={url} class="break-all">{url}</a></li>)}  
               </ul>
             </div>
           )
