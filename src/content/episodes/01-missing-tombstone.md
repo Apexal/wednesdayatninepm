@@ -4,7 +4,13 @@ episodeNumber: 1
 title: The Missing Tombstone
 tagline: Frank reveals the story of Long Island's most haunted restaurant... and why the story might not add up. Don't trust French psychics!
 description: Not everything is as it seems at the Country House Restaurant in Stony Brook, New York. 18th and 19th century spirits are said to haunt the property, but the most striking story is that of Annette Williamson's cold blooded murder during the Revolutionary War in the building. Owners, workers, and restaurant patrons have had numerous encounters with her distressed spirit over the years. Local psychics, mediums, and paranormal investigators have claimed to contact her and hear her sad tale. Listen as Frank discusses the story of Long Island's most haunted restaurant... and why the historical details might not add up.
-publishedAt: 2023-03-31T21:00:00Z
+publishedAt: 2023-03-29T21:00:00Z
+hosts:
+    - Frank Matranga
+    - Nicholas Oertel
+    - Aaron Reers
+guests:
+    - Ryan the Skeleton
 locations:
     - name: Country House Restaurant, Stony Brook, NY
       lat: 40.91267
