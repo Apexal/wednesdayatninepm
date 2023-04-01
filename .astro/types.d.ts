@@ -83,6 +83,13 @@ declare module 'astro:content' {
   collection: "episodes",
   data: InferEntrySchema<"episodes">
 } & { render(): Render[".md"] },
+"01-missing-tombstone.md": {
+  id: "01-missing-tombstone.md",
+  slug: "01-missing-tombstone",
+  body: string,
+  collection: "episodes",
+  data: InferEntrySchema<"episodes">
+} & { render(): Render[".md"] },
 },
 
 	};

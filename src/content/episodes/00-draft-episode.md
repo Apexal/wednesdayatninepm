@@ -13,9 +13,6 @@ locations:
     - name: Menands, NY
       lat: 42.6906
       long: -73.7326
-sources:
-    - https://podcastpage.io/exploring-the-new-standard-for-podcast-rss-feeds/
-    - https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md#person
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor magna eget est lorem ipsum dolor sit amet consectetur. Est velit egestas dui id. Nulla facilisi etiam dignissim diam quis enim. Laoreet sit amet cursus sit amet dictum. Eget nullam non nisi est. Mauris in aliquam sem fringilla ut morbi tincidunt augue. Luctus accumsan tortor posuere ac ut consequat semper. Elementum nisi quis eleifend quam adipiscing vitae. Quis auctor elit sed vulputate mi sit amet mauris.
