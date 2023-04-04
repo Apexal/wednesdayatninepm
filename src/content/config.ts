@@ -14,7 +14,8 @@ const episodeCollection = defineCollection({
       invalid_type_error:
         "date must be written in ISO format in UTC timezonewithout quotes: For example, Jan 11, 2000 12:30pm EST should be written as 2000-01-11T07:30:00Z.",
     }),
-    hosts: z.array(z.string()).optional(),
+    hosts: z.array(z.string()),
+    cohosts: z.array(z.string()).optional(),
     guests: z.array(z.string()).optional(),
     // 1000-character episode description shown in podcast apps
     description: z.string(),

@@ -11,7 +11,12 @@ import Favicon from "src/layouts/Favicon.astro";
 import Header from "src/components/Header.astro";
 import Footer from "src/components/Footer.astro";
 
-import { EPISODE_PREFACE, PODCAST_HOSTS, PODCAST_TAGLINE, PODCAST_TITLE } from "src/config";
+import {
+  EPISODE_PREFACE,
+  PODCAST_HOSTS,
+  PODCAST_TAGLINE,
+  PODCAST_TITLE,
+} from "src/config";
 import { getEpisodeAudioPath, getEpisodeCoverArtPath } from "src/lib/utils";
 
 export async function getStaticPaths() {
@@ -69,7 +74,9 @@ const coverArtURL = getEpisodeCoverArtPath(slug);
     </div>
     <main id="main">
       <section class="prose max-w-none prose-sleek sm:px-8">
-        <div class="overflow-hidden py-10 px-6 sm:px-8 max-w-3xl flex items-center relative sm:rounded-lg">
+        <div
+          class="overflow-hidden py-10 px-6 sm:px-8 max-w-3xl flex items-center relative sm:rounded-lg"
+        >
           {
             coverArtURL && (
               <img
@@ -81,34 +88,33 @@ const coverArtURL = getEpisodeCoverArtPath(slug);
           }
           <div class="z-10 flex-1 sm:px-8">
             <h1 class="m-0 mb-[0.25em]">{episode.title}</h1>
-            <time class="block sm:mb-[2em]">Episode {episode.episodeNumber} | {formattedDate}</time>
+            <time class="block sm:mb-[2em]"
+              >Episode {episode.episodeNumber} | {formattedDate}</time
+            >
 
             <blockquote>
               <p>
                 <strong>{EPISODE_PREFACE}</strong>
-                <br>{" "}
+                <br />{" "}
                 {episode.tagline}
               </p>
             </blockquote>
           </div>
-          
         </div>
-    </section>
-    <section class="prose max-w-none prose-sleek px-6 sm:px-8">
+      </section>
+      <section class="prose max-w-none prose-sleek px-6 sm:px-8">
         <astro-player
           class="z-10"
           data-title={episode.title}
           data-audio-url={audioURL}
           data-cover-art-url={coverArtURL}></astro-player>
-        
+
         <Content />
 
         {
           episode.locations && (
             <div id="locations" class="mt-16">
-              <h2>
-                Discussed Locations
-              </h2>
+              <h2>Discussed Locations</h2>
               {episode.locations.map((location, index) => (
                 <div>
                   <h3>{location.name}</h3>
@@ -128,13 +134,34 @@ const coverArtURL = getEpisodeCoverArtPath(slug);
           )
         }
 
-        
         <div id="participants" class="mt-16">
           <h2>In This Episode</h2>
 
           <ul>
-            {(episode.hosts ?? PODCAST_HOSTS).map(name => <li>{name} <span class="text-text-muted">Host</span></li>)}  
-            {episode.guests?.map(name => <li>{name} <span class="text-text-muted">Guest</span></li>)}  
+            {
+              (episode.hosts ?? PODCAST_HOSTS).map((name) => (
+                <li>
+                  {name}{" "}
+                  <span class="text-text-muted">
+                    Host (Storyteller + Researcher)
+                  </span>
+                </li>
+              ))
+            }
+            {
+              (episode.cohosts ?? []).map((name) => (
+                <li>
+                  {name} <span class="text-text-muted">Co-Host</span>
+                </li>
+              ))
+            }
+            {
+              episode.guests?.map((name) => (
+                <li>
+                  {name} <span class="text-text-muted">Guest</span>
+                </li>
+              ))
+            }
           </ul>
         </div>
       </section>

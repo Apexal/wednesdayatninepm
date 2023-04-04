@@ -8,6 +8,7 @@ import {
   PODCAST_LOGO_URL,
   PODCAST_TITLE,
   SITE_URL,
+  PODCAST_PRODUCERS,
 } from "src/config";
 import XMLBuilder from "xmlbuilder";
 import {
@@ -61,7 +62,14 @@ const entryToItem = ({
   },
   "itunes:duration": audioMetadata.seconds,
   "podcast:person": [
-    ...(episode.hosts ?? []),
+    ...(episode.hosts ?? PODCAST_HOSTS).map((name) => ({
+      "@role": "host",
+      "#text": name,
+    })),
+    ...(episode.cohosts ?? []).map((name) => ({
+      "@role": "co-host",
+      "#text": name,
+    })),
     ...(episode.guests?.map((name) => ({
       "#text": name,
       "@role": "guest",
@@ -98,10 +106,17 @@ export const all: APIRoute = async () => {
             "@href": SITE_URL + PODCAST_LOGO_URL,
           },
           "podcast:person": [
-            ...PODCAST_HOSTS,
+            ...PODCAST_PRODUCERS.map((name) => ({
+              "@role": "producer",
+              "#text": name,
+            })),
+            ...PODCAST_HOSTS.map((name) => ({
+              "@role": "host",
+              "#text": name,
+            })),
             {
-              "#text": "Ryan the Skeleton",
               "@role": "guest",
+              "#text": "Ryan the Skeleton",
             },
           ],
           language: "en-us",
