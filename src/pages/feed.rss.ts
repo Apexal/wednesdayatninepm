@@ -58,7 +58,7 @@ const entryToItem = ({
     "@length": audioMetadata.bytes,
   },
   "itunes:image": {
-    "@href": SITE_URL + getEpisodeCoverArtPath(slug),
+    "@href": SITE_URL + getEpisodePagePath(slug) + ".jpg",
   },
   "itunes:duration": audioMetadata.seconds,
   "podcast:person": [
