@@ -26,7 +26,7 @@ export const get: APIRoute = async function get({ params, request }) {
     "..",
     "..",
     "..",
-    SITE_URL.includes("localhost") ? "public" : ".",
+    "public",
     getEpisodeCoverArtPath(slug)
   );
 
