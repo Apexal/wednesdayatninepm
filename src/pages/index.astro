@@ -1,6 +1,20 @@
 ---
+import { getCollection } from "astro:content";
 import PageLayout from "../layouts/PageLayout.astro";
 import { PODCAST_TITLE, PODCAST_TAGLINE, PODCAST_EMAIL } from "src/config";
+import { getEpisodeCoverArtPath, getEpisodePagePath } from "src/lib/utils";
+
+const publishedEpisodeEntries = await getCollection("episodes", ({ data }) => {
+  return data.draft !== true;
+});
+
+const sortedEpisodeEntries = publishedEpisodeEntries.sort(
+  (a, b) =>
+    new Date(b.data.publishedAt).valueOf() -
+    new Date(a.data.publishedAt).valueOf()
+);
+
+const latestEpisode = sortedEpisodeEntries[0];
 ---
 
 <PageLayout>
@@ -18,11 +32,42 @@ import { PODCAST_TITLE, PODCAST_TAGLINE, PODCAST_EMAIL } from "src/config";
       <p class="text-2xl pb-4">{PODCAST_TAGLINE}</p>
     </div>
     <div class="space-y-5">
-      <p >
-        Hello! Welcome to the website for our podcast. We are 3 young students/professionals with backgrounds in Economics, Electrical Engineering, and Computer Science in New York. We are interested in the possible existence of the paranormal and supernatural. We often hear and share stories with each other.   
+      <p>
+        Hello! Welcome to the website for our podcast. We are 3 young
+        students/professionals with backgrounds in Economics, Electrical
+        Engineering, and Computer Science in New York. We are interested in the
+        possible existence of the paranormal and supernatural. We often hear and
+        share stories with each other.
       </p>
-      <p>We decided to turn those conversations into a podcast you can listen along to.</p>
-      <p>Contact us at <a href={"mailto:" + PODCAST_EMAIL}>{PODCAST_EMAIL}</a>.</p>
+      <p>
+        We decided to turn those conversations into a podcast you can listen
+        along to.
+      </p>
+      <p>
+        Contact us at <a href={"mailto:" + PODCAST_EMAIL}>{PODCAST_EMAIL}</a>.
+      </p>
     </div>
+    {
+      latestEpisode && (
+        <div class="rounded-lg flex mt-10 bg-gray-100 text-gray-800 max-w-lg">
+          <div class="flex-1 flex flex-col py-4 px-7 justify-center">
+            <p class="font-semibold">
+              <span>Episode {latestEpisode.data.episodeNumber}:</span>{" "}
+              <span>{latestEpisode.data.title}</span>
+            </p>
+            <p>
+              <a href={getEpisodePagePath(latestEpisode.slug)}>Listen Now</a>
+            </p>
+          </div>
+          <div>
+            <img
+              class="h-24 hidden sm:block rounded-tr-lg rounded-br-lg"
+              src={getEpisodeCoverArtPath(latestEpisode.slug)}
+              alt="Episode thumbnail"
+            />
+          </div>
+        </div>
+      )
+    }
   </section>
 </PageLayout>
