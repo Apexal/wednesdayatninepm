@@ -20,8 +20,8 @@ export const personToItemPerson =
     return {
       "@role": role,
       "#text": person.name,
-      href: person.url,
-      img: person.imgUrl,
+      "@href": person.url,
+      "@img": person.imgUrl,
     };
   };
 
