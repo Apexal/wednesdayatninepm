@@ -24,14 +24,12 @@ const { title } = Astro.props;
 ---
 
 <!DOCTYPE html>
-<html class="theme-sleek" lang="en">
+<html class="theme-sleek dark" lang="en">
   <head>
-    <!-- Global Metadata -->
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <meta name="generator" content="Blogster" />
     <title>{title ? `${title} | ${PODCAST_TITLE}` : PODCAST_TITLE}</title>
-    <meta name="description" content={PODCAST_TAGLINE}>
+    <meta name="description" content={PODCAST_TAGLINE} />
     <Favicon />
     <slot name="meta" />
     <GoogleFont />
@@ -39,9 +37,7 @@ const { title } = Astro.props;
     <FontAwesome />
   </head>
 
-  <body
-    class="min-h-screen max-w-3xl mx-auto px-6 sm:px-8"
-  >
+  <body class="min-h-screen max-w-3xl mx-auto px-6 sm:px-8">
     <Header />
     <main id="main">
       <slot />

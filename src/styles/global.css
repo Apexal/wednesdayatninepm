@@ -9,39 +9,8 @@
     https://tailwindcss.com/docs/customizing-colors#using-css-variables 
 */
 @layer base {
-  /* light theme */
-  .theme-sleek {
-    /* Tailwind orange-500 #f97316 */
-    --color-primary-main: 249 115 22;
-
-    /* Tailwind gray-700 #374151 */
-    --color-text-body: 55 65 81;
-    /* Tailwind gray-700 #374151 */
-    --color-text-heading: 55 65 81;
-    /* Tailwind gray-700 #374151 */
-    --color-text-bold: 55 65 81;
-    /* Tailwind gray-500 #6b7280 */
-    --color-text-muted: 107 114 128;
-    /* Tailwind orange-500 #f97316 */
-    --color-text-link: 249 115 22;
-    /* black */
-    --color-text-code: 0 0 0;
-    /* black */
-    --color-text-selection: 0 0 0;
-
-    /* white */
-    --color-bg-body: 255 255 255;
-    /* Tailwind orange-50 #fff7ed */
-    --color-bg-code: 255 247 237;
-    /* Tailwind amber-200 #fde68a */
-    --color-bg-selection: 253 230 138;
-
-    /* Tailwind orange-100 #ffedd5 */
-    --color-border-code: 255 237 213;
-  }
-
   /* dark theme */
-  .theme-sleek.dark {
+  .theme-sleek {
     /* Tailwind yellow-400 #facc15 */
     --color-primary-main: 250 204 21;
 
@@ -134,7 +103,7 @@
     margin-bottom: 1.25em;
   }
 
-  html.dark code:not(pre code) {
+  html code:not(pre code) {
     background-color: rgb(var(--color-bg-code) / 0.15);
     border-color: rgb(var(--color-border-code) / 0.15);
   }
