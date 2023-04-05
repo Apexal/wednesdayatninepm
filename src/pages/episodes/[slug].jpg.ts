@@ -3,7 +3,6 @@ import Jimp from "jimp";
 import { getEpisodeCoverArtPath } from "src/lib/utils";
 import { fileURLToPath } from "url";
 import path from "path";
-import { SITE_URL } from "src/podcast";
 import { getCollection } from "astro:content";
 
 const __filename = fileURLToPath(import.meta.url);

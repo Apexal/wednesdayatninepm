@@ -9,12 +9,7 @@ export const PODCAST_DESCRIPTION =
   "Join Frank, Nick, and Aaron as they research and present local strange stories that will make you question the validity of their STEM degrees.";
 export const EPISODE_PREFACE =
   "This Wednesday night at 9pm at midnight at 3am in a cemetery... ";
-export const PODCAST_PRODUCERS = ["Frank Matranga"];
-export const PODCAST_HOSTS = [
-  "Aaron Reers",
-  "Frank Matranga",
-  "Nicholas Oertel",
-];
+export const PODCAST_HOSTS: PEOPLE_NAME[] = ["Aaron", "Frank", "Nick"];
 
 export type Person = {
   name: string;
@@ -23,6 +18,7 @@ export type Person = {
 };
 
 export const PEOPLE_NAMES = ["Frank", "Nick", "Aaron"] as const;
+export type PEOPLE_NAME = (typeof PEOPLE_NAMES)[number];
 export const PEOPLE: Record<(typeof PEOPLE_NAMES)[number], Person> = {
   Frank: {
     name: "Frank Matranga",

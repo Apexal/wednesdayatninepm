@@ -101,14 +101,7 @@ export const all: APIRoute = async () => {
             "@href": SITE_URL + PODCAST_LOGO_URL,
           },
           "podcast:person": [
-            ...PODCAST_PRODUCERS.map((name) => ({
-              "@role": "producer",
-              "#text": name,
-            })),
-            ...PODCAST_HOSTS.map((name) => ({
-              "@role": "host",
-              "#text": name,
-            })),
+            ...PODCAST_HOSTS.map(personToItemPerson("host")),
             {
               "@role": "guest",
               "#text": "Ryan the Skeleton",

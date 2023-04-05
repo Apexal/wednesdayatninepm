@@ -2,7 +2,7 @@ import { fileURLToPath } from "url";
 import { parseFile } from "music-metadata";
 import path from "path";
 import { stat } from "node:fs/promises";
-import { PEOPLE, PEOPLE_NAMES, Person, SITE_URL } from "src/podcast";
+import { PEOPLE, PEOPLE_NAME, SITE_URL } from "src/podcast";
 
 export const getEpisodePagePath = (slug: string) => `/episodes/${slug}`;
 
@@ -14,16 +14,22 @@ export const getEpisodeCoverArtPath = (slug: string) =>
 
 const __filename = fileURLToPath(import.meta.url);
 
-export const personToItemPerson =
-  (role: string) => (nickname: (typeof PEOPLE_NAMES)[number]) => {
-    const person = PEOPLE[nickname];
+export const personToItemPerson = (role: string) => (nickname: string) => {
+  if (nickname in PEOPLE) {
+    const person = PEOPLE[nickname as PEOPLE_NAME];
     return {
       "@role": role,
       "#text": person.name,
       "@href": person.url,
       "@img": person.imgUrl,
     };
-  };
+  } else {
+    return {
+      "@role": role,
+      "#text": nickname,
+    };
+  }
+};
 
 export type AudioMetadata = {
   path: string;
