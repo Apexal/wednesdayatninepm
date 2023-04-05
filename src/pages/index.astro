@@ -1,7 +1,7 @@
 ---
 import { getCollection } from "astro:content";
 import PageLayout from "../layouts/PageLayout.astro";
-import { PODCAST_TITLE, PODCAST_TAGLINE, PODCAST_EMAIL } from "src/config";
+import { PODCAST_TITLE, PODCAST_TAGLINE, PODCAST_EMAIL } from "src/podcast";
 import { getEpisodeCoverArtPath, getEpisodePagePath } from "src/lib/utils";
 
 const publishedEpisodeEntries = await getCollection("episodes", ({ data }) => {

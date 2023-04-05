@@ -2,7 +2,7 @@ import { fileURLToPath } from "url";
 import { parseFile } from "music-metadata";
 import path from "path";
 import { stat } from "node:fs/promises";
-import { SITE_URL } from "src/config";
+import { SITE_URL } from "src/podcast";
 
 export const getEpisodePagePath = (slug: string) => `/episodes/${slug}`;
 

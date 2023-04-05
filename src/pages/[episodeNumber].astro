@@ -1,0 +1,26 @@
+---
+import { getCollection } from "astro:content";
+import { getEpisodePagePath } from "src/lib/utils";
+import { SITE_URL } from "src/podcast";
+
+export async function getStaticPaths() {
+  const episodeEntries = await getCollection("episodes", ({ data }) => {
+    return data.draft !== true;
+  });
+  return episodeEntries.map((entry) => ({
+    params: { episodeNumber: entry.data.episodeNumber },
+    props: { slug: entry.slug },
+  }));
+}
+
+interface Props {
+  slug: string;
+}
+
+const { slug } = Astro.props;
+---
+
+<meta
+  http-equiv="refresh"
+  content={`0;url=${SITE_URL + getEpisodePagePath(slug)}`}
+/>
