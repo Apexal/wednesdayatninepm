@@ -6,7 +6,7 @@ tagline: We discuss the upcoming podcast and test our the RSS feed.
 description: Testing the podcast site and feed!
 publishedAt: 2023-03-22T21:00:00Z
 hosts:
-    - Frank Matranga
+    - Frank
 guests:
     - Ryan the Skeleton
 locations:

@@ -9,13 +9,14 @@ import {
   PODCAST_TITLE,
   SITE_URL,
   PODCAST_PRODUCERS,
-} from "src/config";
+  PEOPLE,
+} from "src/podcast";
 import XMLBuilder from "xmlbuilder";
 import {
   AudioMetadata,
   getEpisodeAudioMetadata,
-  getEpisodeCoverArtPath,
   getEpisodePagePath,
+  personToItemPerson,
 } from "src/lib/utils";
 
 const publishedEpisodeEntries = await getCollection("episodes", ({ data }) => {
@@ -62,14 +63,8 @@ const entryToItem = ({
   },
   "itunes:duration": audioMetadata.seconds,
   "podcast:person": [
-    ...(episode.hosts ?? PODCAST_HOSTS).map((name) => ({
-      "@role": "host",
-      "#text": name,
-    })),
-    ...(episode.cohosts ?? []).map((name) => ({
-      "@role": "co-host",
-      "#text": name,
-    })),
+    ...(episode.hosts ?? PODCAST_HOSTS).map(personToItemPerson("host")),
+    ...(episode.cohosts ?? []).map(personToItemPerson("co-host")),
     ...(episode.guests?.map((name) => ({
       "#text": name,
       "@role": "guest",
