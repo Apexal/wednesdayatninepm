@@ -50,9 +50,13 @@ const entryToItem = ({
   link: SITE_URL + getEpisodePagePath(slug),
   title: episode.title,
   "itunes:summary": episode.tagline,
-  description: `<![CDATA[${episode.description}<br><br><a href='${
-    SITE_URL + getEpisodePagePath(slug)
-  }'>View show notes and sources</a>]]>`,
+  description: `<![CDATA[
+    <p>${episode.description}</p>
+    <br><br>
+    <a href='${
+      SITE_URL + getEpisodePagePath(slug)
+    }'>View show notes and sources</a>
+  ]]>`,
   pubDate: episode.publishedAt.toUTCString(),
   "itunes:explicit": episode.explicit ? "yes" : "no",
   enclosure: {
