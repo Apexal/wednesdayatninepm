@@ -12,6 +12,9 @@ export const getEpisodeAudioPath = (slug: string) =>
 export const getEpisodeCoverArtPath = (slug: string) =>
   `/episodes/coverart/${slug}.jpg`;
 
+export const getEpisodeImagesPath = (slug: string) =>
+  `/episodes/images/${slug}/`;
+
 const __filename = fileURLToPath(import.meta.url);
 
 export const personToItemPerson = (role: string) => (nickname: string) => {

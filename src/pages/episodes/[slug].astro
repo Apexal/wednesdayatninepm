@@ -17,7 +17,11 @@ import {
   PODCAST_TAGLINE,
   PODCAST_TITLE,
 } from "src/podcast";
-import { getEpisodeAudioPath, getEpisodeCoverArtPath } from "src/lib/utils";
+import {
+  getEpisodeAudioPath,
+  getEpisodeCoverArtPath,
+  getEpisodeImagesPath,
+} from "src/lib/utils";
 import Person from "src/components/Person.astro";
 
 export async function getStaticPaths() {
@@ -110,6 +114,26 @@ const coverArtURL = getEpisodeCoverArtPath(slug);
           data-cover-art-url={coverArtURL}></astro-player>
 
         <Content />
+
+        {
+          episode.images && (
+            <div id="images" class="mt-16">
+              <h2>Photographs</h2>
+              {episode.images.map((img) => (
+                <figure class="rounded-lg bg-black text-center">
+                  <img
+                    class="rounded-tl-lg rounded-tr-lg"
+                    src={getEpisodeImagesPath(slug) + img.fileName}
+                    alt={img.fileName}
+                  />
+                  <figcaption class="text-white px-2 pb-2">
+                    {img.description}
+                  </figcaption>
+                </figure>
+              ))}
+            </div>
+          )
+        }
 
         {
           episode.locations && (

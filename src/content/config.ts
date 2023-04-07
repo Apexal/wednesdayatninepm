@@ -1,7 +1,12 @@
 import { z, defineCollection } from "astro:content";
-import { PEOPLE, PEOPLE_NAMES } from "src/podcast";
+import { PEOPLE_NAMES } from "src/podcast";
 
 // https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md
+
+const episodeImage = z.object({
+  fileName: z.string(),
+  description: z.string(),
+});
 
 const episodeCollection = defineCollection({
   schema: z.object({
@@ -20,6 +25,7 @@ const episodeCollection = defineCollection({
     guests: z.array(z.string()).optional(),
     // 1000-character episode description shown in podcast apps
     description: z.string().max(1000),
+    images: z.array(episodeImage).optional(),
     locations: z
       .array(
         z.object({
