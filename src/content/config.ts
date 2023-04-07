@@ -35,6 +35,7 @@ const episodeCollection = defineCollection({
         })
       )
       .optional(),
+    sources: z.array(z.string().url()).optional(),
   }),
 });
 

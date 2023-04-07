@@ -23,6 +23,7 @@ import {
   getEpisodeImagesPath,
 } from "src/lib/utils";
 import Person from "src/components/Person.astro";
+import Source from "src/components/Source.astro";
 
 export async function getStaticPaths() {
   const episodeEntries = await getCollection("episodes", ({ data }) => {
@@ -179,6 +180,19 @@ const coverArtURL = getEpisodeCoverArtPath(slug);
             }
           </div>
         </div>
+
+        {
+          episode.sources && (
+            <div id="sources" class="mt-16">
+              <h2>Sources</h2>
+              <ul>
+                {episode.sources.map((url) => (
+                  <Source url={url} />
+                ))}
+              </ul>
+            </div>
+          )
+        }
       </section>
     </main>
     <Footer />

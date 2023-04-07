@@ -63,3 +63,16 @@ export async function getEpisodeAudioMetadata(
     bytes: stats.size,
   };
 }
+
+export const parseTitle = (body: string) => {
+  let match = body.match(/<title>([^<]*)<\/title>/); // regular expression to parse contents of the <title> tag
+  if (!match || typeof match[1] !== "string") return null;
+  return parseHtmlEntities(match[1]);
+};
+
+function parseHtmlEntities(str: string) {
+  return str.replace(/&#([0-9]{1,3});/gi, function (match, numStr) {
+    var num = parseInt(numStr, 10); // read num as normal number
+    return String.fromCharCode(num);
+  });
+}
