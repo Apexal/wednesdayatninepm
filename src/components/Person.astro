@@ -1,12 +1,35 @@
 ---
-import { PEOPLE } from "src/podcast";
+import { PEOPLE, PEOPLE_NAME } from "src/podcast";
 
 export interface Props {
   nickname: string;
   role: string;
 }
-
-let person = PEOPLE[person];
+const { nickname, role } = Astro.props;
+let person = PEOPLE[nickname as PEOPLE_NAME];
 ---
 
-<div></div>
+<div class="border border-white rounded-lg p-5 not-prose text-center">
+  {
+    person ? (
+      <>
+        <img
+          class="rounded-full w-28 h-28 mx-auto"
+          src={person.imgUrl ?? "/people/unknown.webp"}
+          alt={person.name}
+        />
+        <p class="font-semibold">{person.name}</p>
+      </>
+    ) : (
+      <>
+        <img
+          class="rounded-full w-28 h-28 mx-auto"
+          src="/people/unknown.webp"
+          alt={nickname}
+        />
+        <div>{nickname}</div>
+      </>
+    )
+  }
+  <p class="italic">{role}</p>
+</div>

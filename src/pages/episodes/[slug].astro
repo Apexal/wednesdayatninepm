@@ -18,6 +18,7 @@ import {
   PODCAST_TITLE,
 } from "src/podcast";
 import { getEpisodeAudioPath, getEpisodeCoverArtPath } from "src/lib/utils";
+import Person from "src/components/Person.astro";
 
 export async function getStaticPaths() {
   const episodeEntries = await getCollection("episodes", ({ data }) => {
@@ -136,32 +137,23 @@ const coverArtURL = getEpisodeCoverArtPath(slug);
         <div id="participants" class="mt-16">
           <h2>In This Episode</h2>
 
-          <ul>
+          <div class="flex space-x-2">
             {
               (episode.hosts ?? PODCAST_HOSTS).map((name) => (
-                <li>
-                  {name}{" "}
-                  <span class="text-text-muted">
-                    Host (Storyteller + Researcher)
-                  </span>
-                </li>
+                <Person nickname={name} role="Host" />
               ))
             }
             {
               (episode.cohosts ?? []).map((name) => (
-                <li>
-                  {name} <span class="text-text-muted">Co-Host</span>
-                </li>
+                <Person nickname={name} role="Co-Host" />
               ))
             }
             {
               episode.guests?.map((name) => (
-                <li>
-                  {name} <span class="text-text-muted">Guest</span>
-                </li>
+                <Person nickname={name} role="Guest" />
               ))
             }
-          </ul>
+          </div>
         </div>
       </section>
     </main>
