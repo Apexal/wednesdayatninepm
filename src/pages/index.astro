@@ -1,7 +1,12 @@
 ---
 import { getCollection } from "astro:content";
 import PageLayout from "../layouts/PageLayout.astro";
-import { PODCAST_TITLE, PODCAST_TAGLINE, PODCAST_EMAIL } from "src/podcast";
+import {
+  PODCAST_TITLE,
+  PODCAST_TAGLINE,
+  PODCAST_EMAIL,
+  SHARE_URLS,
+} from "src/podcast";
 import { getEpisodeCoverArtPath, getEpisodePagePath } from "src/lib/utils";
 
 const publishedEpisodeEntries = await getCollection("episodes", ({ data }) => {
@@ -69,40 +74,5 @@ const latestEpisode = sortedEpisodeEntries[0];
         </div>
       )
     }
-
-    <div class="flex space-x-2">
-      <a
-        class="unset"
-        href="https://open.spotify.com/show/15dzhmwVaXot0JDilN0AR7"
-      >
-        <img
-          src="/badges/spotify-podcast-badge-blk-wht-165x40.svg"
-          alt="Listen on Spotify"
-        />
-      </a>
-
-      <a
-        class="unset"
-        href="https://podcasts.apple.com/us/podcast/wednesday-at-9pm/id1680373413"
-      >
-        <img
-          src="/badges/US_UK_Apple_Podcasts_Listen_Badge_RGB.svg"
-          alt="Listen on Apple Podcasts"
-        />
-      </a>
-
-      <div>
-        <a
-          href="https://podcasts.google.com/feed/aHR0cHM6Ly93ZWRuZXNkYXlhdG5pbmVwbS5jb20vZmVlZC5yc3M"
-        >
-          <img
-            src="https://www.gstatic.com/podcasts_console/promote/English_EN/EN_Google_Podcasts_Badge.svg"
-            width="150"
-            height="38"
-            alt="Listen on Google Podcasts"
-          />
-        </a>
-      </div>
-    </div>
   </section>
 </PageLayout>

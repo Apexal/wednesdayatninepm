@@ -1,4 +1,5 @@
 ---
+import { SHARE_URLS } from "src/podcast";
 import HeaderLink from "./HeaderLink.astro";
 ---
 
@@ -20,6 +21,39 @@ import HeaderLink from "./HeaderLink.astro";
   <div
     class="max-[375px]:hidden justify-self-end py-2 flex items-center content-center text-text-bold"
   >
+    <a
+      class="unset text-xl ml-4 hover:text-text-link"
+      href={SHARE_URLS.google}
+      target="_blank"
+    >
+      <i
+        class="fa-brands fa-google"
+        aria-hidden="true"
+        title="Listen on Google Podcasts"></i>
+      <span class="fa-sr-only">Listen on Google Podcasts</span>
+    </a>
+    <a
+      class="unset text-xl ml-4 hover:text-text-link"
+      href={SHARE_URLS.apple}
+      target="_blank"
+    >
+      <i
+        class="fa fa-podcast"
+        aria-hidden="true"
+        title="Listen on Apple Podcasts"></i>
+      <span class="fa-sr-only">Listen on Apple Podcasts</span>
+    </a>
+    <a
+      class="unset text-xl ml-4 hover:text-text-link"
+      href={SHARE_URLS.spotify}
+      target="_blank"
+    >
+      <i
+        class="fa-brands fa-spotify"
+        aria-hidden="true"
+        title="Listen on Spotify"></i>
+      <span class="fa-sr-only">Listen on Spotify</span>
+    </a>
     <a
       class="unset text-xl ml-4 hover:text-text-link"
       href="https://github.com/Apexal/wednesdayatninepm"
