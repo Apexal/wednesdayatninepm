@@ -1,4 +1,5 @@
-import { z } from "zod";
+const BASE_URL = new URL(import.meta.env.SITE);
+export const SITE_URL = BASE_URL.origin;
 
 export const PODCAST_TITLE = "Wednesday at 9PM";
 export const PODCAST_LOGO_URL = "/logo.png";
@@ -29,8 +30,7 @@ export type PEOPLE_NAME = (typeof PEOPLE_NAMES)[number];
 export const PEOPLE: Record<(typeof PEOPLE_NAMES)[number], Person> = {
   Frank: {
     name: "Frank Matranga",
-    imgUrl:
-      "https://media.licdn.com/dms/image/C5603AQHdtGL8FmSkWg/profile-displayphoto-shrink_800_800/0/1576113529974?e=2147483647&v=beta&t=TepOSCt5JIqrq5dYN_jFmi16KB9iXK6eh_Kt8mlegPw",
+    imgUrl: SITE_URL + "/people/frank.jpg",
     url: "https://www.linkedin.com/in/frank-matranga/",
   },
   Aaron: {
@@ -38,8 +38,6 @@ export const PEOPLE: Record<(typeof PEOPLE_NAMES)[number], Person> = {
   },
   Nick: {
     name: "Nicholas Oertel",
+    imgUrl: SITE_URL + "/people/nick.jpg",
   },
 } as const;
-
-const BASE_URL = new URL(import.meta.env.SITE);
-export const SITE_URL = BASE_URL.origin;
