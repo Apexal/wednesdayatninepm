@@ -102,7 +102,7 @@ const coverArtURL = getEpisodeCoverArtPath(slug);
           </div>
         </div>
       </section>
-      <section class="prose max-w-none prose-sleek px-6 sm:px-8">
+      <section class="prose prose-sleek max-w-none px-6 sm:px-8">
         <astro-player
           class="z-10"
           data-title={episode.title}
@@ -137,7 +137,7 @@ const coverArtURL = getEpisodeCoverArtPath(slug);
         <div id="participants" class="mt-16">
           <h2>In This Episode</h2>
 
-          <div class="flex space-x-2">
+          <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-2">
             {
               (episode.hosts ?? PODCAST_HOSTS).map((name) => (
                 <Person nickname={name} role="Host" />
