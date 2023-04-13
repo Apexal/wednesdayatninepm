@@ -245,7 +245,7 @@ const coverArtURL = getEpisodeCoverArtPath(slug);
           super();
           // Read the message from the data attribute.
           const { mapId, lat, long } = this.dataset;
-          const map = L.map(mapId).setView([lat, long], 19);
+          const map = L.map(mapId).setView([lat, long], 17);
           L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
             maxZoom: 19,
             attribution:

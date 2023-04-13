@@ -9,16 +9,16 @@ const { nickname, role } = Astro.props;
 let person = PEOPLE[nickname as PEOPLE_NAME];
 ---
 
-<div class="border border-white rounded-lg p-5 not-prose text-center">
+<div class="rounded-lg p-5 not-prose text-center bg-black">
   {
     person ? (
       <>
         <img
-          class="rounded-full w-28 h-28 mx-auto"
+          class="rounded-full w-28 h-28 mx-auto mb-5"
           src={person.imgUrl ?? "/people/unknown.webp"}
           alt={person.name}
         />
-        <p class="font-semibold">{person.name}</p>
+        <p class="font-semibold leading-5">{person.name}</p>
       </>
     ) : (
       <>

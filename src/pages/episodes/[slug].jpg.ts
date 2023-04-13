@@ -31,15 +31,15 @@ export const get: APIRoute = async function get({ params, request }) {
 
   // Read input image
   const image = await Jimp.read(coverArtPath);
+  image.resize(512, 512);
   const imageWidth = image.getWidth();
   const imageHeight = image.getHeight();
-  image.resize(512, 512);
 
   // Write text in CENTER
   const textHorizontalPadding = 50;
   const textVerticalPadding = 10;
   const textMaxWidth = imageWidth - textHorizontalPadding * 2;
-  const text = slug.split("-")[0];
+  const text = parseInt(slug.split("-")[0]!).toString();
   const font = await Jimp.loadFont(Jimp.FONT_SANS_64_WHITE);
   const textWidth = Jimp.measureText(font, text);
   const textHeight = Jimp.measureTextHeight(font, text, textMaxWidth);
