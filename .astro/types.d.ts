@@ -95,16 +95,9 @@ declare module 'astro:content' {
 
 	const entryMap: {
 		"episodes": {
-"00-draft-episode.md": {
-  id: "00-draft-episode.md",
-  slug: "00-draft-episode",
-  body: string,
-  collection: "episodes",
-  data: InferEntrySchema<"episodes">
-} & { render(): Render[".md"] },
-"01-missing-tombstone copy.mdoc": {
-  id: "01-missing-tombstone copy.mdoc",
-  slug: "01-missing-tombstone-copy",
+"01-missing-tombstone.mdoc": {
+  id: "01-missing-tombstone.mdoc",
+  slug: "01-missing-tombstone",
   body: string,
   collection: "episodes",
   data: InferEntrySchema<"episodes">

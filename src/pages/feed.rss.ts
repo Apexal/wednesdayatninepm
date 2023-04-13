@@ -8,13 +8,10 @@ import {
   PODCAST_LOGO_URL,
   PODCAST_TITLE,
   SITE_URL,
-  PODCAST_PRODUCERS,
-  PEOPLE,
 } from "src/podcast";
 import XMLBuilder from "xmlbuilder";
 import {
-  AudioMetadata,
-  getEpisodeAudioMetadata,
+  getEpisodeAudioURL,
   getEpisodePagePath,
   personToItemPerson,
 } from "src/lib/utils";
@@ -29,23 +26,7 @@ const sortedEpisodeEntries = publishedEpisodeEntries.sort(
     new Date(a.data.publishedAt).valueOf()
 );
 
-const sortedEpisodeEntriesWithAudioMetadata = await Promise.all(
-  sortedEpisodeEntries.map(async (entry) => {
-    const audioMetadata = await getEpisodeAudioMetadata(entry.slug);
-    return {
-      entry,
-      audioMetadata,
-    };
-  })
-);
-
-const entryToItem = ({
-  entry: { slug, data: episode },
-  audioMetadata,
-}: {
-  entry: CollectionEntry<"episodes">;
-  audioMetadata: AudioMetadata;
-}) => ({
+const entryToItem = ({ slug, data: episode }: CollectionEntry<"episodes">) => ({
   guid: SITE_URL + getEpisodePagePath(slug),
   link: SITE_URL + getEpisodePagePath(slug),
   title: episode.title,
@@ -59,14 +40,14 @@ const entryToItem = ({
   pubDate: episode.publishedAt.toUTCString(),
   "itunes:explicit": episode.explicit ? "yes" : "no",
   enclosure: {
-    "@url": SITE_URL + audioMetadata.path,
+    "@url": getEpisodeAudioURL(slug),
     "@type": "audio/m4a",
-    "@length": audioMetadata.bytes,
+    "@length": episode.audioMetadata.bytes,
   },
   "itunes:image": {
     "@href": SITE_URL + getEpisodePagePath(slug) + ".jpg",
   },
-  "itunes:duration": audioMetadata.seconds,
+  "itunes:duration": episode.audioMetadata.seconds,
   "podcast:person": [
     ...(episode.hosts ?? PODCAST_HOSTS).map(personToItemPerson("host")),
     ...(episode.cohosts ?? []).map(personToItemPerson("co-host")),
@@ -114,7 +95,7 @@ export const all: APIRoute = async () => {
           ],
           language: "en-us",
           link: SITE_URL,
-          item: sortedEpisodeEntriesWithAudioMetadata.map(entryToItem),
+          item: sortedEpisodeEntries.map(entryToItem),
         },
       },
     },

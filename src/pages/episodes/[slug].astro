@@ -19,6 +19,7 @@ import {
 } from "src/podcast";
 import {
   getEpisodeAudioPath,
+  getEpisodeAudioURL,
   getEpisodeCoverArtPath,
   getEpisodeImagesPath,
 } from "src/lib/utils";
@@ -53,7 +54,7 @@ const formattedDate = new Date(episode.publishedAt).toLocaleString("en-us", {
   minute: "2-digit",
 });
 
-const audioURL = getEpisodeAudioPath(slug);
+const audioURL = getEpisodeAudioURL(slug);
 const coverArtURL = getEpisodeCoverArtPath(slug);
 ---
 

@@ -20,6 +20,10 @@ const episodeCollection = defineCollection({
       invalid_type_error:
         "date must be written in ISO format in UTC timezonewithout quotes: For example, Jan 11, 2000 12:30pm EST should be written as 2000-01-11T07:30:00Z.",
     }),
+    audioMetadata: z.object({
+      seconds: z.number().positive(),
+      bytes: z.number().positive(),
+    }),
     hosts: z.array(z.enum(PEOPLE_NAMES)),
     cohosts: z.array(z.enum(PEOPLE_NAMES)).optional(),
     guests: z.array(z.string()).optional(),
