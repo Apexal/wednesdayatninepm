@@ -1,15 +1,11 @@
 ---
-import { parseTitle } from "src/lib/utils";
-
 export interface Props {
+  title: string | null;
   url: string;
   description?: string;
 }
 
-const { url, description } = Astro.props;
-
-const response = await fetch(url);
-const title = parseTitle(await response.text());
+const { title, url, description } = Astro.props;
 const domain = new URL(url).hostname;
 ---
 

@@ -22,6 +22,7 @@ import {
   getEpisodeAudioURL,
   getEpisodeCoverArtPath,
   getEpisodeImagesPath,
+  parseTitle,
 } from "src/lib/utils";
 import Person from "src/components/Person.astro";
 import Source from "src/components/Source.astro";
@@ -56,6 +57,17 @@ const formattedDate = new Date(episode.publishedAt).toLocaleString("en-us", {
 
 const audioURL = getEpisodeAudioURL(slug);
 const coverArtURL = getEpisodeCoverArtPath(slug);
+
+// Fetch all sources in parallel instead of in order to speed up rendering
+const sources = episode.sources
+  ? await Promise.all(
+      episode.sources.map(async (url) => {
+        const response = await fetch(url);
+        const title = parseTitle(await response.text());
+        return { title, url };
+      })
+    )
+  : [];
 ---
 
 <!DOCTYPE html>
@@ -183,12 +195,12 @@ const coverArtURL = getEpisodeCoverArtPath(slug);
         </div>
 
         {
-          episode.sources && (
+          sources.length > 0 && (
             <div id="sources" class="mt-16">
               <h2>Sources</h2>
               <ul>
-                {episode.sources.map((url) => (
-                  <Source url={url} />
+                {sources.map((source) => (
+                  <Source title={source.title} url={source.url} />
                 ))}
               </ul>
             </div>
