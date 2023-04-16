@@ -18,7 +18,6 @@ import {
   PODCAST_TITLE,
 } from "src/podcast";
 import {
-  getEpisodeAudioPath,
   getEpisodeAudioURL,
   getEpisodeCoverArtPath,
   getEpisodeImagesPath,
@@ -206,6 +205,37 @@ const sources = episode.sources
             </div>
           )
         }
+
+        <div id="feedback" class="mt-16">
+          <h2>What Do You Think?</h2>
+
+          <form name={`episode-${slug}-feedback`} class="space-y-5" netlify>
+            <div>
+              <label for="name" class="block">Your Name</label>
+              <input
+                id="name"
+                type="text"
+                name="name"
+                class="rounded-md bg-slate-600 px-1"
+                required
+              />
+            </div>
+            <div>
+              <label for="feedback" class="block">Your Episode Feedback</label>
+              <textarea
+                name="feedback"
+                id="feedback"
+                class="min-w-full w-full min-h-[3rem] max-h-60 rounded-md bg-slate-600 px-1"
+                rows="10"
+                required></textarea>
+            </div>
+            <button
+              type="submit"
+              class="bg-primary-main px-8 py-2 rounded-lg text-gray-800"
+              >Submit</button
+            >
+          </form>
+        </div>
       </section>
     </main>
     <Footer />
