@@ -10,7 +10,7 @@ const domain = new URL(url).hostname;
 ---
 
 <li class="leading-5">
-  <a href={url} target="_blank" title={description}
+  <a href={url} target="_blank" title={description} class="break-words"
     >{title ?? (url.length > 50 ? url.slice(0, 50) + "..." : url)}</a
   >
   <br />
