@@ -76,7 +76,7 @@ const entryToItem = ({ slug, data: episode }: CollectionEntry<"episodes">) => ({
       "@role": "guest",
     })) ?? []),
   ],
-  "podcast:location": episode.locations?.map((loc) => ({
+  "podcast:location": episode.locations?.slice(0, 1).map((loc) => ({
     "#text": loc.name,
     "@geo": `geo:${loc.lat},${loc.long}`,
   })),
