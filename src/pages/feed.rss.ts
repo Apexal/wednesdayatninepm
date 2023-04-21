@@ -12,6 +12,7 @@ import {
 import XMLBuilder from "xmlbuilder";
 import {
   getEpisodeAudioURL,
+  getEpisodeImagesPath,
   getEpisodePagePath,
   personToItemPerson,
 } from "src/lib/utils";
@@ -26,17 +27,36 @@ const sortedEpisodeEntries = publishedEpisodeEntries.sort(
     new Date(a.data.publishedAt).valueOf()
 );
 
+const episodeHtmlDescription = (
+  slug: string,
+  episode: CollectionEntry<"episodes">["data"]
+) => {
+  return {
+    "#cdata": `<p>${episode.description}</p>
+    
+    ${
+      episode.images
+        ? episode.images.map(
+            (image) =>
+              `<figure><img src='${SITE_URL}${getEpisodeImagesPath(slug)}${
+                image.fileName
+              }'><figcaption>${image.description}</figcaption></figure>`
+          )
+        : ""
+    }
+
+    <a href='${
+      SITE_URL + getEpisodePagePath(slug)
+    }'>View show notes and sources</a>`,
+  };
+};
+
 const entryToItem = ({ slug, data: episode }: CollectionEntry<"episodes">) => ({
   guid: SITE_URL + getEpisodePagePath(slug),
   link: SITE_URL + getEpisodePagePath(slug),
   title: episode.title,
   "itunes:summary": episode.tagline,
-  description: {
-    "#cdata": `<p>${episode.description}</p>
-    <a href='${
-      SITE_URL + getEpisodePagePath(slug)
-    }'>View show notes and sources</a>`,
-  },
+  description: episodeHtmlDescription(slug, episode),
   pubDate: episode.publishedAt.toUTCString(),
   "itunes:explicit": episode.explicit ? "yes" : "no",
   enclosure: {
@@ -77,10 +97,10 @@ export const all: APIRoute = async () => {
         channel: {
           title: PODCAST_TITLE,
           "itunes:owner": {
-            "itunes:name": "Hollow Moon Studio",
+            "itunes:name": "Matranga Productions",
             "itunes:email": PODCAST_EMAIL,
           },
-          "itunes:author": "Hollow Moon Studio",
+          "itunes:author": "Matranga Productions",
           "itunes:category": "Society & Culture",
           description: PODCAST_DESCRIPTION,
           "itunes:image": {
