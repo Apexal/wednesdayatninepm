@@ -20,7 +20,7 @@ def transcribe(slug: str):
     # see https://github.com/Podcastindex-org/podcast-namespace/blob/main/transcripts/transcripts.md
     output = {
         "version": "1.0.0",
-        "segements": segments
+        "segments": segments
     }
 
     with open(episode_slug + ".json", "w") as f:
