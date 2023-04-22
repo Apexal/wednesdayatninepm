@@ -14,6 +14,7 @@ import {
   getEpisodeAudioURL,
   getEpisodeImagesPath,
   getEpisodePagePath,
+  getEpisodeTranscriptPath,
   personToItemPerson,
 } from "src/lib/utils";
 
@@ -80,6 +81,11 @@ const entryToItem = ({ slug, data: episode }: CollectionEntry<"episodes">) => ({
     "#text": loc.name,
     "@geo": `geo:${loc.lat},${loc.long}`,
   })),
+  "podcast:transcript": {
+    "@url": SITE_URL + getEpisodeTranscriptPath(slug),
+    "@type": "application/json",
+    "@rel": "captions"
+  },
   "podcast:episode": episode.episodeNumber,
 });
 
