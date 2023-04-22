@@ -11,6 +11,9 @@ export const getEpisodeCoverArtPath = (slug: string) =>
 export const getEpisodeImagesPath = (slug: string) =>
   `/episodes/images/${slug}/`;
 
+export const getEpisodeTranscriptPath = (slug: string) =>
+  `/episodes/transcripts/${slug}.json`;
+
 export const personToItemPerson = (role: string) => (nickname: string) => {
   if (nickname in PEOPLE) {
     const person = PEOPLE[nickname as PEOPLE_NAME];
