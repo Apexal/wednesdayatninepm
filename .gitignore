@@ -1,3 +1,6 @@
+venv/
+
+*.m4a
 scripts/code.wav
 
 # build output
