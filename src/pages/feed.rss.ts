@@ -83,7 +83,7 @@ const entryToItem = ({ slug, data: episode }: CollectionEntry<"episodes">) => ({
   })),
   "podcast:transcript": {
     "@url": SITE_URL + getEpisodeTranscriptPath(slug),
-    "@type": "text/vtt",
+    "@type": "application/srt",
     // "@rel": "captions"
   },
   "podcast:episode": episode.episodeNumber,

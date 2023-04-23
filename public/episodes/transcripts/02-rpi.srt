@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:05,920
+Initially, the transcribe method reads the entire file and processes the audio with the
+
+2
+00:00:05,920 --> 00:00:13,600
+sliding 30-second window, performing autoregressive sequence-to-sequence predictions on each window.
+
+3
+00:00:13,600 --> 00:00:17,440
+Pretty interesting.
+
+4
+00:00:17,440 --> 00:00:21,600
+I am curious as to how accurate the timestamps are down to the second.
+
