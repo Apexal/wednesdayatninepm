@@ -2,6 +2,7 @@ import json
 import time
 from typing import Dict, List, Union
 import whisper
+from html import escape
 
 
 def transcribe():
@@ -52,9 +53,11 @@ def export_as_json(result: Dict[str, Union[str, List]], filename: str):
     return output
 
 
-def convert_seconds_to_timecode(seconds):
+def convert_seconds_to_timecode(seconds, include_ms=True):
     ms = int((seconds - int(seconds)) * 1000)
-    return time.strftime("%H:%M:%S", time.gmtime(seconds)) + f",{ms:03d}"
+    return time.strftime("%H:%M:%S", time.gmtime(seconds)) + (
+        f",{ms:03d}" if include_ms else ""
+    )
 
 
 def export_as_srt(result: Dict[str, Union[str, List]], filename: str):
@@ -94,6 +97,40 @@ def export_as_srt(result: Dict[str, Union[str, List]], filename: str):
     return lines
 
 
+def export_as_html(result: Dict[str, Union[str, List]], filename: str):
+    segments = []
+    buffer = ""
+    start = result["segments"][0]["start"]
+    end = start
+    for segment in result["segments"]:
+        for word in segment["words"]:
+            if len((buffer + word["word"]).strip()) > 32:
+                segments.append({"start": start, "end": end, "body": buffer.strip()})
+
+                # Reset for next segment
+                buffer = word["word"]
+                start = word["start"]
+            else:
+                buffer += word["word"]
+                end = word["end"]
+
+    if len(buffer.strip()) > 0:
+        print(start, end, buffer)
+        segments.append({"start": start, "end": end, "body": buffer.strip()})
+
+    # see https://github.com/Podcastindex-org/podcast-namespace/blob/main/transcripts/transcripts.md
+    lines = []
+    for segment in segments:
+        timecode = convert_seconds_to_timecode(segment["start"], include_ms=False)
+        lines.append(f"<time>{escape(timecode)}</time>")
+        lines.append(f"<p>{escape(segment['body'])}</p>")
+
+    with open(filename + ".html", "w") as f:
+        f.write("\n".join(lines))
+
+    return lines
+
+
 if __name__ == "__main__":
     # result = transcribe()
     with open("01-missing-tombstone_transcribed.json") as f:
@@ -101,3 +138,4 @@ if __name__ == "__main__":
 
     export_as_json(result, "01-missing-tombstone")
     export_as_srt(result, "01-missing-tombstone")
+    export_as_html(result, "01-missing-tombstone")

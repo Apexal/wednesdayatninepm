@@ -95,6 +95,10 @@ const entryToItem = ({ slug, data: episode }: CollectionEntry<"episodes">) => ({
       "@type": "application/x-subrip",
       "@rel": "captions",
     },
+    {
+      "@url": SITE_URL + getEpisodeTranscriptPath + slug + ".html",
+      "@type": "text/html",
+    },
   ],
   "podcast:episode": episode.episodeNumber,
 });
