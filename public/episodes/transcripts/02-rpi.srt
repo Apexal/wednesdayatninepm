@@ -1,0 +1,39 @@
+1
+00:00:00,680 --> 00:00:02,580
+Initially, the transcribed
+
+2
+00:00:02,580 --> 00:00:04,639
+method reads the entire file and
+
+3
+00:00:04,639 --> 00:00:06,019
+processes the audio with the
+
+4
+00:00:06,019 --> 00:00:07,620
+sliding 30 second window,
+
+5
+00:00:07,919 --> 00:00:09,080
+performing autoregressive
+
+6
+00:00:09,080 --> 00:00:10,500
+sequence-to-sequence predictions
+
+7
+00:00:10,500 --> 00:00:13,820
+on each window. Pretty
+
+8
+00:00:13,820 --> 00:00:18,579
+interesting. I am curious as to
+
+9
+00:00:18,579 --> 00:00:20,320
+how accurate the timestamps are
+
+10
+00:00:20,320 --> 00:00:21,440
+down to the second.

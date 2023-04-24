@@ -1,4 +1,5 @@
 import json
+import time
 from typing import Dict, List, Union
 import whisper
 
@@ -51,8 +52,50 @@ def export_as_json(result: Dict[str, Union[str, List]], filename: str):
     return output
 
 
-# transcribe()
+def convert_seconds_to_timecode(seconds):
+    ms = int((seconds - int(seconds)) * 1000)
+    return time.strftime("%H:%M:%S", time.gmtime(seconds)) + f",{ms:03d}"
+
+
+def export_as_srt(result: Dict[str, Union[str, List]], filename: str):
+    segments = []
+    buffer = ""
+    start = result["segments"][0]["start"]
+    end = start
+    for segment in result["segments"]:
+        for word in segment["words"]:
+            if len((buffer + word["word"]).strip()) > 32:
+                segments.append({"start": start, "end": end, "body": buffer.strip()})
+
+                # Reset for next segment
+                buffer = word["word"]
+                start = word["start"]
+            else:
+                buffer += word["word"]
+                end = word["end"]
+
+    if len(buffer.strip()) > 0:
+        print(start, end, buffer)
+        segments.append({"start": start, "end": end, "body": buffer.strip()})
+
+    # see https://github.com/Podcastindex-org/podcast-namespace/blob/main/transcripts/transcripts.md
+    lines = []
+    for index, segment in enumerate(segments):
+        lines.append(str(index + 1))
+        lines.append(
+            f"{convert_seconds_to_timecode(segment['start'])} --> {convert_seconds_to_timecode(segment['end'])}"
+        )
+        lines.append(segment["body"])
+        lines.append("")
+
+    with open(filename + ".srt", "w") as f:
+        f.write("\n".join(lines))
+
+    return lines
+
 
 if __name__ == "__main__":
     with open("Recording_transcribed.json") as f:
-        export_as_json(json.loads(f.read()), "testing")
+        result = json.loads(f.read())
+        export_as_json(result, "testing")
+        export_as_srt(result, "testing")
