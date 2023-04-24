@@ -81,11 +81,16 @@ const entryToItem = ({ slug, data: episode }: CollectionEntry<"episodes">) => ({
     "#text": loc.name,
     "@geo": `geo:${loc.lat},${loc.long}`,
   })),
-  "podcast:transcript": {
-    "@url": SITE_URL + getEpisodeTranscriptPath(slug),
-    "@type": "application/json",
-    // "@rel": "captions"
-  },
+  "podcast:transcript": [
+    {
+      "@url": SITE_URL + getEpisodeTranscriptPath + slug + ".json",
+      "@type": "application/json",
+    },
+    {
+      "@url": SITE_URL + getEpisodeTranscriptPath + slug + ".srt",
+      "@type": "application/srt",
+    },
+  ],
   "podcast:episode": episode.episodeNumber,
 });
 
