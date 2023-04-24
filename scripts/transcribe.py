@@ -95,7 +95,9 @@ def export_as_srt(result: Dict[str, Union[str, List]], filename: str):
 
 
 if __name__ == "__main__":
-    with open("Recording_transcribed.json") as f:
+    # result = transcribe()
+    with open("01-missing-tombstone_transcribed.json") as f:
         result = json.loads(f.read())
-        export_as_json(result, "testing")
-        export_as_srt(result, "testing")
+
+    export_as_json(result, "01-missing-tombstone")
+    export_as_srt(result, "01-missing-tombstone")

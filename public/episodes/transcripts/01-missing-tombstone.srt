@@ -1,1107 +1,6387 @@
 1
-00:00:00,179 --> 00:00:02,399
-Travis: When you first get
-started in podcasting, it's
+00:00:14,759 --> 00:00:21,339
+Tonight on our very
 
 2
-00:00:02,400 --> 00:00:04,799
-almost guaranteed that you're
-going to make a handful of rookie
+00:00:21,339 --> 00:00:22,820
+first episode, we're talking
 
 3
-00:00:04,801 --> 00:00:07,980
-mistakes, but that doesn't mean
-that you have to make all the
+00:00:22,820 --> 00:00:24,140
+about one of Long Island New
 
 4
-00:00:07,980 --> 00:00:13,109
-mistakes. So in this special
-bonus podcast episode, we went
+00:00:24,140 --> 00:00:26,039
+York's most haunted places with
 
 5
-00:00:13,111 --> 00:00:16,109
-back through the archives of the
-podcasting Q and a show, and five
+00:00:26,039 --> 00:00:28,100
+over three centuries of history,
 
 6
-00:00:16,111 --> 00:00:19,500
-minute Mondays to pull together
-the 10 things we wish we knew
+00:00:28,679 --> 00:00:30,280
+the Country House Restaurant in
 
 7
-00:00:19,620 --> 00:00:22,289
-before starting our very first
-podcast . Now, as you're
+00:00:30,280 --> 00:00:32,359
+Stony Brook. We'll hear the sad
 
 8
-00:00:22,291 --> 00:00:25,350
-listening to this episode, you'll
-hear some sound effects pop in
+00:00:32,359 --> 00:00:33,719
+story of Annette Williamson's
 
 9
-00:00:25,350 --> 00:00:27,750
-from time to time. And that's
-simply because we pulled these
+00:00:33,719 --> 00:00:35,100
+death and search the Obadiah
 
 10
-00:00:27,751 --> 00:00:31,109
-clips from our YouTube channel,
-where we add animations and
+00:00:35,100 --> 00:00:36,899
+Davis Cemetery to find out who
 
 11
-00:00:31,111 --> 00:00:34,200
-different sequences to help
-visually communicate the things
+00:00:36,899 --> 00:00:38,060
+really has been haunting the
 
 12
-00:00:34,201 --> 00:00:36,899
-we're discussing. So when those
-things pop up, that's what that
+00:00:38,060 --> 00:00:39,600
+property and spooking owners,
 
 13
-00:00:36,901 --> 00:00:40,590
-is. If you are wondering, but
-they're not overly distracting.
+00:00:39,899 --> 00:00:41,439
+workers, and patrons alike over
 
 14
-00:00:40,591 --> 00:00:43,320
-So you'll still be able to get
-the gist of what we're talking
+00:00:41,439 --> 00:00:42,939
+the years, and along the way
 
 15
-00:00:43,320 --> 00:00:45,840
-about and hopefully be able to
-take one of these things and
+00:00:42,939 --> 00:00:44,000
+we'll learn to never trust
 
 16
-00:00:45,841 --> 00:00:48,990
-implement it. Moving forward for
-your podcast to help you reach
+00:00:44,000 --> 00:00:46,619
+French psychics. It's Wednesday
 
 17
-00:00:48,990 --> 00:00:50,340
-your goals, that much faster
+00:00:46,619 --> 00:01:01,859
+at 9pm. Okay guys, I have a
 
 18
-00:00:53,030 --> 00:00:57,770
-Sarah: Creating good audio is
-really key to keeping your
+00:01:01,859 --> 00:01:03,840
+great story to start the show
 
 19
-00:00:57,771 --> 00:01:01,579
-podcast listeners engaged because
-no matter how good the content
+00:01:03,840 --> 00:01:06,060
+off. Over the weekend, I was
 
 20
-00:01:01,581 --> 00:01:04,939
-is, if your audio quality isn't
-good. It's unfortunately just
+00:01:06,060 --> 00:01:07,799
+visiting family for my grandma's
 
 21
-00:01:04,941 --> 00:01:08,359
-going to turn them away. I know
-what you're thinking is you
+00:01:07,799 --> 00:01:09,659
+birthday and my Uncle Joe from
 
 22
-00:01:08,361 --> 00:01:11,359
-probably think you have to spend
-thousands of dollars on equipment
+00:01:09,659 --> 00:01:11,260
+Long Island mentioned that
 
 23
-00:01:11,361 --> 00:01:14,090
-or rent a podcasting studio just
-to make sure everything sounds
+00:01:11,260 --> 00:01:13,500
+there's a billion haunted places
 
 24
-00:01:14,090 --> 00:01:17,930
-great. And I'm here to tell you
-that's not true at all. I have
+00:01:13,500 --> 00:01:15,159
+on Long Island. We love Uncle
 
 25
-00:01:17,930 --> 00:01:22,400
-created some pretty good audio
-from mic's that costs less than a
+00:01:15,159 --> 00:01:17,099
+Joe. We do. He's great, but he
 
 26
-00:01:22,400 --> 00:01:25,129
-hundred dollars. And I have also
-recorded in places like in my
+00:01:17,099 --> 00:01:17,920
+pointed me in the direction of
 
 27
-00:01:25,131 --> 00:01:29,239
-home office, even in the closet.
-Yes, no. One's going to see you
+00:01:17,920 --> 00:01:19,340
+some stories what's considered
 
 28
-00:01:29,240 --> 00:01:32,599
-unless you're recording video
-like this one , um , wherever you
+00:01:19,340 --> 00:01:21,840
+the most haunted location on
 
 29
-00:01:32,600 --> 00:01:36,170
-can just to muffle the sound is
-going to be really make that
+00:01:21,840 --> 00:01:23,260
+Long Island. It's called the
 
 30
-00:01:36,171 --> 00:01:40,189
-difference between air quality
-and good quality.
+00:01:23,260 --> 00:01:24,959
+Country House Restaurant and I
 
 31
-00:01:42,739 --> 00:01:44,840
-Travis: Now, when you're creating
-your podcast intro, there's a
+00:01:24,959 --> 00:01:26,140
+want to tell you guys a story
 
 32
-00:01:44,840 --> 00:01:47,750
-couple of things that you want to
-make sure that you cover a couple
+00:01:26,140 --> 00:01:27,659
+about the ghosts that haunted
 
 33
-00:01:47,751 --> 00:01:50,299
-of things that you want to make
-sure that you say the first one
+00:01:27,659 --> 00:01:29,739
+and why the story that's told
 
 34
-00:01:50,301 --> 00:01:54,950
-is who you are specifically,
-like, what is your name? So you
+00:01:29,739 --> 00:01:31,120
+might not be true. Oh,
 
 35
-00:01:54,950 --> 00:01:59,299
-can start. Your podcast is, Hey,
-welcome to my podcast. My name is
+00:01:31,299 --> 00:01:33,640
+scandalous. Yeah, I like stories
 
 36
-00:01:59,329 --> 00:02:02,780
-Travis, Albritton, and then your
-credentials. Why should someone
+00:01:33,640 --> 00:01:34,959
+with different perspectives.
 
 37
-00:02:02,781 --> 00:02:06,019
-listen to you? So if you have
-experience in whatever you're
+00:01:35,620 --> 00:01:42,739
+Yeah, I bet you do. Okay, so
 
 38
-00:02:06,021 --> 00:02:09,110
-talking about, you want to make
-sure that you mentioned that if
+00:01:42,739 --> 00:01:44,319
+actually we might have passed by
 
 39
-00:02:09,110 --> 00:02:11,900
-you went to school for something,
-if you have a job doing
+00:01:44,319 --> 00:01:45,719
+this actually when we went on
 
 40
-00:02:11,901 --> 00:02:14,569
-something, if you have clients
-that you work with, you want to
+00:01:45,719 --> 00:01:47,060
+our trip to Long Island over the
 
 41
-00:02:14,570 --> 00:02:19,219
-mention the things that lend
-credence to your advice. This is
+00:01:47,060 --> 00:01:49,219
+summer. It's in Stony Brook. We
 
 42
-00:02:19,221 --> 00:02:23,419
-a specifically important. If your
-podcast is centered around you
+00:01:49,219 --> 00:01:51,340
+were in Lake the Hamptons. Sauer
 
 43
-00:02:23,420 --> 00:02:25,849
-and your expertise, the next
-thing that you want to make sure
+00:01:51,340 --> 00:01:52,760
+is pretty far out east way past
 
 44
-00:02:25,850 --> 00:02:30,229
-to include in your podcast intro
-is what your podcast is about in
+00:01:52,760 --> 00:01:54,239
+this, but we might have driven
 
 45
-00:02:30,289 --> 00:02:33,979
-this podcast. For instance,
-podcasting una. At the very
+00:01:54,239 --> 00:01:55,519
+right past this road, right past
 
 46
-00:02:33,980 --> 00:02:37,069
-beginning, we talk about, well,
-one, what is it that we're going
+00:01:55,519 --> 00:01:58,299
+this restaurant. For those who
 
 47
-00:02:37,070 --> 00:02:40,969
-to discuss? And then our opening
-tagline is that we're giving you
+00:01:58,299 --> 00:01:59,299
+don't know Long Island, it's on
 
 48
-00:02:40,971 --> 00:02:44,659
-tips and strategies to launch,
-grow and monetize your podcast.
+00:01:59,299 --> 00:02:00,719
+the north shore of Long Island,
 
 49
-00:02:44,840 --> 00:02:49,520
-So if you're a podcaster that
-speaks directly to you because
+00:02:01,060 --> 00:02:03,340
+which is the huge island to the
 
 50
-00:02:49,580 --> 00:02:52,189
-you're listening to this, or
-you're watching this because
+00:02:03,340 --> 00:02:05,500
+east of New York City. It's not
 
 51
-00:02:52,191 --> 00:02:54,590
-you're looking for those tips and
-you want to think through, for
+00:02:05,500 --> 00:02:08,280
+part of New York City, but two
 
 52
-00:02:54,591 --> 00:02:58,189
-your podcast in a similar way,
-what is it that people are
+00:02:08,280 --> 00:02:09,860
+boroughs of New York City,
 
 53
-00:02:58,219 --> 00:03:01,389
-looking for? And then how do you
-make sure that you address that
+00:02:10,219 --> 00:02:12,080
+Brooklyn and Queens, are on the
 
 54
-00:03:01,390 --> 00:03:04,180
-in your intro? So they're going
-to continue to listen, not just
+00:02:12,080 --> 00:02:13,039
+island, but they don't really
 
 55
-00:03:04,181 --> 00:03:08,139
-to the one episode, but to every
-single episode, it'll actually
+00:02:13,039 --> 00:02:14,199
+consider it Long Island. People
 
 56
-00:03:08,140 --> 00:03:11,590
-turn into a subscriber that then
-goes on to download everything
+00:02:14,199 --> 00:02:15,259
+would be very offended if you
 
 57
-00:03:11,591 --> 00:03:13,930
-that you have. And then the third
-thing that you want to make sure
+00:02:15,259 --> 00:02:16,780
+said you were from Long Island
 
 58
-00:03:13,931 --> 00:03:18,370
-you mentioned in your podcast
-intro is why someone should care.
+00:02:17,080 --> 00:02:18,400
+if you're from Queens or
 
 59
-00:03:18,490 --> 00:03:22,479
-Why should anyone care that your
-podcast exists? Are they going to
+00:02:18,400 --> 00:02:19,699
+Brooklyn. So do you guys know
 
 60
-00:03:22,480 --> 00:03:25,060
-lose weight? Are they going to be
-happier? Are the relationships
+00:02:19,699 --> 00:02:21,919
+how old European settlements on
 
 61
-00:03:25,061 --> 00:03:27,610
-going to get better? Are they
-going to make money, save money?
+00:02:21,919 --> 00:02:23,039
+Long Island are? If you had to
 
 62
-00:03:27,969 --> 00:03:32,289
-What is it that you were offering
-to them? What is the end result
+00:02:23,039 --> 00:02:26,500
+give a random guess? Well, 400
 
 63
-00:03:32,290 --> 00:03:34,870
-look like for them, if they not
-only listened to your podcast,
+00:02:26,500 --> 00:02:29,379
+years. Okay, I thought you guys
 
 64
-00:03:35,110 --> 00:03:36,939
-but then also put it into
-practice.
+00:02:29,379 --> 00:02:30,759
+can be wrong. That's right. It's
 
 65
-00:03:39,360 --> 00:03:42,509
-Gilon: So is there an ideal
-podcast length, short answer?
+00:02:30,759 --> 00:02:33,060
+like 300 years old since the 16,
 
 66
-00:03:42,689 --> 00:03:46,979
-Nope. Joe Rogan has some episodes
-that are three hours long, but
+00:02:33,599 --> 00:02:35,300
+that's almost 400, honestly,
 
 67
-00:03:46,980 --> 00:03:49,800
-then there are other podcasts
-that do just fine and are very
+00:02:35,979 --> 00:02:38,340
+1600s, mid 1600s. Right. The
 
 68
-00:03:49,800 --> 00:03:53,310
-successful at 10 minutes or less.
-The reality is we love podcasts
+00:02:38,340 --> 00:02:40,159
+water above it, the Long Island
 
 69
-00:03:53,340 --> 00:03:56,400
-because of the content that
-they're presenting. And so if it
+00:02:40,159 --> 00:02:41,840
+Sound is where everyone would do
 
 70
-00:03:56,401 --> 00:04:00,000
-takes you 10 minutes to get out
-great glorious content, amazing.
+00:02:41,840 --> 00:02:43,919
+like whaling, killing whales and
 
 71
-00:04:00,270 --> 00:04:03,960
-If you have some podcast episodes
-that are on the longer end, maybe
+00:02:43,919 --> 00:02:45,759
+taking their meat and selling
 
 72
-00:04:03,961 --> 00:04:07,590
-up to three hours, that's okay.
-Too. People come to the podcast
+00:02:45,759 --> 00:02:46,819
+them whatever. It was like
 
 73
-00:04:07,591 --> 00:04:11,310
-to get the content, to get what
-you say weekly. And to be honest,
+00:02:46,819 --> 00:02:48,439
+really nice water for that. So
 
 74
-00:04:11,311 --> 00:04:13,379
-there are times when we need just
-a quick little something to
+00:02:48,439 --> 00:02:49,419
+it became really popular early
 
 75
-00:04:13,381 --> 00:04:15,599
-listen to. And there are times
-when we have a lot of space in
+00:02:49,419 --> 00:02:50,979
+1600s. So a lot of the buildings
 
 76
-00:04:15,600 --> 00:04:18,300
-our day to listen to something.
-It really just depends on what
+00:02:50,979 --> 00:02:53,020
+there are hundreds of hundreds
 
 77
-00:04:18,300 --> 00:04:20,579
-you're trying to accomplish and
-what you're trying to get across.
+00:02:53,020 --> 00:02:54,800
+of years old. The building we're
 
 78
-00:04:23,189 --> 00:04:26,939
-Travis: Be a guest on other
-people's podcasts, but not just
+00:02:54,800 --> 00:02:57,099
+talking about today was built in
 
 79
-00:04:27,149 --> 00:04:31,319
-anyone's podcast podcasts that
-have a similar target audience
+00:02:57,099 --> 00:03:01,340
+1710. Oh, yeah. So pre-America.
 
 80
-00:04:31,649 --> 00:04:34,949
-that you do. So let's say for
-example, that you talk about
+00:03:02,080 --> 00:03:03,919
+Yeah, pre-America, basically
 
 81
-00:04:35,399 --> 00:04:38,790
-online marketing. For instance,
-you want to find other podcasts
+00:03:03,919 --> 00:03:04,800
+what happened, a lot of New
 
 82
-00:04:38,790 --> 00:04:40,800
-in your space where they talk
-about online marketing, where
+00:03:04,800 --> 00:03:07,259
+England settlers came down to
 
 83
-00:04:40,800 --> 00:04:43,589
-they talk about how to grow your
-business, where they talk about
+00:03:07,259 --> 00:03:10,099
+Long Island mid 1600s for the
 
 84
-00:04:43,591 --> 00:04:47,519
-the entrepreneur life. Because
-those are the groups of people
+00:03:10,099 --> 00:03:11,680
+farming and for the whaling.
 
 85
-00:04:47,970 --> 00:04:51,180
-that have already self selected
-and said, Hey, I want to hear
+00:03:12,219 --> 00:03:14,360
+This is like prime time for a
 
 86
-00:04:51,180 --> 00:04:54,750
-this kind of podcast content. If
-you can pitch yourself as a guest
+00:03:14,360 --> 00:03:14,960
+few different things,
 
 87
-00:04:54,750 --> 00:04:59,430
-to be on those podcasts, then
-they will immediately trust you
+00:03:15,500 --> 00:03:18,759
+Freemasonry, secret societies,
 
 88
-00:04:59,699 --> 00:05:02,639
-because they already trust the
-podcast host of the podcast
+00:03:19,699 --> 00:03:20,960
+and a little bit later on,
 
 89
-00:05:02,730 --> 00:05:05,819
-you're guesting on because they
-listen to it every week. And then
+00:03:21,139 --> 00:03:23,340
+spiritualism. So I think Nick
 
 90
-00:05:05,821 --> 00:05:08,519
-when you're able to demonstrate
-your expertise and say at the end
+00:03:23,340 --> 00:03:24,099
+and I really know about
 
 91
-00:05:08,521 --> 00:05:11,759
-of the episode, Hey, by the way,
-I also have a podcast where I
+00:03:24,099 --> 00:03:25,539
+spiritualism. Aaron, what do you
 
 92
-00:05:11,761 --> 00:05:15,149
-talk about X, Y, and Z. You're
-going to get a good number of
+00:03:25,539 --> 00:03:27,960
+know about spiritualism? I'll be
 
 93
-00:05:15,151 --> 00:05:19,500
-people from that podcast to come
-over and subscribe to yours.
+00:03:27,960 --> 00:03:30,620
+honest, not that much. That's
 
 94
-00:05:22,139 --> 00:05:24,240
-Gilon: Interviewing noteworthy
-guests that have a significant
+00:03:30,620 --> 00:03:31,960
+really the idea simply that you
 
 95
-00:05:24,240 --> 00:05:27,000
-audience is actually one of our
-favorite marketing strategies for
+00:03:31,960 --> 00:03:33,680
+can talk to the dead. Oh, okay.
 
 96
-00:05:27,000 --> 00:05:31,470
-podcasters. The only thing is the
-guest has to promote the episode.
+00:03:33,840 --> 00:03:34,979
+That's where mediums, the idea
 
 97
-00:05:31,529 --> 00:05:33,959
-Ideally, you want to make it as
-easy as possible for them to
+00:03:34,979 --> 00:03:36,780
+of mediumship started. Sances
 
 98
-00:05:33,961 --> 00:05:37,050
-promote the episode. So some
-things that you can do are
+00:03:36,780 --> 00:03:38,400
+and all kinds of things like
 
 99
-00:05:37,170 --> 00:05:40,319
-creating an audio gram or a
-social media graphic for
+00:03:38,400 --> 00:03:41,439
+that. In America, at least, it
 
 100
-00:05:40,321 --> 00:05:43,290
-Facebook, for Instagram, whatever
-social media platform you promote
+00:03:41,439 --> 00:03:43,300
+started sweeping the nation in
 
 101
-00:05:43,290 --> 00:05:46,350
-on. That's a really easy way to
-get them to share that episode
+00:03:43,300 --> 00:03:47,139
+like late 1700s and mid, all the
 
 102
-00:05:46,350 --> 00:05:48,779
-when you have that created and
-it's made right there for them
+00:03:47,139 --> 00:03:48,740
+way through the 1800s. And it
 
 103
-00:05:48,781 --> 00:05:51,480
-and you give it to them. The
-second thing that you can do is
+00:03:48,740 --> 00:03:50,479
+became really popular for people
 
 104
-00:05:51,480 --> 00:05:54,389
-create a blurb for them to
-include in their newsletter about
+00:03:50,479 --> 00:03:54,060
+to do séances and just shut the
 
 105
-00:05:54,391 --> 00:05:57,740
-the episode. Hey, this is an
-episode about X, Y, and you send
+00:03:54,060 --> 00:03:55,439
+lights off and use Ouija boards
 
 106
-00:05:57,740 --> 00:05:59,930
-that over to them. They can push
-that right out to their people
+00:03:55,439 --> 00:03:57,539
+and the precursors to Ouija
 
 107
-00:05:59,959 --> 00:06:03,290
-via email. The other thing that
-you can do is provide a direct
+00:03:57,539 --> 00:03:59,780
+boards and do table tipping and
 
 108
-00:06:03,290 --> 00:06:06,620
-link where people can listen to
-the episode. The idea is that it
+00:03:59,780 --> 00:04:01,719
+all that. And mediums started
 
 109
-00:06:06,620 --> 00:06:09,920
-should be as easy as copying and
-pasting and pushing out to their
+00:04:01,719 --> 00:04:02,719
+appearing claiming that they
 
 110
-00:06:09,920 --> 00:06:13,040
-people. You want to have no
-reason for them not to share the
+00:04:02,719 --> 00:04:03,900
+could talk to the dead and you
 
 111
-00:06:13,040 --> 00:06:14,029
-episode and promote it.
+00:04:03,900 --> 00:04:04,939
+can pay them and they'll talk to
 
 112
-00:06:16,629 --> 00:06:21,310
-Travis: Use templates, make it
-your goal in life as a podcaster,
+00:04:04,939 --> 00:04:07,020
+your grandma and they'll
 
 113
-00:06:21,519 --> 00:06:26,110
-to never duplicate your work,
-whether it's your outlines,
+00:04:07,020 --> 00:04:10,280
+manifest your dog that died and
 
 114
-00:06:26,259 --> 00:06:29,079
-whether it's your audio editing
-software, your projects that you
+00:04:10,280 --> 00:04:11,699
+it'll lick your face in the dark
 
 115
-00:06:29,081 --> 00:06:32,920
-work in, your emails that you
-send to your guests, anything
+00:04:11,699 --> 00:04:12,860
+and stuff like that. It was kind
 
 116
-00:06:32,920 --> 00:06:37,000
-that you do consistently spend
-some time really make it
+00:04:12,860 --> 00:04:14,919
+of like parlor games more to an
 
 117
-00:06:37,120 --> 00:06:40,329
-unbreakable, make sure that it's
-exactly the way that you want it.
+00:04:14,919 --> 00:04:17,920
+extent. It's a form of
 
 118
-00:06:40,930 --> 00:06:44,620
-And then don't go back and redo
-that actually leverage that work
+00:04:17,920 --> 00:04:18,839
+entertainment more than
 
 119
-00:06:44,620 --> 00:06:48,759
-you've done in the past to speed
-up future episodes. So let's say
+00:04:18,839 --> 00:04:20,519
+anything. Yeah. And
 
 120
-00:06:48,761 --> 00:06:51,069
-for instance, that you have a
-guest that you're bringing onto
+00:04:20,519 --> 00:04:21,819
+interestingly, this all really
 
 121
-00:06:51,071 --> 00:06:54,970
-your show, rather than writing a
-custom email from scratch, send
+00:04:21,819 --> 00:04:23,019
+started in like upstate New
 
 122
-00:06:54,971 --> 00:06:57,939
-them the one that you sent to
-your previous guest, but then
+00:04:23,019 --> 00:04:24,500
+York, not too far from where we
 
 123
-00:06:57,970 --> 00:07:00,279
-change out the first name to
-them. It looks like a brand new
+00:04:24,500 --> 00:04:26,800
+are right now in Heidsville,
 
 124
-00:07:00,281 --> 00:07:03,550
-email because they haven't seen
-that email before. And you know
+00:04:26,959 --> 00:04:29,480
+which is like in between
 
 125
-00:07:03,550 --> 00:07:06,250
-that it has all the details that
-they need to know to make sure
+00:04:29,480 --> 00:04:34,420
+Syracuse and Rochester. Oh, it's
 
 126
-00:07:06,250 --> 00:07:09,879
-they're fully prepared to come on
-your episode. Once you finish
+00:04:34,420 --> 00:04:36,439
+more western than central. Yeah,
 
 127
-00:07:09,970 --> 00:07:12,250
-your recording and you bring your
-interview into your audio editing
+00:04:36,500 --> 00:04:37,740
+it's actually really west. Yeah.
 
 128
-00:07:12,250 --> 00:07:15,009
-software, you shouldn't be
-creating a new project from
+00:04:38,459 --> 00:04:40,060
+Yeah. So this building built
 
 129
-00:07:15,011 --> 00:07:19,360
-scratch. You should be opening up
-a previous episode, saving it as
+00:04:40,060 --> 00:04:43,220
+around 1710 by the Davis family
 
 130
-00:07:19,360 --> 00:07:23,470
-a duplicate and then rewriting
-over the pieces that need to
+00:04:43,220 --> 00:04:45,060
+and they owned it at least four
 
 131
-00:07:23,471 --> 00:07:26,319
-change leaving, intact , your
-intro, your outro, and all of
+00:04:45,060 --> 00:04:46,379
+generations, pretty long time.
 
 132
-00:07:26,321 --> 00:07:30,189
-your audio preferences. And then
-when you're creating your show
+00:04:47,040 --> 00:04:48,339
+And again, this is on the North
 
 133
-00:07:30,190 --> 00:07:33,819
-notes, they should be copy and
-paste from your previous episode,
+00:04:48,339 --> 00:04:49,339
+Shore of Long Island, pretty
 
 134
-00:07:33,821 --> 00:07:36,370
-show notes, and then filling out
-the fields and changing
+00:04:49,339 --> 00:04:51,120
+good farmland, but Stony Brook
 
 135
-00:07:36,370 --> 00:07:39,189
-everything. That's different just
-by using templates, just by
+00:04:51,120 --> 00:04:52,220
+really wasn't a well-known
 
 136
-00:07:39,190 --> 00:07:43,060
-leveraging your previous work.
-And previous efforts for future
+00:04:52,220 --> 00:04:53,120
+place. It was kind of like
 
 137
-00:07:43,060 --> 00:07:49,089
-episodes is going to save you a
-ton of time. These show notes is
+00:04:53,120 --> 00:04:55,560
+backwater town for the first
 
 138
-00:07:49,091 --> 00:07:52,899
-the section of your podcast
-episode that allows you to engage
+00:04:55,560 --> 00:04:57,060
+good chunk of it because no one
 
 139
-00:07:52,959 --> 00:07:55,480
-for your listeners, provide some
-next steps for those that are
+00:04:57,060 --> 00:04:58,000
+really wanted to go there. It
 
 140
-00:07:55,480 --> 00:07:58,180
-ready to take action on what they
-just listened to. And also
+00:04:58,000 --> 00:04:59,540
+was difficult to travel there. A
 
 141
-00:07:58,180 --> 00:08:02,500
-persuade someone new to listen to
-the episode. The number one best
+00:04:59,540 --> 00:05:01,279
+bunch of poor farmers. No one
 
 142
-00:08:02,500 --> 00:08:07,269
-practice is to use formatting.
-All right , a majority of podcast
+00:05:01,279 --> 00:05:02,959
+really cared. This building, the
 
 143
-00:08:07,271 --> 00:08:11,769
-players like Apple podcasts,
-Google podcasts , uh , overcast,
+00:05:02,959 --> 00:05:03,819
+Davis family must have been
 
 144
-00:08:12,009 --> 00:08:15,490
-they support HTML formatting.
-That means you could put
+00:05:03,819 --> 00:05:05,139
+pretty rich because it was huge,
 
 145
-00:08:15,490 --> 00:08:19,449
-paragraph breaks, bullet points
-in bed links, all the stuff that
+00:05:05,379 --> 00:05:06,899
+very large building, two stories
 
 146
-00:08:19,451 --> 00:08:23,680
-you need to do to make your show
-notes look nice because when your
+00:05:06,899 --> 00:05:09,319
+and pretty active throughout the
 
 147
-00:08:23,680 --> 00:08:26,350
-show notes are properly
-formatted, when it's easy to
+00:05:09,319 --> 00:05:10,920
+1700s. It housed British
 
 148
-00:08:26,350 --> 00:08:30,220
-navigate within your episode
-description, it makes it easier
+00:05:10,920 --> 00:05:12,319
+soldiers at some point. It was
 
 149
-00:08:30,221 --> 00:08:32,769
-for your listeners to find what
-they're looking for. Right?
+00:05:12,319 --> 00:05:14,360
+used as a town meeting place, as
 
 150
-00:08:32,770 --> 00:08:35,139
-Instead of combing through
-several paragraphs of
+00:05:14,360 --> 00:05:16,000
+a stagecoach stop. During the
 
 151
-00:08:35,140 --> 00:08:37,840
-information, they can just zip
-down to the list of links that
+00:05:16,000 --> 00:05:16,819
+Revolutionary War, it was used
 
 152
-00:08:37,841 --> 00:08:41,080
-you mentioned and click on the
-one that they're looking for.
+00:05:16,819 --> 00:05:19,680
+as a contact point for the
 
 153
-00:08:41,320 --> 00:08:44,169
-Because remember when someone
-goes to your show notes, your
+00:05:19,680 --> 00:05:22,420
+Culper Spy Ring, which was an
 
 154
-00:08:44,171 --> 00:08:47,470
-episode description, they're
-going for a number of reasons.
+00:05:22,420 --> 00:05:24,740
+American spy ring that George
 
 155
-00:08:47,710 --> 00:08:51,129
-First reason they heard you
-mentioned something in the
+00:05:24,740 --> 00:05:27,959
+Washington started. There would
 
 156
-00:08:51,130 --> 00:08:53,590
-podcast and they want to find the
-link. They want to learn more.
+00:05:27,959 --> 00:05:29,399
+be spies that came in and out.
 
 157
-00:08:53,799 --> 00:08:57,120
-They want to buy that product,
-that you, they are looking for a
+00:05:30,139 --> 00:05:30,759
+So imagine there's this
 
 158
-00:08:57,120 --> 00:08:59,730
-particular piece of information.
-And they're going to take action
+00:05:30,759 --> 00:05:31,819
+beautiful, and if you guys want
 
 159
-00:08:59,730 --> 00:09:02,190
-on that. The other reason
-somebody goes through your show
+00:05:31,819 --> 00:05:33,279
+to click the link I sent you in
 
 160
-00:09:02,191 --> 00:09:05,519
-notes or your episode description
-is they're not sure that they
+00:05:33,279 --> 00:05:34,300
+the Discord, which will be in
 
 161
-00:09:05,520 --> 00:09:09,120
-want to devote the 30 minutes, 40
-minutes hour to listening to the
+00:05:34,300 --> 00:05:35,300
+the show notes, you could see
 
 162
-00:09:09,120 --> 00:09:12,539
-full episode. And so they see the
-title is interesting. They're
+00:05:35,300 --> 00:05:36,620
+this building. It's a restaurant
 
 163
-00:09:12,541 --> 00:09:15,960
-curious. They want to learn more
-and they go to your show notes
+00:05:36,620 --> 00:05:38,759
+now. It was only a restaurant
 
 164
-00:09:16,549 --> 00:09:19,169
-too , to see some amplifying
-information to see is this
+00:05:38,759 --> 00:05:41,480
+starting in like 1970, 1980.
 
 165
-00:09:19,171 --> 00:09:20,519
-something that I really want to
-listen to?
+00:05:42,160 --> 00:05:44,040
+That's fairly recent for me
 
 166
-00:09:22,879 --> 00:09:26,570
-Sarah: So let's talk about
-whether you actually need a
+00:05:44,040 --> 00:05:45,560
+being, was it just a historical?
 
 167
-00:09:26,600 --> 00:09:32,059
-custom podcast website now for
-most pod-casters the answer is
+00:05:46,100 --> 00:05:46,980
+Oh, yeah, it was purchased
 
 168
-00:09:32,061 --> 00:09:36,950
-actually no, because if your
-podcast has an RSS feed with a
+00:05:47,600 --> 00:05:48,839
+historical building for all that
 
 169
-00:09:36,951 --> 00:09:42,799
-podcast host like Buzzsprout
-chances are you already have a
+00:05:48,839 --> 00:05:49,779
+time. Passed down through a few
 
 170
-00:09:42,801 --> 00:09:46,879
-podcast website with Buzzsprouts
-website, you get a homepage with
+00:05:49,779 --> 00:05:51,800
+different families. Yeah. And
 
 171
-00:09:46,880 --> 00:09:50,690
-links to obviously all of your
-episodes that your listeners can
+00:05:51,800 --> 00:05:52,759
+it's right off, it's on the
 
 172
-00:09:50,691 --> 00:09:54,440
-listen to. You can also direct
-them to different podcast
+00:05:52,759 --> 00:05:53,939
+corner of two main roads, Main
 
 173
-00:09:54,860 --> 00:09:57,350
-directories like Apple podcast,
-Stitcher and Spotify. If they
+00:05:53,939 --> 00:05:56,939
+Street and like Route 25A, which
 
 174
-00:09:57,350 --> 00:10:01,429
-want to go listen and subscribe
-there, and you can also use your
+00:05:56,939 --> 00:05:58,360
+is that classic long road that
 
 175
-00:10:01,460 --> 00:10:05,330
-own domain names . So you can
-look and feel like your own
+00:05:58,360 --> 00:05:59,740
+all Long Islanders know on the
 
 176
-00:10:05,960 --> 00:10:08,960
-podcast website . You're just
-looking for a place for people to
+00:05:59,740 --> 00:06:01,379
+North Shore. So yeah, a lot of
 
 177
-00:10:08,961 --> 00:10:12,110
-listen to your episodes. Changes
-are you don't need to spend that
+00:06:01,379 --> 00:06:02,540
+history here. Let's talk about
 
 178
-00:10:12,110 --> 00:10:14,690
-money to build your own custom
-website.
+00:06:02,540 --> 00:06:03,800
+some of the weird stuff, right?
 
 179
-00:10:17,330 --> 00:10:19,820
-Gilon: You may think that the
-best strategy is to put your
+00:06:03,879 --> 00:06:05,160
+Because there's a lot here.
 
 180
-00:10:19,821 --> 00:10:23,450
-entire episode up on a social
-media platform, but actually you
+00:06:05,819 --> 00:06:07,079
+Imagine this nice house. It's
 
 181
-00:10:23,451 --> 00:10:26,389
-want to create teaser content and
-teaser content gives them a
+00:06:07,079 --> 00:06:08,339
+kind of on the hill. The Davis
 
 182
-00:10:26,390 --> 00:10:28,580
-little sound bite , just a little
-snippet that what's their
+00:06:08,339 --> 00:06:10,220
+family, Obadiah Davis was the
 
 183
-00:10:28,581 --> 00:10:31,730
-appetites want to go listen to
-the rest of the episode, wherever
+00:06:10,220 --> 00:06:11,480
+guy who bought it, bought the
 
 184
-00:10:31,730 --> 00:10:35,269
-they listen on Apple podcasts or
-Spotify, or what have you. So
+00:06:11,480 --> 00:06:12,800
+land and built the property. He
 
 185
-00:10:35,270 --> 00:10:37,940
-we're going to talk about what
-three things are included in
+00:06:12,800 --> 00:06:14,339
+built a family cemetery right
 
 186
-00:10:37,941 --> 00:10:40,970
-every good social media post. The
-first thing that you need is a
+00:06:14,339 --> 00:06:16,019
+behind it on a little hill
 
 187
-00:10:40,971 --> 00:10:44,000
-visual element, right? So people
-are scrolling. They're reading,
+00:06:16,019 --> 00:06:17,459
+overlooking the building. It's
 
 188
-00:10:44,000 --> 00:10:47,120
-whatever. If you post a picture
-that causes them to stop. And the
+00:06:17,459 --> 00:06:18,500
+where his family was buried.
 
 189
-00:10:47,360 --> 00:10:49,580
-idea is that they stop , they
-listen, they read, they engage.
+00:06:19,500 --> 00:06:20,939
+That's still there to that day,
 
 190
-00:10:49,759 --> 00:10:52,279
-And the picture of visual element
-helps them do that. So this can
+00:06:21,060 --> 00:06:22,959
+the cemetery. Do you think the
 
 191
-00:10:52,280 --> 00:10:54,830
-be a graphic. It could be a
-headshot of your guest . It could
+00:06:22,959 --> 00:06:24,319
+cemetery being there might
 
 192
-00:10:54,831 --> 00:10:57,259
-be an audio gram . The second
-thing that you need is a good
+00:06:24,319 --> 00:06:26,060
+contribute to some of the
 
 193
-00:10:57,260 --> 00:11:01,100
-hook. Think about what can I say
-to make someone want to continue
+00:06:26,060 --> 00:06:27,500
+happenings that you're going to
 
 194
-00:11:01,100 --> 00:11:04,370
-listening, to go check out the
-full episode. It could be a crazy
+00:06:27,500 --> 00:06:30,000
+discuss today? The cemetery does
 
 195
-00:11:04,370 --> 00:11:06,799
-stat. It could be a really good
-quote. It could be a couple of
+00:06:30,000 --> 00:06:32,100
+feature very strongly in the
 
 196
-00:11:06,801 --> 00:11:09,860
-bullet points that summarize the
-high points of the episode.
+00:06:32,100 --> 00:06:34,180
+story. In fact, I found who's
 
 197
-00:11:10,129 --> 00:11:13,519
-Whatever that thing is, put that
-in the caption to help encourage
+00:06:34,180 --> 00:06:36,199
+buried in that cemetery, because
 
 198
-00:11:13,520 --> 00:11:16,580
-people to go check out the full
-episode and finally a link you
+00:06:36,199 --> 00:06:37,939
+there are some conflicting
 
 199
-00:11:16,581 --> 00:11:20,299
-want to include a direct link to
-that specific podcast episode in
+00:06:37,939 --> 00:06:40,620
+stories about the ghosts that
 
 200
-00:11:20,301 --> 00:11:23,539
-your post. If you nail all three
-of these elements, you'll not
+00:06:40,620 --> 00:06:43,019
+want this place and who's buried
 
 201
-00:11:23,541 --> 00:11:27,049
-only intrigue new listeners.
-You'll also encourage existing
+00:06:43,019 --> 00:06:45,279
+here. I found the gravestones
 
 202
-00:11:27,051 --> 00:11:28,850
-subscribers to share your posts
-as well,
+00:06:45,279 --> 00:06:47,139
+and pictures of the gravestones
 
 203
-00:11:31,490 --> 00:11:35,809
-Travis: Batch production of your
-podcast episodes. So anytime that
+00:06:47,139 --> 00:06:52,120
+and some things don't line up. I
 
 204
-00:11:35,811 --> 00:11:38,809
-you were producing an episode,
-there's so much involved. There's
+00:06:52,120 --> 00:06:53,620
+couldn't find where the cemetery
 
 205
-00:11:38,811 --> 00:11:43,129
-so many moving pieces that need
-to happen in a specific order in
+00:06:53,620 --> 00:06:56,000
+was actually, like physically on
 
 206
-00:11:43,130 --> 00:11:45,860
-order for you to create that
-episode. So you have to start
+00:06:56,000 --> 00:06:58,180
+Google maps or on maps. There's
 
 207
-00:11:45,860 --> 00:11:48,230
-with generating ideas. Then you
-have to create outlines or
+00:06:58,180 --> 00:06:58,800
+no record of it. You probably
 
 208
-00:11:48,409 --> 00:11:50,629
-scripts. If you have a scripted
-podcast, you have to line up
+00:06:58,800 --> 00:06:59,319
+want to keep it. I actually
 
 209
-00:11:50,659 --> 00:11:53,470
-interviews, you need to record
-the episode. You need to edit it.
+00:06:59,319 --> 00:07:00,879
+called them up today. Oh, wow.
 
 210
-00:11:53,471 --> 00:11:55,940
-You need to upload it. You need
-to schedule it. All of those
+00:07:00,879 --> 00:07:02,040
+No, I called them up today on
 
 211
-00:11:56,220 --> 00:12:00,690
-things take time. What takes even
-more time If you do every single
+00:07:02,040 --> 00:07:04,279
+the phone. And I said, hi guys,
 
 212
-00:12:00,691 --> 00:12:04,200
-episode by itself. But let's say
-instead that you scheduled all
+00:07:04,839 --> 00:07:06,939
+where's the Obadiah Davis
 
 213
-00:12:04,201 --> 00:12:07,259
-the interviews that you needed
-for the entire month in one week,
+00:07:06,939 --> 00:07:08,920
+cemetery? And they told me,
 
 214
-00:12:07,289 --> 00:12:09,899
-maybe you had to record it on
-Tuesday. And to record it on
+00:07:09,019 --> 00:07:09,660
+they're like, oh, it's right
 
 215
-00:12:09,900 --> 00:12:12,570
-Thursday, you know , have four
-episodes to start working with
+00:07:09,660 --> 00:07:12,100
+behind the stables next to the
 
 216
-00:12:12,960 --> 00:12:16,169
-that Saturday. You create the
-outlines for the rest of the
+00:07:12,100 --> 00:07:14,500
+parking lot. Oh, that's more
 
 217
-00:12:16,171 --> 00:12:18,809
-episode. You record the
-narration, put it with your intro
+00:07:14,500 --> 00:07:15,540
+open of them than I would
 
 218
-00:12:18,811 --> 00:12:21,659
-and your outro music, and you
-export it. You output it to your
+00:07:15,540 --> 00:07:16,819
+expect. Yeah, I was like, oh,
 
 219
-00:12:21,660 --> 00:12:24,570
-podcast host, and now you
-schedule it out. You've just done
+00:07:16,959 --> 00:07:18,860
+oh, OK. Though from what I've
 
 220
-00:12:24,600 --> 00:12:29,759
-a month of content in one week.
-So if you're looking to optimize
+00:07:18,860 --> 00:07:20,100
+heard from all the research I
 
 221
-00:12:29,760 --> 00:12:32,669
-and streamline your workflow even
-more beyond templates, the next
+00:07:20,100 --> 00:07:21,300
+did, you can't just really, they
 
 222
-00:12:32,671 --> 00:12:34,769
-best thing to do is to batch your
-episodes.
+00:07:21,300 --> 00:07:22,540
+don't really appreciate you just
+
+223
+00:07:22,540 --> 00:07:24,600
+walking there. It's a very small
+
+224
+00:07:24,600 --> 00:07:26,620
+cemetery. It's like 50 tombs,
+
+225
+00:07:26,740 --> 00:07:27,519
+basically. It's kind of how it
+
+226
+00:07:27,519 --> 00:07:28,779
+goes from most cemeteries,
+
+227
+00:07:28,860 --> 00:07:29,779
+though, unless you have like
+
+228
+00:07:29,779 --> 00:07:30,860
+family there, you can't just
+
+229
+00:07:30,860 --> 00:07:32,920
+wander about. Yeah, it's not
+
+230
+00:07:32,920 --> 00:07:34,040
+like a public cemetery that
+
+231
+00:07:34,040 --> 00:07:37,300
+anyone can just to visit or even
+
+232
+00:07:37,300 --> 00:07:38,839
+be buried in. They're all very
+
+233
+00:07:38,839 --> 00:07:41,500
+old, like all 17, 1800 deaths.
+
+234
+00:07:42,180 --> 00:07:43,040
+So, yeah, so what do people
+
+235
+00:07:43,040 --> 00:07:44,600
+think about this house? Well, in
+
+236
+00:07:44,600 --> 00:07:46,980
+the 1800s, there was a very
+
+237
+00:07:46,980 --> 00:07:49,879
+famous comedian named Thomas
+
+238
+00:07:49,879 --> 00:07:51,459
+Hathaway. He purchased the house
+
+239
+00:07:51,459 --> 00:07:53,040
+and lived there for a while and
+
+240
+00:07:53,040 --> 00:07:55,360
+he was a spiritualist. So what
+
+241
+00:07:55,360 --> 00:07:56,540
+did he do? Well, he started
+
+242
+00:07:56,540 --> 00:07:58,959
+hosting seances in this
+
+243
+00:07:58,959 --> 00:08:01,339
+building, right? For all the
+
+244
+00:08:01,779 --> 00:08:03,160
+neighborhood, all the people who
+
+245
+00:08:03,160 --> 00:08:04,439
+knew about this. It was more
+
+246
+00:08:04,439 --> 00:08:06,019
+actually a low key thing. He and
+
+247
+00:08:06,019 --> 00:08:08,699
+his close confidants would come
+
+248
+00:08:08,699 --> 00:08:10,240
+and perform seances and try to
+
+249
+00:08:10,240 --> 00:08:11,300
+do table tipping, which is
+
+250
+00:08:11,300 --> 00:08:12,279
+literally just putting your
+
+251
+00:08:12,279 --> 00:08:13,800
+hands on the table in the dark
+
+252
+00:08:13,800 --> 00:08:16,560
+and seeing if it starts tipping.
+
+253
+00:08:17,139 --> 00:08:18,899
+So it's kind of similar to when
+
+254
+00:08:18,899 --> 00:08:21,300
+people like grab the Ouija board
+
+255
+00:08:21,300 --> 00:08:25,439
+and push the little device onto
+
+256
+00:08:25,439 --> 00:08:27,459
+the letter they want. Depends.
+
+257
+00:08:27,959 --> 00:08:30,000
+Yeah, I mean, it depends on what
+
+258
+00:08:30,000 --> 00:08:31,379
+you think with it, how much
+
+259
+00:08:31,379 --> 00:08:33,179
+spirits we actually want. I just
+
+260
+00:08:33,179 --> 00:08:34,200
+want to like shake a table
+
+261
+00:08:34,200 --> 00:08:36,240
+around and stuff. Yeah, I think
+
+262
+00:08:36,240 --> 00:08:38,080
+it's a little silly. A lot of it
+
+263
+00:08:38,080 --> 00:08:39,659
+was revealed to be fraud at the
+
+264
+00:08:39,659 --> 00:08:43,220
+time. In fact, one of Thomas
+
+265
+00:08:43,220 --> 00:08:45,220
+Hathaway's buddies was a guy
+
+266
+00:08:45,220 --> 00:08:46,519
+named William Sidney Mount, who
+
+267
+00:08:46,519 --> 00:08:48,100
+was a pretty famous artist of
+
+268
+00:08:48,100 --> 00:08:50,080
+the time. And this guy was like
+
+269
+00:08:51,860 --> 00:08:53,039
+hardcore freemason and a
+
+270
+00:08:53,039 --> 00:08:55,200
+hardcore spiritualist. And he
+
+271
+00:08:55,200 --> 00:08:56,679
+would come to these seances and
+
+272
+00:08:56,679 --> 00:08:57,980
+perform these seances all the
+
+273
+00:08:57,980 --> 00:08:59,460
+time. He lived across the street
+
+274
+00:08:59,460 --> 00:09:00,759
+basically in his own haunted
+
+275
+00:09:00,759 --> 00:09:05,419
+house. And this guy, William
+
+276
+00:09:05,419 --> 00:09:07,139
+Sidney Mount, is supposedly one
+
+277
+00:09:07,139 --> 00:09:09,460
+of the ghosts that still haunts
+
+278
+00:09:09,460 --> 00:09:11,100
+the country house restaurant to
+
+279
+00:09:11,100 --> 00:09:13,379
+this day. It's said that he
+
+280
+00:09:13,379 --> 00:09:15,500
+comes back to perform seances
+
+281
+00:09:15,500 --> 00:09:21,820
+like he used to that he shows up
+
+282
+00:09:21,820 --> 00:09:23,100
+in his, it said he shows up in
+
+283
+00:09:23,100 --> 00:09:25,240
+his like his travel gear with
+
+284
+00:09:25,240 --> 00:09:27,340
+his big hat and like his long
+
+285
+00:09:27,340 --> 00:09:29,460
+jacket and stuff, the same dress
+
+286
+00:09:29,460 --> 00:09:31,320
+he would use to come to the
+
+287
+00:09:31,320 --> 00:09:33,480
+seances. He just keeps
+
+288
+00:09:33,480 --> 00:09:35,440
+contacting himself. He just
+
+289
+00:09:35,440 --> 00:09:36,899
+keeps contacting himself, I
+
+290
+00:09:36,899 --> 00:09:39,299
+guess. Yeah. It's a very vicious
+
+291
+00:09:39,299 --> 00:09:41,159
+cycle. A lot of famous people
+
+292
+00:09:41,159 --> 00:09:42,340
+would do seances here. The other
+
+293
+00:09:42,340 --> 00:09:44,580
+guy that I found interesting was
+
+294
+00:09:44,580 --> 00:09:47,740
+P.T. Barnum of the fame,
+
+295
+00:09:47,940 --> 00:09:49,279
+obviously like entertainer fame
+
+296
+00:09:49,279 --> 00:09:51,960
+of circus fame. He was a buddy
+
+297
+00:09:51,960 --> 00:09:53,779
+of Hathaway because Hathaway
+
+298
+00:09:53,779 --> 00:09:55,539
+actually worked for him as a
+
+299
+00:09:55,539 --> 00:09:57,320
+performer. So you had lots of
+
+300
+00:09:57,320 --> 00:09:59,120
+interesting people, interesting
+
+301
+00:09:59,120 --> 00:10:01,600
+beliefs, hosting seances, trying
+
+302
+00:10:01,600 --> 00:10:03,019
+to contact the dead, often
+
+303
+00:10:03,019 --> 00:10:04,639
+trying to contact their own dead
+
+304
+00:10:04,639 --> 00:10:06,899
+loved ones, claiming to
+
+305
+00:10:06,899 --> 00:10:08,299
+experience different things,
+
+306
+00:10:08,840 --> 00:10:10,899
+claiming to see things. And that
+
+307
+00:10:10,899 --> 00:10:12,940
+was for a short time in the mid
+
+308
+00:10:12,940 --> 00:10:15,600
+to late 1800s. Many of the
+
+309
+00:10:15,600 --> 00:10:17,000
+owners of this place have had
+
+310
+00:10:17,000 --> 00:10:19,500
+some interest in the occult or
+
+311
+00:10:19,500 --> 00:10:21,419
+spirits or something really
+
+312
+00:10:21,419 --> 00:10:23,539
+anything like that. So given
+
+313
+00:10:23,539 --> 00:10:26,639
+that, nowadays a lot is said
+
+314
+00:10:26,639 --> 00:10:29,000
+about this place. The current
+
+315
+00:10:29,000 --> 00:10:31,960
+owner who purchased it in I
+
+316
+00:10:31,960 --> 00:10:34,279
+think like 2005, Bob
+
+317
+00:10:34,279 --> 00:10:36,700
+Willemstein, he used to work
+
+318
+00:10:36,700 --> 00:10:39,039
+there as a busboy like 20 years
+
+319
+00:10:39,039 --> 00:10:41,259
+before and he worked his way all
+
+320
+00:10:41,259 --> 00:10:42,679
+the way up to owner eventually,
+
+321
+00:10:42,980 --> 00:10:44,519
+which is pretty cool. Pretty
+
+322
+00:10:44,519 --> 00:10:47,679
+impressive. And there are many
+
+323
+00:10:47,679 --> 00:10:50,320
+interviews with him where he
+
+324
+00:10:50,320 --> 00:10:51,360
+tells all the stories of all the
+
+325
+00:10:51,360 --> 00:10:52,480
+crazy things that happen to him,
+
+326
+00:10:53,139 --> 00:10:55,960
+that happened to his workers,
+
+327
+00:10:56,379 --> 00:10:57,500
+that happened to visitors, that
+
+328
+00:10:57,500 --> 00:10:59,200
+happened to guests. Right?
+
+329
+00:10:59,259 --> 00:10:59,919
+Because this is a restaurant
+
+330
+00:10:59,919 --> 00:11:04,519
+that we can go to. In fact, I
+
+331
+00:11:04,519 --> 00:11:05,519
+know someone who's gone to it.
+
+332
+00:11:05,720 --> 00:11:06,799
+My girlfriend Sarah has eaten
+
+333
+00:11:06,799 --> 00:11:08,620
+there as a kid, but supposedly
+
+334
+00:11:08,620 --> 00:11:09,840
+it's very fine dining. It's very
+
+335
+00:11:09,919 --> 00:11:12,259
+expensive. It's like 20 to $40 a
+
+336
+00:11:12,259 --> 00:11:13,980
+meal. But anyway, some of the
+
+337
+00:11:13,980 --> 00:11:15,840
+stuff that's said to happen
+
+338
+00:11:15,840 --> 00:11:17,039
+here, and this is considered
+
+339
+00:11:17,039 --> 00:11:18,179
+Long Island's most haunted
+
+340
+00:11:18,179 --> 00:11:22,220
+place. So people are said to
+
+341
+00:11:22,220 --> 00:11:23,600
+have seen the ghost of William
+
+342
+00:11:23,600 --> 00:11:25,580
+Sidney Mount. So a man dressed
+
+343
+00:11:25,580 --> 00:11:27,840
+in 1800s garb walking in the
+
+344
+00:11:27,840 --> 00:11:29,860
+hallways, leaving footsteps,
+
+345
+00:11:30,480 --> 00:11:32,820
+workers at night locking up
+
+346
+00:11:32,820 --> 00:11:34,700
+would see him at the corner of
+
+347
+00:11:34,700 --> 00:11:36,259
+their eyes. It's always like the
+
+348
+00:11:36,259 --> 00:11:37,580
+same description of the guy,
+
+349
+00:11:38,039 --> 00:11:39,139
+right? A lot of different things
+
+350
+00:11:39,139 --> 00:11:40,019
+with him, a lot of different
+
+351
+00:11:40,019 --> 00:11:42,940
+things with other male spirits
+
+352
+00:11:42,940 --> 00:11:45,700
+and, you know, EVP. So
+
+353
+00:11:45,700 --> 00:11:48,500
+recordings of disembodied voices
+
+354
+00:11:48,500 --> 00:11:49,919
+and all that, things like
+
+355
+00:11:49,919 --> 00:11:52,539
+candles being reignited. But the
+
+356
+00:11:52,539 --> 00:11:54,639
+most interesting story that
+
+357
+00:11:54,639 --> 00:11:56,080
+comes out of the country house
+
+358
+00:11:56,080 --> 00:11:58,500
+haunting is that of Annette
+
+359
+00:11:58,500 --> 00:12:01,220
+Williamson. So I'm gonna tell
+
+360
+00:12:01,220 --> 00:12:02,100
+you guys the story of Annette
+
+361
+00:12:02,100 --> 00:12:03,919
+Williamson. And then we're gonna
+
+362
+00:12:03,919 --> 00:12:04,779
+see if there's anything funky
+
+363
+00:12:04,779 --> 00:12:06,600
+about the story. So this story
+
+364
+00:12:06,600 --> 00:12:12,620
+comes from the owner, Bob, who
+
+365
+00:12:12,620 --> 00:12:15,820
+was told it by a random French
+
+366
+00:12:15,820 --> 00:12:18,299
+psychic who once visited the
+
+367
+00:12:18,299 --> 00:12:21,840
+restaurant years and years ago.
+
+368
+00:12:22,480 --> 00:12:24,039
+Like when he was the owner or
+
+369
+00:12:24,039 --> 00:12:26,299
+when he was a busboy? When he
+
+370
+00:12:26,299 --> 00:12:27,639
+was the owner, this random
+
+371
+00:12:27,639 --> 00:12:29,139
+French psychic showed up in town
+
+372
+00:12:29,139 --> 00:12:31,200
+late one night and was like, oh,
+
+373
+00:12:31,379 --> 00:12:32,919
+you're there, Auguste in your
+
+374
+00:12:32,919 --> 00:12:34,360
+house. That's my French accent.
+
+375
+00:12:34,460 --> 00:12:36,039
+It's pretty good. And Bob was
+
+376
+00:12:36,039 --> 00:12:37,659
+like, oh, tell me about it. And
+
+377
+00:12:37,659 --> 00:12:39,419
+he sat and he told this whole
+
+378
+00:12:39,419 --> 00:12:41,879
+story. Then Long Island's most
+
+379
+00:12:41,879 --> 00:12:45,460
+famous psychic duo, a lady named
+
+380
+00:12:45,460 --> 00:12:47,240
+Carrie Anne, now Long Island
+
+381
+00:12:47,240 --> 00:12:50,759
+Medium, Carrie Anne and Joe
+
+382
+00:12:50,759 --> 00:12:53,299
+Giaquinto is the guy. He's a
+
+383
+00:12:53,299 --> 00:12:54,580
+paranormal investigator and he
+
+384
+00:12:54,580 --> 00:12:57,820
+considers himself a medium kind
+
+385
+00:12:57,820 --> 00:12:59,879
+of sensitive sort of. Yeah, he
+
+386
+00:12:59,879 --> 00:13:00,980
+considers himself that's a good
+
+387
+00:13:00,980 --> 00:13:03,559
+way to put it, sensitive. They
+
+388
+00:13:03,559 --> 00:13:05,419
+have written books. They've
+
+389
+00:13:05,419 --> 00:13:06,399
+written many stories about this
+
+390
+00:13:06,399 --> 00:13:07,419
+because they claim to be in
+
+391
+00:13:07,419 --> 00:13:08,860
+contact with the ghost of
+
+392
+00:13:08,860 --> 00:13:11,100
+Annette Williamson. And they
+
+393
+00:13:11,100 --> 00:13:13,440
+verified her story and expanded
+
+394
+00:13:13,440 --> 00:13:16,019
+on it and documented it in books
+
+395
+00:13:16,019 --> 00:13:18,779
+and documentaries and local news
+
+396
+00:13:18,779 --> 00:13:20,200
+articles to the point where it's
+
+397
+00:13:20,200 --> 00:13:21,419
+one of the most famous Long
+
+398
+00:13:21,419 --> 00:13:23,340
+Island haunted haunting stories.
+
+399
+00:13:23,980 --> 00:13:25,700
+So who is Annette Williamson?
+
+400
+00:13:25,960 --> 00:13:27,360
+Well, it's said that the
+
+401
+00:13:27,360 --> 00:13:29,259
+Williamson family was a family
+
+402
+00:13:29,259 --> 00:13:31,539
+that owned the property at some
+
+403
+00:13:31,539 --> 00:13:32,960
+point during the Revolutionary
+
+404
+00:13:32,960 --> 00:13:34,799
+War, that period, right? And
+
+405
+00:13:34,799 --> 00:13:35,580
+it's that they had several
+
+406
+00:13:35,580 --> 00:13:37,220
+children, the oldest of which
+
+407
+00:13:37,220 --> 00:13:40,100
+was Annette. She was only 17
+
+408
+00:13:40,100 --> 00:13:42,019
+years old, so the rest of the
+
+409
+00:13:42,019 --> 00:13:43,460
+kids must have been pretty
+
+410
+00:13:43,460 --> 00:13:44,799
+young. And it's said that they
+
+411
+00:13:44,799 --> 00:13:46,200
+were a Dutch family living in
+
+412
+00:13:46,200 --> 00:13:48,580
+the area, right? And as the
+
+413
+00:13:48,580 --> 00:13:49,419
+story goes around the
+
+414
+00:13:49,419 --> 00:13:51,139
+Revolutionary War time, so just
+
+415
+00:13:51,139 --> 00:13:52,679
+as stuff is starting to heat up,
+
+416
+00:13:53,759 --> 00:13:55,799
+her parents had property in New
+
+417
+00:13:55,799 --> 00:13:57,159
+Jersey. I don't know why they
+
+418
+00:13:57,159 --> 00:13:58,399
+would want to keep property in
+
+419
+00:13:58,399 --> 00:14:00,600
+that dirty state. But they
+
+420
+00:14:00,600 --> 00:14:01,980
+wanted to check up on it and
+
+421
+00:14:01,980 --> 00:14:03,419
+make sure that the British
+
+422
+00:14:03,419 --> 00:14:05,200
+weren't destroying it or they
+
+423
+00:14:05,200 --> 00:14:06,240
+were in the area at the time and
+
+424
+00:14:06,240 --> 00:14:07,460
+they're really worried about it
+
+425
+00:14:07,460 --> 00:14:08,460
+there. They must have been a
+
+426
+00:14:08,460 --> 00:14:10,240
+wealthy family to own this
+
+427
+00:14:10,240 --> 00:14:11,299
+property. It was pretty large.
+
+428
+00:14:12,059 --> 00:14:13,019
+So what they decided to do, they
+
+429
+00:14:13,019 --> 00:14:15,159
+decided to leave Annette home
+
+430
+00:14:15,159 --> 00:14:16,980
+alone to watch over the
+
+431
+00:14:16,980 --> 00:14:18,360
+household and the rest of the
+
+432
+00:14:18,360 --> 00:14:19,840
+family while they go on a trip
+
+433
+00:14:19,840 --> 00:14:21,179
+to just check on the property in
+
+434
+00:14:21,179 --> 00:14:22,659
+New Jersey. It was a pretty
+
+435
+00:14:22,659 --> 00:14:24,600
+dangerous trip as again, the
+
+436
+00:14:24,600 --> 00:14:26,000
+British are kind of in the area.
+
+437
+00:14:26,139 --> 00:14:27,259
+In fact, New York, I think was
+
+438
+00:14:27,259 --> 00:14:29,000
+controlled by the British for a
+
+439
+00:14:29,000 --> 00:14:29,759
+long time during the
+
+440
+00:14:29,759 --> 00:14:34,320
+Revolutionary War. So it
+
+441
+00:14:34,320 --> 00:14:35,279
+wouldn't be an easy trip. It'd
+
+442
+00:14:35,279 --> 00:14:37,299
+be pretty difficult to do. And
+
+443
+00:14:37,299 --> 00:14:38,000
+there was actually a lot of
+
+444
+00:14:38,000 --> 00:14:42,100
+loyal loyalist supporters across
+
+445
+00:14:42,100 --> 00:14:44,039
+Long Island amongst farmers.
+
+446
+00:14:44,980 --> 00:14:46,399
+Stony Brook had a good mix of
+
+447
+00:14:48,879 --> 00:14:51,440
+pro-American citizens, but not a
+
+448
+00:14:51,440 --> 00:14:53,019
+good time to travel. And so
+
+449
+00:14:53,019 --> 00:14:56,519
+Annette was extremely distressed
+
+450
+00:14:56,519 --> 00:14:57,919
+by this. She begged them not to
+
+451
+00:14:57,919 --> 00:14:59,980
+leave, but they had to. And so
+
+452
+00:14:59,980 --> 00:15:02,240
+she was left alone, terrified to
+
+453
+00:15:02,240 --> 00:15:03,340
+fend for herself and her
+
+454
+00:15:03,340 --> 00:15:05,240
+siblings, not knowing when her
+
+455
+00:15:05,240 --> 00:15:07,159
+parents would get back. And of
+
+456
+00:15:07,159 --> 00:15:07,980
+course, she had nothing to
+
+457
+00:15:07,980 --> 00:15:09,399
+defend herself from the British.
+
+458
+00:15:10,019 --> 00:15:11,820
+She could do nothing. So lo and
+
+459
+00:15:11,820 --> 00:15:12,940
+behold, when the British came
+
+460
+00:15:12,940 --> 00:15:15,460
+and seeing a beautiful, huge
+
+461
+00:15:15,460 --> 00:15:19,980
+property demanded that Annette
+
+462
+00:15:19,980 --> 00:15:23,240
+allowed them to stay there. What
+
+463
+00:15:23,240 --> 00:15:24,860
+could she do? She had to say
+
+464
+00:15:24,860 --> 00:15:26,299
+yes, she couldn't do anything
+
+465
+00:15:26,299 --> 00:15:27,559
+and she needed to keep herself
+
+466
+00:15:27,559 --> 00:15:29,419
+and her siblings safe. So she
+
+467
+00:15:29,419 --> 00:15:31,320
+let them stay. And so it said
+
+468
+00:15:31,320 --> 00:15:32,539
+for the period of time where the
+
+469
+00:15:32,539 --> 00:15:34,720
+British troops occupied the
+
+470
+00:15:34,720 --> 00:15:36,960
+property, Annette spent her days
+
+471
+00:15:36,960 --> 00:15:40,980
+just totally, totally depressed,
+
+472
+00:15:41,440 --> 00:15:43,899
+wandering around, sitting in the
+
+473
+00:15:43,899 --> 00:15:45,620
+old field room, which is on the
+
+474
+00:15:45,620 --> 00:15:47,379
+second floor. Nowadays, it's
+
+475
+00:15:47,379 --> 00:15:49,899
+like a private party room in the
+
+476
+00:15:49,899 --> 00:15:50,919
+restaurant in the second floor,
+
+477
+00:15:51,320 --> 00:15:52,259
+sitting out, looking out the
+
+478
+00:15:52,259 --> 00:15:55,019
+window, just blankly staring,
+
+479
+00:15:55,179 --> 00:15:56,039
+waiting for her parents to
+
+480
+00:15:56,039 --> 00:15:58,200
+return. Every day, this is what
+
+481
+00:15:58,200 --> 00:15:59,379
+she would do. She'd just wander
+
+482
+00:15:59,379 --> 00:16:01,419
+around, just worried about her
+
+483
+00:16:01,419 --> 00:16:03,039
+parents, worried about keeping
+
+484
+00:16:03,039 --> 00:16:04,600
+after her siblings, worried
+
+485
+00:16:04,600 --> 00:16:06,240
+about the British, worried about
+
+486
+00:16:06,240 --> 00:16:08,259
+the war, and this one for a long
+
+487
+00:16:08,259 --> 00:16:11,139
+time. And unfortunately, her
+
+488
+00:16:11,139 --> 00:16:13,480
+parents never returned. They
+
+489
+00:16:13,480 --> 00:16:15,039
+were killed by the British in
+
+490
+00:16:15,039 --> 00:16:17,080
+New Jersey. And to make matters
+
+491
+00:16:17,080 --> 00:16:19,240
+worse, when the British left
+
+492
+00:16:19,240 --> 00:16:22,820
+finally, the townspeople didn't
+
+493
+00:16:22,820 --> 00:16:25,360
+take too kindly to her housing
+
+494
+00:16:25,360 --> 00:16:27,460
+their enemy and they accused her
+
+495
+00:16:27,460 --> 00:16:31,039
+of being a British spy. And an
+
+496
+00:16:31,039 --> 00:16:33,559
+angry mob broke down the doors
+
+497
+00:16:33,559 --> 00:16:36,259
+and without any sort of trial,
+
+498
+00:16:36,440 --> 00:16:39,419
+murdered her and the rest of the
+
+499
+00:16:39,419 --> 00:16:41,860
+family and pulled blood. Like
+
+500
+00:16:41,860 --> 00:16:43,820
+all the other siblings? Yes,
+
+501
+00:16:44,419 --> 00:16:45,860
+yes. So keep in mind the
+
+502
+00:16:45,860 --> 00:16:46,720
+interesting parts of the story,
+
+503
+00:16:46,779 --> 00:16:48,580
+right? Now, there are
+
+504
+00:16:48,580 --> 00:16:50,700
+disagreeing records on whether
+
+505
+00:16:50,700 --> 00:16:53,480
+she was hanged in the old field
+
+506
+00:16:53,480 --> 00:16:56,399
+room near the fireplace or
+
+507
+00:16:56,399 --> 00:16:59,899
+murdered outside. But that's the
+
+508
+00:16:59,899 --> 00:17:02,279
+story. She died and ever since
+
+509
+00:17:02,279 --> 00:17:05,019
+then, there have been countless,
+
+510
+00:17:05,119 --> 00:17:07,660
+countless, countless encounters
+
+511
+00:17:07,660 --> 00:17:11,660
+with her. The owner, Bob, tells
+
+512
+00:17:11,660 --> 00:17:13,920
+stories of closing up at night,
+
+513
+00:17:14,420 --> 00:17:15,940
+turning around the corner, and
+
+514
+00:17:15,940 --> 00:17:18,359
+bumping into a full apparition
+
+515
+00:17:18,359 --> 00:17:20,940
+of a young woman, blonde hair,
+
+516
+00:17:21,059 --> 00:17:23,460
+blue eyes, very pale, who turns
+
+517
+00:17:23,460 --> 00:17:25,259
+to look at him, is startled, has
+
+518
+00:17:25,259 --> 00:17:28,380
+a look of fear and surprise, and
+
+519
+00:17:28,380 --> 00:17:29,980
+just dissipates in front of him.
+
+520
+00:17:30,380 --> 00:17:33,140
+He's had stuff like his tie
+
+521
+00:17:33,140 --> 00:17:35,359
+clip, which is a oddly specific
+
+522
+00:17:35,359 --> 00:17:38,480
+thing, disappear and reappear on
+
+523
+00:17:38,480 --> 00:17:40,480
+the fireplace where she was
+
+524
+00:17:40,480 --> 00:17:42,319
+supposedly hanged. But then it
+
+525
+00:17:42,319 --> 00:17:43,259
+gets even weirder because
+
+526
+00:17:43,259 --> 00:17:44,839
+there's actually many, many,
+
+527
+00:17:44,839 --> 00:17:46,519
+many encounters that have had
+
+528
+00:17:46,519 --> 00:17:49,000
+many witnesses. He was once
+
+529
+00:17:49,000 --> 00:17:51,460
+closing out the restaurant with
+
+530
+00:17:51,460 --> 00:17:53,559
+an old friend who was very much
+
+531
+00:17:53,559 --> 00:17:55,019
+a skeptic and didn't believe in
+
+532
+00:17:55,019 --> 00:17:56,059
+any of this sort of stuff at
+
+533
+00:17:56,059 --> 00:17:58,079
+all. They're sitting down when
+
+534
+00:17:58,079 --> 00:18:00,059
+supposedly, and this is from the
+
+535
+00:18:00,059 --> 00:18:02,660
+person himself, a chair in the
+
+536
+00:18:02,660 --> 00:18:04,079
+restaurant is lifted up and
+
+537
+00:18:04,079 --> 00:18:05,720
+thrown at him. Oh, we got some
+
+538
+00:18:05,720 --> 00:18:07,720
+poltergeist stuff going on. Yes.
+
+539
+00:18:08,220 --> 00:18:09,740
+And as they turn to look, they
+
+540
+00:18:09,740 --> 00:18:10,759
+catch a glimpse of a white
+
+541
+00:18:10,759 --> 00:18:12,480
+dress, kind of flapping right
+
+542
+00:18:12,480 --> 00:18:13,799
+around like a corner as if
+
+543
+00:18:13,799 --> 00:18:15,119
+someone just escaped the room.
+
+544
+00:18:15,160 --> 00:18:16,599
+Well, they call a glimpse of
+
+545
+00:18:16,599 --> 00:18:18,339
+her. So there's this seeming
+
+546
+00:18:18,339 --> 00:18:19,759
+like poltergeist kind of
+
+547
+00:18:19,759 --> 00:18:21,140
+trickery stuff going on with the
+
+548
+00:18:21,140 --> 00:18:24,140
+hiding of the tie pin as well.
+
+549
+00:18:24,640 --> 00:18:26,299
+But then you said he also just
+
+550
+00:18:26,299 --> 00:18:28,200
+ran into her basically, and she
+
+551
+00:18:28,200 --> 00:18:31,119
+dissipated. That doesn't sound
+
+552
+00:18:31,119 --> 00:18:33,579
+as aggressive as the poltergeist
+
+553
+00:18:33,579 --> 00:18:38,599
+stuff. So if that's true, as far
+
+554
+00:18:38,599 --> 00:18:40,339
+as hauntings go, I mean, you
+
+555
+00:18:40,339 --> 00:18:41,319
+said it's the most haunted
+
+556
+00:18:41,319 --> 00:18:42,819
+place. There could just be
+
+557
+00:18:42,819 --> 00:18:46,019
+multiple things at work there
+
+558
+00:18:46,019 --> 00:18:48,380
+because it wouldn't make, I
+
+559
+00:18:48,380 --> 00:18:49,160
+don't feel like it would make
+
+560
+00:18:49,160 --> 00:18:51,160
+sense for for there to be
+
+561
+00:18:51,160 --> 00:18:52,440
+poltergeist activity from the
+
+562
+00:18:52,440 --> 00:18:54,500
+same thing that got startled and
+
+563
+00:18:54,500 --> 00:18:56,859
+then vanished. That's a, keep
+
+564
+00:18:56,859 --> 00:18:57,839
+that in mind. That's an
+
+565
+00:18:57,839 --> 00:19:00,400
+interesting point. Well, to add
+
+566
+00:19:00,400 --> 00:19:02,259
+to that, were any of the
+
+567
+00:19:02,259 --> 00:19:05,440
+siblings, like her sister, like
+
+568
+00:19:05,440 --> 00:19:07,180
+could it have been one of the
+
+569
+00:19:07,180 --> 00:19:10,539
+sisters instead of her or was
+
+570
+00:19:10,539 --> 00:19:12,700
+the account that it was probably
+
+571
+00:19:12,700 --> 00:19:15,920
+a net? All the encounters assume
+
+572
+00:19:15,920 --> 00:19:18,940
+that it's a net. The stories
+
+573
+00:19:18,940 --> 00:19:21,519
+never give details on how many
+
+574
+00:19:21,519 --> 00:19:24,059
+siblings there were or how young
+
+575
+00:19:24,059 --> 00:19:25,599
+they were and how many guys, how
+
+576
+00:19:25,599 --> 00:19:26,759
+many girls. So it's always
+
+577
+00:19:26,759 --> 00:19:29,160
+assumed to be a net. Basically
+
+578
+00:19:29,160 --> 00:19:30,700
+anything that happens in the
+
+579
+00:19:30,700 --> 00:19:33,259
+house is chalked up to a net to
+
+580
+00:19:33,259 --> 00:19:34,519
+a point where it's kind of like
+
+581
+00:19:34,519 --> 00:19:36,160
+advertised for this restaurant
+
+582
+00:19:36,160 --> 00:19:38,640
+that you'll get to experience
+
+583
+00:19:38,640 --> 00:19:40,299
+the ghost of a net because
+
+584
+00:19:40,299 --> 00:19:43,200
+evidently she's very kind to
+
+585
+00:19:43,200 --> 00:19:46,720
+children. One day when a family
+
+586
+00:19:46,720 --> 00:19:47,920
+was dining there, evidently with
+
+587
+00:19:47,920 --> 00:19:50,619
+a young girl, like four or five
+
+588
+00:19:50,619 --> 00:19:51,859
+years old, the little girl would
+
+589
+00:19:51,859 --> 00:19:53,960
+keep getting up and trying to
+
+590
+00:19:53,960 --> 00:19:57,720
+get into the men's bathroom. And
+
+591
+00:19:57,720 --> 00:19:59,940
+Bob the owner eventually came
+
+592
+00:19:59,940 --> 00:20:01,880
+over and was like, hi, can you
+
+593
+00:20:01,880 --> 00:20:03,480
+please tell your daughter to
+
+594
+00:20:03,480 --> 00:20:05,619
+stop? We can't, you know, it's
+
+595
+00:20:05,619 --> 00:20:07,420
+causing a scene. Just let her
+
+596
+00:20:07,420 --> 00:20:08,920
+know she can't do that. And the
+
+597
+00:20:08,920 --> 00:20:09,700
+parents were really embarrassed
+
+598
+00:20:09,700 --> 00:20:10,740
+and mom was like, you know,
+
+599
+00:20:10,880 --> 00:20:12,940
+sweetie, you can't go there.
+
+600
+00:20:13,059 --> 00:20:14,500
+That's not for girls. That's for
+
+601
+00:20:14,500 --> 00:20:15,940
+guys. Why are you trying to go
+
+602
+00:20:15,940 --> 00:20:18,220
+there? And the girl said, my
+
+603
+00:20:18,220 --> 00:20:19,859
+friend, my friend's trying to
+
+604
+00:20:19,859 --> 00:20:21,799
+play hide and seek with me. She
+
+605
+00:20:21,799 --> 00:20:23,240
+wants me to follow her over
+
+606
+00:20:23,240 --> 00:20:25,119
+there. And they're like, what?
+
+607
+00:20:25,660 --> 00:20:26,640
+And they asked the kid to
+
+608
+00:20:26,640 --> 00:20:29,359
+describe the girl or the friend
+
+609
+00:20:29,359 --> 00:20:30,960
+and she's like, that's a young
+
+610
+00:20:30,960 --> 00:20:33,660
+girl, young lady, blonde hair,
+
+611
+00:20:33,900 --> 00:20:35,019
+blue eyes. And she gives a
+
+612
+00:20:35,019 --> 00:20:37,220
+description exactly matching the
+
+613
+00:20:37,220 --> 00:20:38,180
+story of Annette Williamson.
+
+614
+00:20:38,700 --> 00:20:40,279
+Right. In that case, it's like a
+
+615
+00:20:40,279 --> 00:20:41,759
+more friendly story, but there
+
+616
+00:20:41,759 --> 00:20:43,779
+are less friendly things really
+
+617
+00:20:43,779 --> 00:20:46,599
+kind of just eerie. Very often
+
+618
+00:20:46,599 --> 00:20:50,099
+workers would catch glimpses of
+
+619
+00:20:50,099 --> 00:20:53,900
+her when working outside. They'd
+
+620
+00:20:53,900 --> 00:20:56,220
+see a silhouette of a young
+
+621
+00:20:56,220 --> 00:20:57,859
+woman in the window, the same
+
+622
+00:20:57,859 --> 00:20:59,160
+window she was set to sit in
+
+623
+00:20:59,160 --> 00:21:01,539
+with like a really sad look and
+
+624
+00:21:01,539 --> 00:21:03,240
+something interesting. It said
+
+625
+00:21:03,240 --> 00:21:06,059
+that people who notice her in
+
+626
+00:21:06,059 --> 00:21:08,119
+that context are overcome with a
+
+627
+00:21:08,119 --> 00:21:10,799
+sense of sadness. And the owner,
+
+628
+00:21:10,859 --> 00:21:11,900
+Bob, has claimed that he's even
+
+629
+00:21:11,900 --> 00:21:14,180
+seen people just start to cry
+
+630
+00:21:14,180 --> 00:21:15,799
+like out of nowhere, just be
+
+631
+00:21:15,799 --> 00:21:17,960
+affected that much by the, I
+
+632
+00:21:17,960 --> 00:21:19,799
+don't know, by the atmosphere of
+
+633
+00:21:19,799 --> 00:21:21,619
+her presence that they just
+
+634
+00:21:21,619 --> 00:21:24,180
+start to weep. And the stories
+
+635
+00:21:24,180 --> 00:21:25,079
+go on from there. I mean, there
+
+636
+00:21:25,079 --> 00:21:26,859
+are stories of the one night in
+
+637
+00:21:26,859 --> 00:21:29,680
+like August of 1980. It's really
+
+638
+00:21:29,680 --> 00:21:30,740
+hot out. You know, when
+
+639
+00:21:30,740 --> 00:21:31,720
+sometimes there's like
+
+640
+00:21:31,720 --> 00:21:32,960
+lightning, even though there's
+
+641
+00:21:32,960 --> 00:21:34,599
+no rain and it's really humid
+
+642
+00:21:34,599 --> 00:21:36,400
+out like heat lightning. Yeah,
+
+643
+00:21:36,420 --> 00:21:39,559
+that's fake, but continue. What
+
+644
+00:21:39,559 --> 00:21:45,160
+do you mean? Oh, it's not. No,
+
+645
+00:21:45,740 --> 00:21:48,119
+but a lot of people believe that
+
+646
+00:21:48,119 --> 00:21:50,480
+because it's hot out, that there
+
+647
+00:21:50,480 --> 00:21:52,900
+is lightning caused by the heat,
+
+648
+00:21:53,140 --> 00:21:54,420
+but it's actually just far away
+
+649
+00:21:54,420 --> 00:21:56,480
+lightning. That is very
+
+650
+00:21:56,480 --> 00:21:58,460
+interesting. Okay, so there's
+
+651
+00:21:58,460 --> 00:22:00,259
+far away lightning. And all the
+
+652
+00:22:00,259 --> 00:22:01,819
+lights in the house go out and
+
+653
+00:22:01,819 --> 00:22:03,039
+all the workers go outside and
+
+654
+00:22:03,039 --> 00:22:03,980
+they're like, oh, what's going
+
+655
+00:22:03,980 --> 00:22:06,420
+on? And they turn and they see,
+
+656
+00:22:06,619 --> 00:22:07,900
+even though all the lights are
+
+657
+00:22:07,900 --> 00:22:11,059
+out, there's no power in the
+
+658
+00:22:11,059 --> 00:22:13,059
+window of the old field room on
+
+659
+00:22:13,059 --> 00:22:14,819
+the second floor, the lights are
+
+660
+00:22:14,819 --> 00:22:16,779
+on and it's almost like a candle
+
+661
+00:22:16,779 --> 00:22:18,640
+light, like a flickering sort of
+
+662
+00:22:18,640 --> 00:22:20,240
+light. And they watch as the
+
+663
+00:22:20,240 --> 00:22:22,240
+shape of a young woman, long
+
+664
+00:22:22,240 --> 00:22:24,339
+hair, just a silhouette, walks
+
+665
+00:22:24,339 --> 00:22:26,200
+across the window. And all of a
+
+666
+00:22:26,200 --> 00:22:27,359
+sudden the lights go back on in
+
+667
+00:22:27,359 --> 00:22:28,480
+the house. They rush back in,
+
+668
+00:22:28,940 --> 00:22:30,519
+you know, they go up there. Of
+
+669
+00:22:30,519 --> 00:22:31,779
+course, there's no one there. A
+
+670
+00:22:31,779 --> 00:22:32,859
+lot of weird stuff like that. A
+
+671
+00:22:32,859 --> 00:22:35,259
+lot of full-on apparitions of
+
+672
+00:22:35,259 --> 00:22:37,180
+this ghost, sights of her
+
+673
+00:22:37,180 --> 00:22:38,319
+silhouette, sights of her
+
+674
+00:22:38,319 --> 00:22:41,859
+upfront, playful things like,
+
+675
+00:22:41,859 --> 00:22:43,019
+you know, the tie clip
+
+676
+00:22:43,019 --> 00:22:44,900
+disappearing or candles,
+
+677
+00:22:45,039 --> 00:22:47,019
+relighting themselves, that
+
+678
+00:22:47,019 --> 00:22:48,480
+chair being thrown across. Yeah,
+
+679
+00:22:48,559 --> 00:22:50,180
+just playful. Yeah. And they
+
+680
+00:22:50,180 --> 00:22:53,140
+always hear stuff like footsteps
+
+681
+00:22:53,140 --> 00:22:54,880
+and all sorts of things. In
+
+682
+00:22:54,880 --> 00:22:56,359
+fact, I saw an account of a
+
+683
+00:22:56,359 --> 00:22:57,299
+worker who claimed to have
+
+684
+00:22:57,299 --> 00:22:59,440
+worked there back in the day who
+
+685
+00:22:59,440 --> 00:23:01,700
+claimed that basically on some
+
+686
+00:23:01,700 --> 00:23:03,559
+quiet nights after like closing,
+
+687
+00:23:04,039 --> 00:23:05,220
+the workers would just like hang
+
+688
+00:23:05,220 --> 00:23:07,299
+out at the bar there and have
+
+689
+00:23:07,299 --> 00:23:08,359
+fun just waiting for something
+
+690
+00:23:08,359 --> 00:23:09,819
+to happen. Like this stuff was
+
+691
+00:23:09,819 --> 00:23:11,440
+that common. They'd hear voices,
+
+692
+00:23:11,579 --> 00:23:12,640
+they'd hear footsteps, they'd
+
+693
+00:23:12,640 --> 00:23:15,039
+hear or they'd see silhouettes,
+
+694
+00:23:15,160 --> 00:23:17,700
+they'd see things move. And the
+
+695
+00:23:17,700 --> 00:23:18,720
+wine cellar in the basement
+
+696
+00:23:18,720 --> 00:23:19,900
+supposedly wine bottles
+
+697
+00:23:19,900 --> 00:23:21,400
+sometimes will just fly off the
+
+698
+00:23:21,400 --> 00:23:23,720
+walls and wine glasses will
+
+699
+00:23:23,720 --> 00:23:24,759
+smash in front of people's
+
+700
+00:23:24,759 --> 00:23:26,359
+faces. And it's all checked up
+
+701
+00:23:26,359 --> 00:23:27,900
+to Annette Williamson. That
+
+702
+00:23:27,900 --> 00:23:30,259
+would happen at my work. The
+
+703
+00:23:30,259 --> 00:23:32,980
+heck? Do you? Right. Now when
+
+704
+00:23:32,980 --> 00:23:34,299
+you have to clean it. True.
+
+705
+00:23:34,859 --> 00:23:37,099
+Yeah. But so yeah, there's just
+
+706
+00:23:37,099 --> 00:23:39,839
+a lot of stuff here. And one of
+
+707
+00:23:39,839 --> 00:23:41,099
+the craziest claims I've heard
+
+708
+00:23:41,099 --> 00:23:43,599
+is that like when people listen
+
+709
+00:23:43,599 --> 00:23:44,819
+to music in the restaurant at
+
+710
+00:23:44,819 --> 00:23:45,779
+night, like the owner will have
+
+711
+00:23:45,779 --> 00:23:47,559
+like a radio on, the ghost of
+
+712
+00:23:47,559 --> 00:23:49,119
+Annette will mess with the radio
+
+713
+00:23:49,119 --> 00:23:51,400
+because she loves music. And
+
+714
+00:23:51,400 --> 00:23:52,700
+she'll turn the knobs and
+
+715
+00:23:52,700 --> 00:23:54,019
+they'll be like, Annette, what
+
+716
+00:23:54,019 --> 00:23:56,420
+are you doing? So evidently she
+
+717
+00:23:56,420 --> 00:23:57,579
+loves music. She loves kids. She
+
+718
+00:23:57,579 --> 00:24:00,019
+loves music. All great. Crank up
+
+719
+00:24:00,019 --> 00:24:01,500
+some AC DC that they put on
+
+720
+00:24:01,500 --> 00:24:03,279
+after closing. Exactly. She just
+
+721
+00:24:03,279 --> 00:24:04,839
+jams out to some classic rock.
+
+722
+00:24:05,299 --> 00:24:06,339
+That's kind of interesting that
+
+723
+00:24:06,339 --> 00:24:08,200
+she's very, you know, attached
+
+724
+00:24:08,200 --> 00:24:09,680
+to the music kind of thing
+
+725
+00:24:09,680 --> 00:24:12,480
+because radios weren't really
+
+726
+00:24:12,480 --> 00:24:14,500
+too common or I don't even think
+
+727
+00:24:14,500 --> 00:24:16,420
+they were a thing back then.
+
+728
+00:24:16,519 --> 00:24:18,220
+Yeah, it's good. Yeah. So I
+
+729
+00:24:18,220 --> 00:24:20,259
+don't, I mean, obviously people
+
+730
+00:24:20,259 --> 00:24:22,799
+had music for centuries and
+
+731
+00:24:22,799 --> 00:24:24,859
+centuries, but it's interesting
+
+732
+00:24:24,859 --> 00:24:27,200
+to think that new technology is
+
+733
+00:24:27,200 --> 00:24:30,259
+impacting the old behaviors of
+
+734
+00:24:30,259 --> 00:24:33,079
+the ghost. Ghosts can learn. You
+
+735
+00:24:33,079 --> 00:24:33,839
+think that means they can use
+
+736
+00:24:33,839 --> 00:24:36,240
+iPhones as well? They could like
+
+737
+00:24:36,240 --> 00:24:38,720
+pause your Spotify. No, but they
+
+738
+00:24:38,720 --> 00:24:39,980
+might be able to type in the
+
+739
+00:24:39,980 --> 00:24:41,519
+chat GPT if they possess your
+
+740
+00:24:41,519 --> 00:24:43,140
+computer. That is just what chat
+
+741
+00:24:43,140 --> 00:24:47,319
+GPT is. AI are just ghosts.
+
+742
+00:24:48,180 --> 00:24:50,240
+Yeah, it's just like ghosts. But
+
+743
+00:24:50,240 --> 00:24:52,359
+great. So we have all these
+
+744
+00:24:52,359 --> 00:24:54,440
+accounts. I mean, you even have
+
+745
+00:24:54,440 --> 00:24:56,420
+accounts of people, like random
+
+746
+00:24:56,420 --> 00:24:59,059
+people driving by at night and
+
+747
+00:24:59,059 --> 00:25:02,400
+seeing the silhouette of Annette
+
+748
+00:25:02,400 --> 00:25:04,980
+Williamson in the window and
+
+749
+00:25:04,980 --> 00:25:07,660
+being overcome with sadness. So
+
+750
+00:25:07,660 --> 00:25:09,660
+from a distance. While the yeah,
+
+751
+00:25:09,700 --> 00:25:11,000
+so while the original story kind
+
+752
+00:25:11,000 --> 00:25:11,819
+of comes from that French
+
+753
+00:25:11,819 --> 00:25:12,980
+sidekick that passes to the
+
+754
+00:25:12,980 --> 00:25:15,440
+owner and then the Carrie Anne
+
+755
+00:25:15,440 --> 00:25:16,980
+and Joe kind of running with it
+
+756
+00:25:16,980 --> 00:25:18,420
+and claiming to be in contact
+
+757
+00:25:18,420 --> 00:25:20,440
+with her when they visit, you
+
+758
+00:25:20,440 --> 00:25:21,759
+don't have just sightings
+
+759
+00:25:21,759 --> 00:25:23,660
+limited to those people. You
+
+760
+00:25:23,660 --> 00:25:25,619
+have normal if you look at the
+
+761
+00:25:25,619 --> 00:25:27,779
+reviews on Google Maps of this
+
+762
+00:25:27,779 --> 00:25:29,579
+place and you search for haunted
+
+763
+00:25:29,579 --> 00:25:31,359
+or ghost, people will reference
+
+764
+00:25:31,359 --> 00:25:32,940
+her and be like, love the
+
+765
+00:25:32,940 --> 00:25:34,559
+atmosphere, love the friendly
+
+766
+00:25:35,039 --> 00:25:36,720
+spirits, love Annette, always
+
+767
+00:25:36,720 --> 00:25:38,140
+great to visit her. And it's
+
+768
+00:25:38,140 --> 00:25:40,079
+like, it's weird. So I'd love to
+
+769
+00:25:40,079 --> 00:25:41,339
+go there. I think this summer we
+
+770
+00:25:41,339 --> 00:25:42,259
+should try going there. If you
+
+771
+00:25:42,259 --> 00:25:43,940
+guys come down, we'll visit it.
+
+772
+00:25:44,339 --> 00:25:46,660
+Yeah. Well, quick question. You
+
+773
+00:25:46,660 --> 00:25:47,940
+said so like, I'm still hung up
+
+774
+00:25:47,940 --> 00:25:49,339
+on that throwing the chair. Has
+
+775
+00:25:49,339 --> 00:25:51,000
+anyone been hurt? Because you
+
+776
+00:25:51,000 --> 00:25:52,039
+know, you hear stories of people
+
+777
+00:25:52,039 --> 00:25:54,319
+getting scratched or like being
+
+778
+00:25:54,319 --> 00:25:56,759
+pushed downstairs with like
+
+779
+00:25:56,759 --> 00:25:58,339
+these kind of more also these
+
+780
+00:25:58,339 --> 00:26:00,079
+poltergeist things. So I'm just
+
+781
+00:26:00,960 --> 00:26:02,400
+wondering if someone's been hurt
+
+782
+00:26:02,400 --> 00:26:03,980
+and then like they also just
+
+783
+00:26:03,980 --> 00:26:05,599
+chalk it up to Annette when I
+
+784
+00:26:05,599 --> 00:26:06,519
+mean, there are reviews saying,
+
+785
+00:26:06,720 --> 00:26:08,400
+oh, she's great. We love her.
+
+786
+00:26:08,900 --> 00:26:11,019
+That's a good question. I think
+
+787
+00:26:11,019 --> 00:26:12,420
+not good for business,
+
+788
+00:26:12,420 --> 00:26:14,160
+obviously. So they might not
+
+789
+00:26:14,160 --> 00:26:16,380
+really. So yeah, so that's an
+
+790
+00:26:16,380 --> 00:26:17,680
+interesting point. The business
+
+791
+00:26:17,680 --> 00:26:19,400
+will always tell like the cute,
+
+792
+00:26:19,599 --> 00:26:20,599
+the cutesy stories about
+
+793
+00:26:20,599 --> 00:26:23,519
+Annette. Paranormal
+
+794
+00:26:23,519 --> 00:26:24,740
+investigators that come to visit
+
+795
+00:26:24,740 --> 00:26:26,880
+and write books often tell more
+
+796
+00:26:26,880 --> 00:26:28,759
+of the other stories like EVPs
+
+797
+00:26:28,759 --> 00:26:30,859
+that might have more the ones
+
+798
+00:26:30,859 --> 00:26:32,400
+I've listened to stuff are just
+
+799
+00:26:32,400 --> 00:26:35,920
+voices saying, come. So not not
+
+800
+00:26:35,920 --> 00:26:38,160
+spooky, but the like the
+
+801
+00:26:38,160 --> 00:26:39,579
+restaurant doesn't advertise the
+
+802
+00:26:39,579 --> 00:26:41,220
+throwing chair story. Well,
+
+803
+00:26:41,359 --> 00:26:42,920
+yeah, I mean, I was just curious
+
+804
+00:26:42,920 --> 00:26:45,539
+if any, you know, yeah, no, I
+
+805
+00:26:45,539 --> 00:26:47,839
+don't I haven't heard of any
+
+806
+00:26:47,839 --> 00:26:49,779
+other violent things besides
+
+807
+00:26:49,779 --> 00:26:52,119
+throwing wine glasses and wine
+
+808
+00:26:52,119 --> 00:26:53,339
+bottles off. That's that's kind
+
+809
+00:26:53,339 --> 00:26:56,700
+of that's not peaceful. I'm
+
+810
+00:26:56,700 --> 00:26:59,240
+wondering if it very well could
+
+811
+00:26:59,240 --> 00:27:01,099
+be Annette in both the peaceful
+
+812
+00:27:01,099 --> 00:27:03,119
+and, you know, a little bit more
+
+813
+00:27:03,119 --> 00:27:04,819
+violent scenarios. I'm wondering
+
+814
+00:27:04,819 --> 00:27:06,579
+if she's just reacts to people
+
+815
+00:27:06,579 --> 00:27:08,880
+differently. Like she may see,
+
+816
+00:27:09,140 --> 00:27:12,599
+you know, a white strong man and
+
+817
+00:27:12,599 --> 00:27:14,500
+think, OK, you're probably one
+
+818
+00:27:14,500 --> 00:27:16,140
+of the British. I don't really
+
+819
+00:27:16,140 --> 00:27:18,700
+like you because you got me in
+
+820
+00:27:18,700 --> 00:27:21,079
+and killed or, you know, maybe
+
+821
+00:27:21,079 --> 00:27:23,759
+one of the townspeople that had
+
+822
+00:27:23,759 --> 00:27:27,319
+her hung or executed, maybe
+
+823
+00:27:27,319 --> 00:27:28,759
+someone looked like that. And
+
+824
+00:27:28,759 --> 00:27:30,200
+that's what caused the reaction.
+
+825
+00:27:31,079 --> 00:27:32,680
+Yeah, she kind of taking taking
+
+826
+00:27:32,680 --> 00:27:34,440
+her biases to the grave.
+
+827
+00:27:35,259 --> 00:27:36,880
+Discriminatory. Well, we have
+
+828
+00:27:36,880 --> 00:27:38,599
+all this evidence of Annette
+
+829
+00:27:38,599 --> 00:27:41,640
+Williamson, her tragic story,
+
+830
+00:27:41,740 --> 00:27:43,079
+her tragic tale, her poor
+
+831
+00:27:43,079 --> 00:27:44,259
+family. Right. You think like
+
+832
+00:27:44,259 --> 00:27:46,700
+there'd be a lot of spirits at
+
+833
+00:27:46,700 --> 00:27:48,839
+this place for her whole family.
+
+834
+00:27:48,920 --> 00:27:50,160
+So all the kids, the parents
+
+835
+00:27:50,160 --> 00:27:52,019
+killed in New Jersey. There's no
+
+836
+00:27:52,019 --> 00:27:53,200
+worse way to go out than being
+
+837
+00:27:53,200 --> 00:27:54,500
+killed in New Jersey by British
+
+838
+00:27:54,500 --> 00:27:59,380
+people. All right. Wow. True.
+
+839
+00:27:59,640 --> 00:28:04,039
+Wait. That's only half of the
+
+840
+00:28:04,039 --> 00:28:06,940
+story because as far as I can
+
+841
+00:28:06,940 --> 00:28:10,980
+tell, Annette Williamson never
+
+842
+00:28:10,980 --> 00:28:14,599
+existed. Oh, good. She doesn't
+
+843
+00:28:14,599 --> 00:28:18,039
+exist. So is it like a publicity
+
+844
+00:28:18,039 --> 00:28:21,519
+stunt from the restaurant? I
+
+845
+00:28:21,519 --> 00:28:23,599
+don't know. Well, this was a
+
+846
+00:28:23,599 --> 00:28:25,079
+story from the French psychic,
+
+847
+00:28:25,180 --> 00:28:28,299
+right? Let's let's roll back.
+
+848
+00:28:28,299 --> 00:28:29,759
+Let's go to this guy all the way
+
+849
+00:28:29,759 --> 00:28:31,599
+back. Let's roll all the way
+
+850
+00:28:31,599 --> 00:28:32,640
+back to the history of this
+
+851
+00:28:32,640 --> 00:28:35,960
+place. So I found the history of
+
+852
+00:28:35,960 --> 00:28:37,759
+this place back to 1710. All
+
+853
+00:28:37,759 --> 00:28:39,200
+different people. It's passed
+
+854
+00:28:39,200 --> 00:28:41,839
+down through the entire history
+
+855
+00:28:41,839 --> 00:28:43,779
+of Stony Brook, the families
+
+856
+00:28:43,779 --> 00:28:46,160
+there, the development of Stony
+
+857
+00:28:46,160 --> 00:28:47,759
+Brook, the historical figures
+
+858
+00:28:47,759 --> 00:28:50,480
+here. And as I started reading
+
+859
+00:28:50,480 --> 00:28:51,680
+the story of Annette Williamson,
+
+860
+00:28:52,259 --> 00:28:53,819
+while also the history of Stony
+
+861
+00:28:53,819 --> 00:28:54,839
+Brook and the house and the
+
+862
+00:28:54,839 --> 00:28:56,400
+ownership, I was like, wait a
+
+863
+00:28:56,400 --> 00:28:58,140
+minute, this doesn't all this
+
+864
+00:28:58,140 --> 00:28:59,119
+doesn't make sense. And I found
+
+865
+00:28:59,119 --> 00:29:00,940
+a great blog post that pointed
+
+866
+00:29:00,940 --> 00:29:01,980
+this out too, and did some
+
+867
+00:29:01,980 --> 00:29:03,059
+digging and I did some digging
+
+868
+00:29:03,059 --> 00:29:06,859
+based on that. So there are a
+
+869
+00:29:06,859 --> 00:29:08,259
+bunch of inconsistencies with
+
+870
+00:29:08,259 --> 00:29:11,299
+the Annette story that we're
+
+871
+00:29:11,299 --> 00:29:12,579
+going to go into. Wonderful.
+
+872
+00:29:13,480 --> 00:29:17,279
+Number one, there was never a
+
+873
+00:29:17,279 --> 00:29:19,299
+Williamson family that owns the
+
+874
+00:29:19,299 --> 00:29:21,720
+property. That's a pretty big
+
+875
+00:29:21,720 --> 00:29:23,740
+red flag. You just checked that
+
+876
+00:29:23,740 --> 00:29:25,339
+with like deed like records.
+
+877
+00:29:25,880 --> 00:29:30,720
+Yeah. So at the time, the Davis
+
+878
+00:29:30,720 --> 00:29:34,119
+family who originally built the
+
+879
+00:29:34,119 --> 00:29:36,859
+property still owned it. They
+
+880
+00:29:36,859 --> 00:29:38,500
+owned it for like four
+
+881
+00:29:38,500 --> 00:29:39,720
+generations. So well past the
+
+882
+00:29:39,720 --> 00:29:41,039
+American Revolution, it was
+
+883
+00:29:41,039 --> 00:29:42,220
+owned by the Davis family.
+
+884
+00:29:42,319 --> 00:29:43,519
+That's like a hundred years at
+
+885
+00:29:43,519 --> 00:29:45,059
+least. Yeah, right. So there
+
+886
+00:29:45,059 --> 00:29:46,160
+wasn't a Williamson family that
+
+887
+00:29:46,160 --> 00:29:48,599
+owned it. There was a Williamson
+
+888
+00:29:48,599 --> 00:29:51,480
+family that lived in the area,
+
+889
+00:29:52,039 --> 00:29:53,700
+actually around the corner. I
+
+890
+00:29:53,700 --> 00:29:54,900
+was just about to ask if they
+
+891
+00:29:54,900 --> 00:29:56,160
+were like friends or neighbors
+
+892
+00:29:56,160 --> 00:29:58,079
+or something. They were
+
+893
+00:29:58,079 --> 00:30:00,420
+neighbors, but that was in like
+
+894
+00:30:00,420 --> 00:30:04,640
+the early to mid 1800s, nowhere
+
+895
+00:30:04,640 --> 00:30:10,180
+near 1776. On top of that, the
+
+896
+00:30:10,180 --> 00:30:14,299
+name Annette just wasn't used at
+
+897
+00:30:14,299 --> 00:30:16,099
+the time. That is not a name
+
+898
+00:30:16,099 --> 00:30:18,480
+that was used in the colonies
+
+899
+00:30:18,480 --> 00:30:21,220
+slash America. Well, are there
+
+900
+00:30:21,220 --> 00:30:24,400
+in the late 1700s? There are
+
+901
+00:30:24,400 --> 00:30:26,380
+like almost no records of that
+
+902
+00:30:26,380 --> 00:30:27,339
+name. And there wouldn't be any
+
+903
+00:30:27,339 --> 00:30:28,980
+like census records going back
+
+904
+00:30:28,980 --> 00:30:30,900
+that far really. There actually
+
+905
+00:30:30,900 --> 00:30:32,140
+are. There actually are a lot of
+
+906
+00:30:32,140 --> 00:30:36,000
+death records and that. We're
+
+907
+00:30:36,000 --> 00:30:38,059
+gonna get into that but not like
+
+908
+00:30:38,059 --> 00:30:39,559
+US census, you know, because
+
+909
+00:30:39,559 --> 00:30:40,900
+that wasn't a thing. Yeah, there
+
+910
+00:30:40,900 --> 00:30:42,000
+are records, but yeah, they're
+
+911
+00:30:42,000 --> 00:30:44,259
+pretty flaky. But I was able to
+
+912
+00:30:44,259 --> 00:30:46,500
+find the Williamson's that lived
+
+913
+00:30:46,500 --> 00:30:48,660
+there and died there, which
+
+914
+00:30:48,660 --> 00:30:49,519
+we'll talk about in a moment.
+
+915
+00:30:50,400 --> 00:30:51,740
+But on top of that, even before
+
+916
+00:30:51,740 --> 00:30:53,640
+we get to the damning evidence,
+
+917
+00:30:54,240 --> 00:30:55,799
+Annette isn't a common name at
+
+918
+00:30:55,799 --> 00:30:59,059
+the time. Williamson isn't a
+
+919
+00:30:59,059 --> 00:31:01,660
+Dutch last name. It's English
+
+920
+00:31:01,660 --> 00:31:04,859
+and Scottish. Okay. So the name
+
+921
+00:31:04,859 --> 00:31:06,480
+Annette isn't the last name
+
+922
+00:31:06,480 --> 00:31:08,740
+isn't Dutch. The name wasn't
+
+923
+00:31:08,740 --> 00:31:11,440
+used for like generations later.
+
+924
+00:31:12,200 --> 00:31:13,259
+The family never owned the
+
+925
+00:31:13,259 --> 00:31:15,359
+property. There was the family
+
+926
+00:31:15,359 --> 00:31:16,660
+that lived in the area
+
+927
+00:31:16,660 --> 00:31:19,220
+generations later. So I'm
+
+928
+00:31:19,220 --> 00:31:20,819
+wondering, how can this story,
+
+929
+00:31:21,380 --> 00:31:22,359
+there's so many questions from
+
+930
+00:31:22,359 --> 00:31:25,059
+that. Like people see the ghost
+
+931
+00:31:25,059 --> 00:31:26,799
+of Annette Williamson. Yeah, or
+
+932
+00:31:26,799 --> 00:31:29,140
+something. They see her. They
+
+933
+00:31:29,140 --> 00:31:30,619
+see something that fits the
+
+934
+00:31:30,619 --> 00:31:35,859
+description of Annette and it's
+
+935
+00:31:35,859 --> 00:31:38,299
+mostly hanged in. Right? So I
+
+936
+00:31:38,299 --> 00:31:39,740
+descends out that the evidence
+
+937
+00:31:39,740 --> 00:31:42,579
+that's proposed for this story
+
+938
+00:31:42,579 --> 00:31:45,319
+is that if you go to the Oba
+
+939
+00:31:45,319 --> 00:31:47,259
+Diah Davis cemetery in the back
+
+940
+00:31:47,259 --> 00:31:49,799
+of their property, you'll see
+
+941
+00:31:49,799 --> 00:31:52,259
+the Williamson family tombstones
+
+942
+00:31:52,259 --> 00:31:53,799
+and you'll see in the net,
+
+943
+00:31:55,279 --> 00:31:58,059
+you'll see a John Williamson and
+
+944
+00:31:58,059 --> 00:32:00,420
+then the net Williamson. Let me
+
+945
+00:32:00,420 --> 00:32:03,099
+send you guys the link here. I
+
+946
+00:32:03,099 --> 00:32:07,079
+found the tombs and pictures of
+
+947
+00:32:07,079 --> 00:32:09,700
+the tombs. So they do have them.
+
+948
+00:32:09,920 --> 00:32:11,500
+The people buried here. You just
+
+949
+00:32:11,500 --> 00:32:12,759
+can't visit there, but there are
+
+950
+00:32:12,759 --> 00:32:15,279
+pictures of the stuff in the
+
+951
+00:32:15,279 --> 00:32:17,180
+cemetery. It seems like you can
+
+952
+00:32:17,180 --> 00:32:18,220
+ask to go there. And what's
+
+953
+00:32:18,220 --> 00:32:19,619
+interesting, the reason we have
+
+954
+00:32:19,619 --> 00:32:21,259
+these pictures and the dates and
+
+955
+00:32:21,259 --> 00:32:23,059
+the names is because a
+
+956
+00:32:23,059 --> 00:32:27,819
+descendant of Oba Diah Davis
+
+957
+00:32:27,819 --> 00:32:30,779
+living today went there and
+
+958
+00:32:30,779 --> 00:32:32,599
+documented it all on this
+
+959
+00:32:32,599 --> 00:32:34,900
+website, find a grave and
+
+960
+00:32:34,900 --> 00:32:37,440
+documented all his ancestors and
+
+961
+00:32:37,440 --> 00:32:38,619
+the other people who lived here.
+
+962
+00:32:39,000 --> 00:32:39,720
+Have you guys scroll through
+
+963
+00:32:39,720 --> 00:32:40,599
+this list, which I'll have in
+
+964
+00:32:40,599 --> 00:32:42,220
+the show notes. Do you guys see
+
+965
+00:32:42,220 --> 00:32:43,700
+Annette Williamson? I see a
+
+966
+00:32:43,700 --> 00:32:46,200
+Hannah, a John, and a William
+
+967
+00:32:46,200 --> 00:32:48,099
+Williamson, real creative guys.
+
+968
+00:32:48,319 --> 00:32:50,799
+And when did they die? The mid
+
+969
+00:32:50,799 --> 00:32:54,940
+1800s. Yep. We've got 1827 for
+
+970
+00:32:54,940 --> 00:32:58,380
+Hannah, 1844 for John, 1831 for
+
+971
+00:32:58,380 --> 00:33:00,619
+William. It just doesn't line
+
+972
+00:33:00,619 --> 00:33:02,059
+up. There's no Annette
+
+973
+00:33:02,059 --> 00:33:04,880
+Williamson. There weren't
+
+974
+00:33:04,880 --> 00:33:06,299
+Williamson's that died in this
+
+975
+00:33:06,299 --> 00:33:08,400
+area or on that property that
+
+976
+00:33:08,400 --> 00:33:12,119
+time. Now, let me play devil's
+
+977
+00:33:12,119 --> 00:33:13,920
+advocate for a quick second and
+
+978
+00:33:13,920 --> 00:33:15,900
+give some highly unplausible
+
+979
+00:33:16,380 --> 00:33:17,660
+explanation. Yeah, of course.
+
+980
+00:33:17,920 --> 00:33:21,000
+But it could be very well that
+
+981
+00:33:21,000 --> 00:33:24,059
+there may have been an Annette
+
+982
+00:33:24,059 --> 00:33:26,180
+Williamson, but there could have
+
+983
+00:33:26,180 --> 00:33:29,380
+been something that happened,
+
+984
+00:33:29,640 --> 00:33:31,059
+like some kind of illegitimate
+
+985
+00:33:31,059 --> 00:33:33,539
+marriage or birth or something
+
+986
+00:33:33,539 --> 00:33:34,799
+with her involved. And of
+
+987
+00:33:34,799 --> 00:33:36,579
+course, back then, you know,
+
+988
+00:33:37,519 --> 00:33:39,019
+women didn't really have a lot
+
+989
+00:33:39,019 --> 00:33:40,380
+going for them. So if there was
+
+990
+00:33:40,380 --> 00:33:42,779
+a situation like that, you know,
+
+991
+00:33:43,319 --> 00:33:44,720
+she would probably get in the
+
+992
+00:33:44,799 --> 00:33:47,019
+most, you know, trouble if
+
+993
+00:33:47,019 --> 00:33:48,079
+anything like that happened
+
+994
+00:33:48,079 --> 00:33:50,819
+rather than the man. So it could
+
+995
+00:33:50,819 --> 00:33:51,900
+have just been like something
+
+996
+00:33:51,900 --> 00:33:53,640
+happened. They didn't want that,
+
+997
+00:33:53,640 --> 00:33:56,380
+you know, quote stain on their
+
+998
+00:33:56,380 --> 00:33:58,880
+family. And maybe it's she could
+
+999
+00:33:58,880 --> 00:34:00,500
+have just been buried in some
+
+1000
+00:34:00,500 --> 00:34:03,779
+unmarked grave. That's I know,
+
+1001
+00:34:03,859 --> 00:34:05,859
+again, far fetched. But like,
+
+1002
+00:34:05,920 --> 00:34:09,320
+well, see my she was that my
+
+1003
+00:34:09,320 --> 00:34:11,139
+issue with that is there are
+
+1004
+00:34:11,139 --> 00:34:14,400
+Williamson tombstones there like
+
+1005
+00:34:14,400 --> 00:34:17,159
+Frank has shown us. Right. And
+
+1006
+00:34:17,159 --> 00:34:19,219
+they're well past the date of
+
+1007
+00:34:19,219 --> 00:34:20,960
+the American Revolution, which
+
+1008
+00:34:20,960 --> 00:34:22,840
+doesn't add up with the story of
+
+1009
+00:34:22,840 --> 00:34:25,699
+them all dying. Like supposedly
+
+1010
+00:34:25,699 --> 00:34:28,260
+the the way that Frank has told
+
+1011
+00:34:28,260 --> 00:34:29,960
+the first half of the story is
+
+1012
+00:34:29,960 --> 00:34:32,360
+that the bloodline of the
+
+1013
+00:34:32,360 --> 00:34:33,780
+Williamson, at least in that
+
+1014
+00:34:33,780 --> 00:34:37,500
+area, died out that night. Yeah.
+
+1015
+00:34:38,260 --> 00:34:39,880
+I mean, the only thing I could
+
+1016
+00:34:39,880 --> 00:34:42,980
+say to that would be like, maybe
+
+1017
+00:34:42,980 --> 00:34:45,119
+the psychic got it wrong and it
+
+1018
+00:34:45,119 --> 00:34:47,179
+was the Civil War and some
+
+1019
+00:34:47,179 --> 00:34:49,019
+Southerners or some Southern
+
+1020
+00:34:49,019 --> 00:34:51,639
+sympathizers killed them. That's
+
+1021
+00:34:51,639 --> 00:34:53,400
+that's actually again, this is
+
+1022
+00:34:53,400 --> 00:34:56,639
+that's just solely yeah, she did
+
+1023
+00:34:56,639 --> 00:34:58,260
+exist and just trying to come up
+
+1024
+00:34:58,260 --> 00:35:00,480
+with something about maybe why
+
+1025
+00:35:00,480 --> 00:35:02,900
+she's not there. Very unlikely
+
+1026
+00:35:02,900 --> 00:35:04,599
+that any of this I never thought
+
+1027
+00:35:04,599 --> 00:35:07,519
+of the ballot. Yeah, I mean,
+
+1028
+00:35:07,619 --> 00:35:09,440
+even the civil like, because
+
+1029
+00:35:09,440 --> 00:35:10,980
+yeah, that but even then that's
+
+1030
+00:35:10,980 --> 00:35:12,940
+still before the great the
+
+1031
+00:35:12,940 --> 00:35:14,159
+deaths of the people that still
+
+1032
+00:35:14,159 --> 00:35:17,440
+before so like, again, just to
+
+1033
+00:35:17,440 --> 00:35:19,780
+think of something about maybe
+
+1034
+00:35:19,780 --> 00:35:21,639
+why she could be, you know, a
+
+1035
+00:35:21,639 --> 00:35:24,139
+real person. Yeah. That's that's
+
+1036
+00:35:24,139 --> 00:35:25,260
+an important thing to know. It
+
+1037
+00:35:25,260 --> 00:35:27,199
+definitely is possible that
+
+1038
+00:35:27,199 --> 00:35:28,539
+there was an Annette Williamson
+
+1039
+00:35:28,539 --> 00:35:31,780
+who lived maybe, right, maybe
+
+1040
+00:35:31,780 --> 00:35:33,099
+they didn't own the property,
+
+1041
+00:35:33,239 --> 00:35:36,340
+maybe, maybe parts of the story
+
+1042
+00:35:36,340 --> 00:35:38,119
+are true, right? Yeah. And yes,
+
+1043
+00:35:38,159 --> 00:35:39,860
+maybe we just don't have the
+
+1044
+00:35:39,860 --> 00:35:40,900
+records of it and it doesn't
+
+1045
+00:35:40,900 --> 00:35:42,199
+line up. Maybe there is a spirit
+
+1046
+00:35:42,199 --> 00:35:43,920
+of her whatever reason still
+
+1047
+00:35:43,920 --> 00:35:48,059
+there. However, given what
+
+1048
+00:35:48,059 --> 00:35:51,340
+evidence does exist, when you
+
+1049
+00:35:51,340 --> 00:35:53,699
+look into it, there actually is
+
+1050
+00:35:53,699 --> 00:35:57,719
+no physical evidence to support
+
+1051
+00:35:57,719 --> 00:36:01,320
+the story. At all. Everything
+
+1052
+00:36:01,320 --> 00:36:02,699
+unfortunately came from that one
+
+1053
+00:36:02,699 --> 00:36:04,860
+original psychic, as far as I
+
+1054
+00:36:04,860 --> 00:36:06,420
+can tell, and the follow up
+
+1055
+00:36:06,420 --> 00:36:07,780
+psychics and mediums that claim
+
+1056
+00:36:07,780 --> 00:36:09,619
+to be in contact. Do we have the
+
+1057
+00:36:09,619 --> 00:36:11,440
+name of the original French
+
+1058
+00:36:11,440 --> 00:36:14,119
+psychic or I could not find it
+
+1059
+00:36:14,119 --> 00:36:16,440
+now. If I can find it, I'll put
+
+1060
+00:36:16,440 --> 00:36:20,699
+in the show. The asking. Do you
+
+1061
+00:36:20,699 --> 00:36:21,559
+remember what that guy's name
+
+1062
+00:36:21,559 --> 00:36:25,679
+was? I am actually debating
+
+1063
+00:36:25,679 --> 00:36:29,239
+calling up the restaurant or
+
+1064
+00:36:29,239 --> 00:36:31,380
+sending an email and not being,
+
+1065
+00:36:31,420 --> 00:36:33,360
+you know, critical and saying,
+
+1066
+00:36:33,639 --> 00:36:35,019
+the story you tell us. No, of
+
+1067
+00:36:35,019 --> 00:36:38,480
+course. He doesn't. What is true
+
+1068
+00:36:38,480 --> 00:36:40,300
+is that people see something,
+
+1069
+00:36:40,559 --> 00:36:41,699
+right? They experience
+
+1070
+00:36:41,699 --> 00:36:43,760
+something. They see a ghost of a
+
+1071
+00:36:43,760 --> 00:36:46,559
+young woman. They see stuff fly
+
+1072
+00:36:46,559 --> 00:36:47,780
+off shelves. They get chairs,
+
+1073
+00:36:47,780 --> 00:36:49,639
+chairs, they get candles, relit.
+
+1074
+00:36:49,860 --> 00:36:50,719
+They see things. They hear
+
+1075
+00:36:50,719 --> 00:36:52,440
+things. They experience things.
+
+1076
+00:36:53,300 --> 00:36:55,699
+That's I don't doubt. Right. Me
+
+1077
+00:36:55,699 --> 00:36:57,159
+neither. Then what's going on?
+
+1078
+00:36:57,539 --> 00:37:00,000
+We have an unidentified spookum.
+
+1079
+00:37:00,400 --> 00:37:01,840
+What is going on? Isn't that I
+
+1080
+00:37:01,840 --> 00:37:03,000
+feel like that's even more
+
+1081
+00:37:03,000 --> 00:37:04,960
+interesting than it being true.
+
+1082
+00:37:05,360 --> 00:37:06,679
+Personally, I think story of an
+
+1083
+00:37:06,679 --> 00:37:07,820
+interesting things. They just
+
+1084
+00:37:07,820 --> 00:37:08,880
+don't make sense. Why would the
+
+1085
+00:37:08,880 --> 00:37:10,480
+whole, like the British soldiers
+
+1086
+00:37:10,480 --> 00:37:11,719
+just murdered a bunch of babies,
+
+1087
+00:37:11,760 --> 00:37:13,719
+like a bunch of kids. They're
+
+1088
+00:37:13,719 --> 00:37:14,079
+not monsters. Why did the
+
+1089
+00:37:14,079 --> 00:37:16,719
+parents die? But the historical
+
+1090
+00:37:16,719 --> 00:37:17,960
+record clear. I mean, I found
+
+1091
+00:37:17,960 --> 00:37:19,579
+documents from Stony Brook going
+
+1092
+00:37:19,579 --> 00:37:21,380
+back to like that were published
+
+1093
+00:37:21,380 --> 00:37:23,920
+in like 1907, showing pictures
+
+1094
+00:37:23,920 --> 00:37:25,059
+and giving the history. And
+
+1095
+00:37:25,059 --> 00:37:26,599
+there's never ever any
+
+1096
+00:37:26,599 --> 00:37:30,320
+historical record, any mention
+
+1097
+00:37:30,320 --> 00:37:32,000
+of a Williamson family owning
+
+1098
+00:37:32,000 --> 00:37:33,760
+it. It's always Obadiah Davis
+
+1099
+00:37:33,760 --> 00:37:35,739
+for generations and Thomas
+
+1100
+00:37:36,659 --> 00:37:39,019
+Hadaway for many years. Then
+
+1101
+00:37:39,019 --> 00:37:40,059
+what's going on? Right.
+
+1102
+00:37:41,000 --> 00:37:43,559
+Unfortunately, I think some
+
+1103
+00:37:43,559 --> 00:37:44,199
+people are being a little
+
+1104
+00:37:44,199 --> 00:37:45,780
+untruthful for maybe different
+
+1105
+00:37:45,780 --> 00:37:48,159
+reasons. That is the psychics
+
+1106
+00:37:48,159 --> 00:37:50,400
+claim that if you go to the
+
+1107
+00:37:50,400 --> 00:37:51,639
+cemetery, you will see her
+
+1108
+00:37:51,639 --> 00:37:54,719
+tombstone. That's just not true.
+
+1109
+00:37:55,320 --> 00:37:58,739
+The two psychics, I forget their
+
+1110
+00:37:58,739 --> 00:38:01,099
+name. Yeah. I watched an hour
+
+1111
+00:38:01,099 --> 00:38:02,300
+and a half long presentation by
+
+1112
+00:38:02,300 --> 00:38:06,019
+them and I feel like I'm I'll
+
+1113
+00:38:06,019 --> 00:38:07,340
+link to in the show notes. I
+
+1114
+00:38:07,340 --> 00:38:08,860
+hope no one, I hope this doesn't
+
+1115
+00:38:08,860 --> 00:38:11,239
+get back to them. But they talk
+
+1116
+00:38:11,239 --> 00:38:12,679
+about, I mean, I went through
+
+1117
+00:38:12,679 --> 00:38:14,639
+that video and I found just, I
+
+1118
+00:38:14,639 --> 00:38:15,579
+kept track of all the things
+
+1119
+00:38:15,579 --> 00:38:16,960
+that were, that appeared to be
+
+1120
+00:38:16,960 --> 00:38:18,059
+factually incorrect with what
+
+1121
+00:38:18,059 --> 00:38:20,059
+they were saying. They had a
+
+1122
+00:38:20,059 --> 00:38:21,559
+little slideshow. They claimed
+
+1123
+00:38:21,559 --> 00:38:22,940
+that there's only two tombstones
+
+1124
+00:38:22,940 --> 00:38:24,699
+of Williamson's at the cemetery.
+
+1125
+00:38:24,840 --> 00:38:26,300
+And one of them is Annette. The
+
+1126
+00:38:26,300 --> 00:38:27,719
+other one is John. That's not
+
+1127
+00:38:27,719 --> 00:38:30,119
+true. There's three. And there's
+
+1128
+00:38:30,119 --> 00:38:32,739
+no Annette. Maybe, I don't know,
+
+1129
+00:38:33,000 --> 00:38:34,519
+how do you get Annette from like
+
+1130
+00:38:34,519 --> 00:38:36,579
+Hannah or John or Willy? Is
+
+1131
+00:38:36,579 --> 00:38:40,440
+there any weird, like old, old,
+
+1132
+00:38:40,440 --> 00:38:43,539
+like translation or something of
+
+1133
+00:38:43,539 --> 00:38:45,860
+like Annette to Hannah in any
+
+1134
+00:38:45,860 --> 00:38:48,059
+way? Not that I even see. I
+
+1135
+00:38:48,059 --> 00:38:49,820
+don't think so. Yeah. Doesn't
+
+1136
+00:38:49,820 --> 00:38:52,059
+sound very likely. But the only
+
+1137
+00:38:52,059 --> 00:39:01,019
+thing some related to that is of
+
+1138
+00:39:01,019 --> 00:39:03,719
+the Dutch last name. So like
+
+1139
+00:39:03,719 --> 00:39:05,639
+they could maybe they're, you
+
+1140
+00:39:05,639 --> 00:39:06,980
+know, because I point out it's
+
+1141
+00:39:06,980 --> 00:39:08,639
+not even the Dutch name. It
+
+1142
+00:39:08,639 --> 00:39:09,480
+could, you know, it could have
+
+1143
+00:39:09,480 --> 00:39:10,360
+been a Dutch name that was
+
+1144
+00:39:10,360 --> 00:39:11,719
+turned into a more English name.
+
+1145
+00:39:11,820 --> 00:39:14,219
+Perhaps. In the colonies. But
+
+1146
+00:39:14,219 --> 00:39:16,320
+yeah, just really, it doesn't
+
+1147
+00:39:16,320 --> 00:39:17,619
+line up. But it makes me wonder
+
+1148
+00:39:17,619 --> 00:39:20,179
+because you've got EVPs of the
+
+1149
+00:39:20,179 --> 00:39:22,679
+voices. You've got, you've got
+
+1150
+00:39:22,679 --> 00:39:23,739
+psychics claiming to be in
+
+1151
+00:39:23,739 --> 00:39:25,599
+contact with her, claiming to
+
+1152
+00:39:25,599 --> 00:39:27,800
+see her, claiming to have her
+
+1153
+00:39:27,800 --> 00:39:30,239
+tell them the story. Right. The
+
+1154
+00:39:30,239 --> 00:39:31,320
+original psychic claimed
+
+1155
+00:39:31,320 --> 00:39:34,300
+Annette, Annette spirit told him
+
+1156
+00:39:34,300 --> 00:39:37,619
+her terribly sad story. So
+
+1157
+00:39:37,619 --> 00:39:39,940
+what's going on? Right. Is it? I
+
+1158
+00:39:39,940 --> 00:39:40,780
+don't think everyone's just
+
+1159
+00:39:40,780 --> 00:39:41,800
+pretending. I don't think it's
+
+1160
+00:39:41,800 --> 00:39:43,940
+hallucinations. No, I never
+
+1161
+00:39:43,940 --> 00:39:45,280
+liked that explanation either.
+
+1162
+00:39:45,559 --> 00:39:48,079
+The hallucinations. Is it the
+
+1163
+00:39:48,079 --> 00:39:52,480
+story has generated the
+
+1164
+00:39:52,480 --> 00:39:55,159
+experiences that people see? Is
+
+1165
+00:39:55,159 --> 00:39:56,800
+that possible? Is it that the
+
+1166
+00:39:56,800 --> 00:39:59,199
+story of a young 17 year old
+
+1167
+00:39:59,199 --> 00:40:00,679
+Annette Williamson with long
+
+1168
+00:40:00,679 --> 00:40:01,880
+blonde hair, blue eyes that
+
+1169
+00:40:01,880 --> 00:40:03,320
+haunts because of this story.
+
+1170
+00:40:03,739 --> 00:40:06,599
+Did that generate a ghost that
+
+1171
+00:40:06,599 --> 00:40:08,219
+people now see? What do you guys
+
+1172
+00:40:08,219 --> 00:40:09,960
+think? I have two things when
+
+1173
+00:40:09,960 --> 00:40:12,980
+they do the EVP or when the, I
+
+1174
+00:40:12,980 --> 00:40:14,280
+guess when the, you know, you
+
+1175
+00:40:14,280 --> 00:40:15,340
+can't really know what the
+
+1176
+00:40:15,340 --> 00:40:16,920
+psychics are hearing from the
+
+1177
+00:40:16,920 --> 00:40:18,099
+spirits or whatever, I guess.
+
+1178
+00:40:18,739 --> 00:40:20,920
+But when they say like, Oh, do
+
+1179
+00:40:20,920 --> 00:40:23,280
+they say, Oh, Annette, are you
+
+1180
+00:40:23,280 --> 00:40:24,440
+here? Like, do they specifically
+
+1181
+00:40:24,440 --> 00:40:26,440
+say, okay. Because I'm gonna say
+
+1182
+00:40:26,440 --> 00:40:28,980
+if they just say nothing related
+
+1183
+00:40:28,980 --> 00:40:31,780
+to her name. Yep. No, it's, it
+
+1184
+00:40:31,780 --> 00:40:33,619
+is the address Annette. They
+
+1185
+00:40:33,619 --> 00:40:35,340
+mentioned the story. I even
+
+1186
+00:40:35,340 --> 00:40:36,579
+watched a YouTube video of some
+
+1187
+00:40:36,579 --> 00:40:40,519
+kid from six years ago who would
+
+1188
+00:40:40,519 --> 00:40:41,639
+go around long on with his
+
+1189
+00:40:41,639 --> 00:40:43,780
+grandma who was psychic and he
+
+1190
+00:40:43,780 --> 00:40:45,880
+would bring an EVP meter and go
+
+1191
+00:40:45,880 --> 00:40:48,039
+into haunted places and go in
+
+1192
+00:40:48,039 --> 00:40:49,159
+this place. He'd go, Annette,
+
+1193
+00:40:49,860 --> 00:40:52,019
+are you there? His voice is kind
+
+1194
+00:40:52,019 --> 00:40:53,119
+of funny. I feel bad for
+
+1195
+00:40:53,119 --> 00:40:54,019
+laughing at him, but it's very
+
+1196
+00:40:54,019 --> 00:40:55,340
+funny. I'll put it in the show
+
+1197
+00:40:55,340 --> 00:40:57,800
+notes. Annette, are you there?
+
+1198
+00:40:58,639 --> 00:41:00,119
+And then you hear like the thing
+
+1199
+00:41:00,119 --> 00:41:01,059
+go off and he's grandma,
+
+1200
+00:41:01,219 --> 00:41:02,679
+grandma, grandma, come here.
+
+1201
+00:41:02,900 --> 00:41:06,199
+It's really weird. Grandma and
+
+1202
+00:41:06,199 --> 00:41:08,079
+grandson, paranormal
+
+1203
+00:41:08,079 --> 00:41:10,539
+investigating duo. And his dad
+
+1204
+00:41:10,539 --> 00:41:12,639
+and his uncle are part of their
+
+1205
+00:41:12,639 --> 00:41:14,300
+production. It's pretty cool.
+
+1206
+00:41:15,019 --> 00:41:16,340
+It's a family business, but it
+
+1207
+00:41:16,340 --> 00:41:17,400
+is the guy's voice is funny.
+
+1208
+00:41:17,420 --> 00:41:20,780
+What do you think? So one thing
+
+1209
+00:41:20,780 --> 00:41:22,380
+that I was considering, which
+
+1210
+00:41:22,380 --> 00:41:24,159
+still doesn't completely make
+
+1211
+00:41:24,159 --> 00:41:26,619
+the story lineup, perhaps
+
+1212
+00:41:26,619 --> 00:41:29,780
+because the entire family was
+
+1213
+00:41:29,780 --> 00:41:32,599
+killed and, you know, there was
+
+1214
+00:41:32,599 --> 00:41:34,619
+no like next of kin to bury
+
+1215
+00:41:34,619 --> 00:41:36,519
+them. Perhaps the British
+
+1216
+00:41:36,519 --> 00:41:38,239
+soldiers just took them and
+
+1217
+00:41:38,239 --> 00:41:40,099
+dumped them with other bodies or
+
+1218
+00:41:40,099 --> 00:41:41,960
+oh wait, no, it was the
+
+1219
+00:41:41,960 --> 00:41:43,400
+townspeople that killed them.
+
+1220
+00:41:43,900 --> 00:41:45,500
+Wasn't it? But maybe that works
+
+1221
+00:41:45,500 --> 00:41:47,539
+though. Cause yeah, the story is
+
+1222
+00:41:47,539 --> 00:41:49,320
+that they were so pissed at the
+
+1223
+00:41:49,320 --> 00:41:50,280
+Williamson's that they killed
+
+1224
+00:41:50,280 --> 00:41:51,099
+them all. So maybe, yeah, maybe
+
+1225
+00:41:51,099 --> 00:41:51,900
+they wouldn't give them a proper
+
+1226
+00:41:51,900 --> 00:41:53,599
+burial. Yeah. So, you know,
+
+1227
+00:41:53,800 --> 00:41:56,300
+maybe they, their bodies and
+
+1228
+00:41:56,300 --> 00:41:57,900
+therefore records have gone
+
+1229
+00:41:57,900 --> 00:41:59,460
+unnoticed. What about the other
+
+1230
+00:41:59,460 --> 00:42:00,659
+tombs though, that are
+
+1231
+00:42:00,659 --> 00:42:02,059
+Williamson's? Is that just like
+
+1232
+00:42:02,059 --> 00:42:04,119
+a later branch of that family? I
+
+1233
+00:42:04,119 --> 00:42:06,219
+mean, it's, it's not like an
+
+1234
+00:42:06,219 --> 00:42:08,320
+unheard of name. That's, yeah.
+
+1235
+00:42:08,619 --> 00:42:10,340
+You know, and given that their
+
+1236
+00:42:10,340 --> 00:42:13,079
+names are what would be John and
+
+1237
+00:42:14,079 --> 00:42:16,840
+Hannah and William and William.
+
+1238
+00:42:17,320 --> 00:42:20,239
+William Williamson. Well, you
+
+1239
+00:42:20,239 --> 00:42:21,380
+got to start the last name
+
+1240
+00:42:21,380 --> 00:42:25,400
+somewhere, but those all sound a
+
+1241
+00:42:25,400 --> 00:42:28,179
+lot more English names. So
+
+1242
+00:42:28,179 --> 00:42:29,960
+perhaps it's just a coincidence
+
+1243
+00:42:29,960 --> 00:42:31,599
+and there's a different family
+
+1244
+00:42:31,599 --> 00:42:33,599
+of Williamson's. That'd be
+
+1245
+00:42:33,599 --> 00:42:34,960
+interesting, but they're also in
+
+1246
+00:42:34,960 --> 00:42:36,900
+the same exact area at the same
+
+1247
+00:42:36,900 --> 00:42:38,760
+time. It's unlikely, but yeah,
+
+1248
+00:42:39,039 --> 00:42:40,260
+it's definitely possible. I
+
+1249
+00:42:40,260 --> 00:42:41,960
+never, honestly, thinking about
+
+1250
+00:42:41,960 --> 00:42:43,119
+like maybe the time period is
+
+1251
+00:42:43,119 --> 00:42:45,280
+off or that those were two
+
+1252
+00:42:45,280 --> 00:42:46,500
+theories that just never crossed
+
+1253
+00:42:46,500 --> 00:42:47,619
+my mind when doing all this
+
+1254
+00:42:47,619 --> 00:42:49,739
+research. I was like, this is
+
+1255
+00:42:49,739 --> 00:42:51,519
+ridiculous. There's no such
+
+1256
+00:42:51,519 --> 00:42:54,860
+person. It's, it's a lie. But
+
+1257
+00:42:54,860 --> 00:42:56,820
+no, there definitely are, who
+
+1258
+00:42:56,820 --> 00:42:59,179
+knows, right? I think there's
+
+1259
+00:42:59,179 --> 00:43:03,000
+something or some things that
+
+1260
+00:43:03,000 --> 00:43:04,960
+haunt the country house
+
+1261
+00:43:04,960 --> 00:43:07,639
+restaurant in Stony Brook, New
+
+1262
+00:43:07,639 --> 00:43:16,400
+York. I don't know what the
+
+1263
+00:43:16,400 --> 00:43:29,280
+mindset in Stony Brook is
+
+1264
+00:43:29,280 --> 00:43:31,219
+looking for, but it doesn't like
+
+1265
+00:43:31,219 --> 00:43:31,920
+how it's King and how long has
+
+1266
+00:43:31,920 --> 00:43:36,820
+it gone apart. And so that's
+
+1267
+00:43:36,820 --> 00:43:37,840
+Liam Simon thanks for joining on
+
+1268
+00:43:37,840 --> 00:44:11,480
+this episode The PHONE KID It's
+
+1269
+00:44:11,480 --> 00:44:12,880
+popular enough in Long Island
+
+1270
+00:44:12,880 --> 00:44:17,139
+and enough people believe it and
+
+1271
+00:44:17,139 --> 00:44:19,099
+give a lot of credence to it and
+
+1272
+00:44:19,099 --> 00:44:20,199
+think about it while they're
+
+1273
+00:44:20,199 --> 00:44:23,920
+there. Those thoughts being so
+
+1274
+00:44:23,920 --> 00:44:25,739
+concentrated on that could
+
+1275
+00:44:25,739 --> 00:44:30,000
+create like a topic entity and
+
+1276
+00:44:30,000 --> 00:44:32,920
+it's manifesting as this Annette
+
+1277
+00:44:32,920 --> 00:44:34,800
+Williamson that really isn't
+
+1278
+00:44:34,800 --> 00:44:37,079
+there. And that lines up with
+
+1279
+00:44:37,079 --> 00:44:39,599
+there not being any records or
+
+1280
+00:44:39,599 --> 00:44:42,920
+anything like that. Then where
+
+1281
+00:44:42,920 --> 00:44:44,239
+do you think the original story
+
+1282
+00:44:44,239 --> 00:44:46,280
+do you think that French psychic
+
+1283
+00:44:46,280 --> 00:44:48,079
+was just like yeah I want a free
+
+1284
+00:44:48,079 --> 00:44:50,460
+meal let me just there's a
+
+1285
+00:44:50,460 --> 00:44:53,639
+spirit here. Annette Williamson
+
+1286
+00:44:53,639 --> 00:44:54,920
+let me let me tell you the tale
+
+1287
+00:44:54,920 --> 00:44:56,820
+over a dinner. You think you
+
+1288
+00:44:56,820 --> 00:44:58,500
+just made up a story and Annette
+
+1289
+00:44:58,500 --> 00:44:59,619
+we don't know anything about
+
+1290
+00:44:59,619 --> 00:45:00,880
+that. We don't know anything
+
+1291
+00:45:00,880 --> 00:45:02,280
+about the French psych. Yeah I
+
+1292
+00:45:02,280 --> 00:45:03,280
+got to find we got to find that
+
+1293
+00:45:03,280 --> 00:45:05,099
+guy. Yeah or we got to find
+
+1294
+00:45:05,099 --> 00:45:08,079
+Annette. Yeah. Oh I would love
+
+1295
+00:45:08,079 --> 00:45:09,659
+to go and evidently people just
+
+1296
+00:45:09,659 --> 00:45:11,239
+show up or talk to the guy and
+
+1297
+00:45:11,239 --> 00:45:12,400
+he lets them like do paranormal
+
+1298
+00:45:12,400 --> 00:45:13,719
+investigations like the owner is
+
+1299
+00:45:13,719 --> 00:45:15,380
+very obviously it's like a great
+
+1300
+00:45:15,380 --> 00:45:16,659
+marketing thing right. He's
+
+1301
+00:45:16,659 --> 00:45:18,539
+really into it. Also he really
+
+1302
+00:45:18,539 --> 00:45:20,280
+people are people are
+
+1303
+00:45:20,280 --> 00:45:21,820
+experiencing things like we've
+
+1304
+00:45:21,820 --> 00:45:23,260
+been saying something's
+
+1305
+00:45:23,260 --> 00:45:24,840
+happening. Oh yeah there is it
+
+1306
+00:45:24,840 --> 00:45:26,719
+there's stuff there. It's if
+
+1307
+00:45:26,719 --> 00:45:28,639
+it's a Topa that's people have
+
+1308
+00:45:28,639 --> 00:45:29,780
+thought because people thought
+
+1309
+00:45:29,780 --> 00:45:30,940
+it's Annette and that's what's
+
+1310
+00:45:30,940 --> 00:45:37,119
+happening then sure but if it's
+
+1311
+00:45:37,119 --> 00:45:38,840
+not and there's something else
+
+1312
+00:45:38,840 --> 00:45:40,480
+at play maybe again there could
+
+1313
+00:45:40,480 --> 00:45:42,159
+be there are plenty of
+
+1314
+00:45:42,159 --> 00:45:44,440
+undocumented deaths that happen
+
+1315
+00:45:44,440 --> 00:45:45,900
+and I'm sure back then it was
+
+1316
+00:45:45,900 --> 00:45:47,960
+probably more common. Not saying
+
+1317
+00:45:47,960 --> 00:45:50,460
+no records were taken. It wasn't
+
+1318
+00:45:50,460 --> 00:45:53,820
+that long ago but could be an
+
+1319
+00:45:53,820 --> 00:45:55,739
+undocumented death and it's just
+
+1320
+00:45:55,739 --> 00:45:58,539
+matching the same description.
+
+1321
+00:45:58,599 --> 00:46:00,059
+The Annette thing could have
+
+1322
+00:46:00,059 --> 00:46:02,699
+just been made up. Who knows
+
+1323
+00:46:02,699 --> 00:46:06,860
+like the actual name like it
+
+1324
+00:46:06,860 --> 00:46:08,460
+could be like a person could
+
+1325
+00:46:08,460 --> 00:46:10,159
+still have died there but maybe
+
+1326
+00:46:10,159 --> 00:46:12,780
+her name wasn't Annette. That's
+
+1327
+00:46:12,780 --> 00:46:14,820
+true. Well final thoughts Aaron.
+
+1328
+00:46:15,480 --> 00:46:16,579
+When are we going down to this
+
+1329
+00:46:16,579 --> 00:46:18,380
+restaurant. It's my final
+
+1330
+00:46:18,380 --> 00:46:21,059
+thoughts. Give me let's let's
+
+1331
+00:46:21,059 --> 00:46:23,940
+say a few months. I will go I
+
+1332
+00:46:23,940 --> 00:46:26,860
+will call I'll say Bob. Bob you
+
+1333
+00:46:26,860 --> 00:46:30,059
+lying to me. Let me see. Show me
+
+1334
+00:46:30,059 --> 00:46:32,139
+the grave Bob. Show me Annette
+
+1335
+00:46:32,139 --> 00:46:34,960
+Williamson. It's in your
+
+1336
+00:46:34,960 --> 00:46:38,219
+backyard. You know I would love
+
+1337
+00:46:38,219 --> 00:46:39,380
+to get to buy on that. It's also
+
+1338
+00:46:39,380 --> 00:46:41,679
+weird that there's kind of aside
+
+1339
+00:46:41,679 --> 00:46:43,860
+from the story that this is
+
+1340
+00:46:43,860 --> 00:46:45,599
+what's called Long Island's you
+
+1341
+00:46:45,599 --> 00:46:47,860
+know quote most haunted location
+
+1342
+00:46:47,860 --> 00:46:50,440
+when there's all those stories
+
+1343
+00:46:50,440 --> 00:46:51,840
+and conspiracy theories of what
+
+1344
+00:46:51,840 --> 00:46:55,500
+happened out on like Montauk.
+
+1345
+00:46:55,739 --> 00:46:57,619
+That's like why those are gonna
+
+1346
+00:46:57,619 --> 00:46:58,679
+be great stories for another
+
+1347
+00:46:58,679 --> 00:47:00,599
+time. Like why like when I think
+
+1348
+00:47:00,599 --> 00:47:03,440
+of like you know spooky things
+
+1349
+00:47:03,440 --> 00:47:04,900
+or just weird things in Long
+
+1350
+00:47:04,900 --> 00:47:07,340
+Island I think of Montauk. I
+
+1351
+00:47:07,340 --> 00:47:09,920
+don't think of this restaurant
+
+1352
+00:47:09,920 --> 00:47:12,900
+in Stony Brook. We'll have to
+
+1353
+00:47:12,900 --> 00:47:14,480
+record another episode on that.
+
+1354
+00:47:14,960 --> 00:47:16,420
+Yeah you're right I think maybe
+
+1355
+00:47:16,420 --> 00:47:19,099
+this is um it's very accessible.
+
+1356
+00:47:19,460 --> 00:47:21,360
+I guess. Yeah it's like right
+
+1357
+00:47:21,360 --> 00:47:22,500
+you can tell us the kids you
+
+1358
+00:47:22,500 --> 00:47:24,840
+tell it to uh to adults. It's
+
+1359
+00:47:24,840 --> 00:47:26,179
+yeah it's like something that
+
+1360
+00:47:26,179 --> 00:47:27,320
+right we're not saying like
+
+1361
+00:47:27,320 --> 00:47:29,380
+Bigfoot lives in shore on the
+
+1362
+00:47:29,380 --> 00:47:32,059
+New York. He might you don't
+
+1363
+00:47:32,059 --> 00:47:34,219
+know. Oh he might. There's not
+
+1364
+00:47:34,219 --> 00:47:35,400
+enough people in the summer
+
+1365
+00:47:35,400 --> 00:47:38,579
+home. In those artificial woods
+
+1366
+00:47:38,579 --> 00:47:40,039
+down on Long Island. Bigfoot in
+
+1367
+00:47:40,039 --> 00:47:42,400
+the Hamptons. That sounds like a
+
+1368
+00:47:42,400 --> 00:47:43,699
+movie or a book or something.
+
+1369
+00:47:43,840 --> 00:47:50,940
+Sounds like yeah I think maybe
+
+1370
+00:47:50,940 --> 00:47:52,880
+that's you know it's easy to
+
+1371
+00:47:52,880 --> 00:47:54,219
+market. It's like a great
+
+1372
+00:47:54,219 --> 00:47:57,800
+touristy thing too. But yeah
+
+1373
+00:47:57,800 --> 00:47:59,440
+something's going on there. I
+
+1374
+00:47:59,440 --> 00:48:01,539
+think it'd be great if we had a
+
+1375
+00:48:01,539 --> 00:48:03,440
+nice dinner there and uh kept an
+
+1376
+00:48:03,440 --> 00:48:04,699
+eye out for her. And Annette
+
+1377
+00:48:04,699 --> 00:48:06,619
+threw a knife at you. Okay
+
+1378
+00:48:06,619 --> 00:48:09,500
+butter knife. Maybe just like
+
+1379
+00:48:09,500 --> 00:48:11,019
+change the channel on the radio.
+
+1380
+00:48:11,420 --> 00:48:12,219
+That's good. Change the channel.
+
+1381
+00:48:12,760 --> 00:48:14,780
+The craziest claim I heard from
+
+1382
+00:48:14,780 --> 00:48:17,260
+Joe the media psychic or
+
+1383
+00:48:17,260 --> 00:48:19,760
+whatever was that he has EVPs
+
+1384
+00:48:19,760 --> 00:48:21,739
+where you hear the background
+
+1385
+00:48:21,739 --> 00:48:23,159
+music of the restaurant playing.
+
+1386
+00:48:23,900 --> 00:48:26,980
+And it will cut from that to the
+
+1387
+00:48:26,980 --> 00:48:28,699
+voice of a young woman singing.
+
+1388
+00:48:29,860 --> 00:48:31,960
+Just no music at all just her
+
+1389
+00:48:31,960 --> 00:48:33,440
+singing. I don't know what he
+
+1390
+00:48:33,440 --> 00:48:36,860
+meant. Oh good. I never one
+
+1391
+00:48:36,860 --> 00:48:38,019
+thing couldn't find recordings.
+
+1392
+00:48:38,280 --> 00:48:39,380
+Like a personal thing for me
+
+1393
+00:48:39,380 --> 00:48:43,099
+EVPs always are so shaky for me.
+
+1394
+00:48:43,699 --> 00:48:45,659
+Like all the audio evidence that
+
+1395
+00:48:45,659 --> 00:48:46,980
+like you know plenty of the
+
+1396
+00:48:46,980 --> 00:48:49,639
+ghost shows do and like even on
+
+1397
+00:48:49,639 --> 00:48:51,300
+like I love like the BuzzFeed
+
+1398
+00:48:51,300 --> 00:48:53,179
+unsolved guys what they what
+
+1399
+00:48:53,179 --> 00:48:54,480
+they did. Yeah like but they
+
+1400
+00:48:54,480 --> 00:48:56,039
+still do like the EVP things. I
+
+1401
+00:48:56,039 --> 00:48:57,800
+never really liked that you know
+
+1402
+00:48:57,800 --> 00:49:00,079
+and I you know I believe in
+
+1403
+00:49:00,079 --> 00:49:01,380
+ghosts and that a lot of people
+
+1404
+00:49:01,380 --> 00:49:02,300
+experience a lot of weird
+
+1405
+00:49:02,300 --> 00:49:03,900
+things. I have friends that have
+
+1406
+00:49:03,900 --> 00:49:05,119
+experienced things but like
+
+1407
+00:49:05,119 --> 00:49:06,880
+those audio recording things I
+
+1408
+00:49:06,880 --> 00:49:08,300
+don't put a lot of a lot of
+
+1409
+00:49:08,300 --> 00:49:09,880
+credence into what those give.
+
+1410
+00:49:10,199 --> 00:49:12,260
+So I'm always hesitant when
+
+1411
+00:49:12,260 --> 00:49:13,559
+someone says oh look at the CVP
+
+1412
+00:49:13,559 --> 00:49:15,019
+because even like you said it
+
+1413
+00:49:15,019 --> 00:49:17,880
+said oh come. Ah yes one. Yeah
+
+1414
+00:49:17,880 --> 00:49:18,699
+those are the ones that are
+
+1415
+00:49:18,699 --> 00:49:20,159
+those that's just such the
+
+1416
+00:49:20,159 --> 00:49:21,679
+classic EVP. I'll put them in
+
+1417
+00:49:21,679 --> 00:49:23,239
+the astronauts. Where you get
+
+1418
+00:49:23,239 --> 00:49:27,360
+one word. It may be two. You
+
+1419
+00:49:27,360 --> 00:49:30,079
+never get full sentences but the
+
+1420
+00:49:30,079 --> 00:49:31,440
+full sentences you get might
+
+1421
+00:49:31,440 --> 00:49:34,000
+come from like psychics but then
+
+1422
+00:49:34,000 --> 00:49:35,280
+now you have to put all your
+
+1423
+00:49:35,280 --> 00:49:37,179
+belief in this one person and
+
+1424
+00:49:37,179 --> 00:49:39,219
+apparently at least with these
+
+1425
+00:49:39,219 --> 00:49:40,599
+psychics they just missed the
+
+1426
+00:49:40,599 --> 00:49:41,699
+mark. Yeah that makes you wonder
+
+1427
+00:49:41,699 --> 00:49:43,219
+like are they just picking up on
+
+1428
+00:49:43,219 --> 00:49:45,099
+that like you said Nick like
+
+1429
+00:49:45,099 --> 00:49:46,719
+that thought form that's out
+
+1430
+00:49:46,719 --> 00:49:49,940
+there like are they just picking
+
+1431
+00:49:49,940 --> 00:49:52,360
+up on what's around. It's not
+
+1432
+00:49:52,360 --> 00:49:54,900
+necessarily weird. True. Like if
+
+1433
+00:49:54,900 --> 00:49:57,500
+you like okay so say like that
+
+1434
+00:49:57,500 --> 00:49:59,739
+you know they can contact the
+
+1435
+00:49:59,739 --> 00:50:01,699
+dead like psychics or mediums.
+
+1436
+00:50:01,699 --> 00:50:03,039
+It'd be weird for them to be
+
+1437
+00:50:03,039 --> 00:50:04,300
+able to be in contact with
+
+1438
+00:50:04,300 --> 00:50:07,820
+something that's not dead. It's
+
+1439
+00:50:07,820 --> 00:50:09,659
+you know it's a it's a if it is
+
+1440
+00:50:09,659 --> 00:50:11,219
+like a tulp idea that's just
+
+1441
+00:50:11,219 --> 00:50:13,719
+like energy from people's
+
+1442
+00:50:13,719 --> 00:50:15,739
+thoughts. You think so? I think
+
+1443
+00:50:15,739 --> 00:50:17,960
+I mean unless it I mean you can
+
+1444
+00:50:17,960 --> 00:50:19,099
+go into all this kind of
+
+1445
+00:50:19,099 --> 00:50:20,659
+different how you know energies
+
+1446
+00:50:20,659 --> 00:50:24,340
+work and. Aaron should tell us
+
+1447
+00:50:24,340 --> 00:50:26,159
+as the electrical engineer how
+
+1448
+00:50:26,159 --> 00:50:28,300
+energy works. How energy works.
+
+1449
+00:50:29,340 --> 00:50:30,840
+You want to lose viewers with
+
+1450
+00:50:30,840 --> 00:50:34,559
+that one? Which is like it'd be
+
+1451
+00:50:34,559 --> 00:50:36,139
+it's weird to think that like me
+
+1452
+00:50:36,139 --> 00:50:37,360
+like people that say they're
+
+1453
+00:50:37,360 --> 00:50:38,639
+mediums that's the connotation
+
+1454
+00:50:38,639 --> 00:50:40,300
+that they talk to the dead. If
+
+1455
+00:50:40,300 --> 00:50:42,059
+it's a tulpa that's not a dead
+
+1456
+00:50:42,059 --> 00:50:43,980
+thing. It's the idea of a dead
+
+1457
+00:50:43,980 --> 00:50:45,639
+thing. That's it. I guess not
+
+1458
+00:50:45,639 --> 00:50:47,420
+the person but. I understand
+
+1459
+00:50:47,420 --> 00:50:48,079
+what you're saying. So you're
+
+1460
+00:50:48,079 --> 00:50:50,340
+saying if mediums can do what
+
+1461
+00:50:50,340 --> 00:50:51,800
+they claim they would really
+
+1462
+00:50:51,800 --> 00:50:53,059
+only be communicating with dead
+
+1463
+00:50:53,059 --> 00:50:55,320
+spirits not with other you know
+
+1464
+00:50:55,320 --> 00:50:57,300
+quote made up spirits because
+
+1465
+00:50:57,300 --> 00:50:59,000
+it's again there's a lot of
+
+1466
+00:50:59,000 --> 00:51:01,900
+energy that goes into like this
+
+1467
+00:51:01,900 --> 00:51:03,659
+creation of a tulpa like you
+
+1468
+00:51:03,659 --> 00:51:05,099
+know the Tibetan monks where
+
+1469
+00:51:05,099 --> 00:51:06,840
+this started you know monks you
+
+1470
+00:51:06,840 --> 00:51:08,079
+know they live a very solitary
+
+1471
+00:51:08,079 --> 00:51:10,460
+life but they can be very
+
+1472
+00:51:10,460 --> 00:51:13,300
+focused. So they put a lot of
+
+1473
+00:51:13,300 --> 00:51:16,260
+thought into whatever entity
+
+1474
+00:51:16,260 --> 00:51:17,500
+they want to create and then
+
+1475
+00:51:17,500 --> 00:51:19,380
+they create that tulpa. So like
+
+1476
+00:51:19,380 --> 00:51:20,760
+like I said if a lot of people
+
+1477
+00:51:20,760 --> 00:51:22,260
+are doing that maybe not a lot
+
+1478
+00:51:22,260 --> 00:51:23,280
+of thought but if a lot of
+
+1479
+00:51:23,280 --> 00:51:24,260
+people are putting some thought
+
+1480
+00:51:24,260 --> 00:51:25,739
+into it it's still just this
+
+1481
+00:51:25,739 --> 00:51:29,199
+build up of you know thought
+
+1482
+00:51:29,199 --> 00:51:31,900
+energy. It's it's the equivalent
+
+1483
+00:51:31,900 --> 00:51:35,559
+of a spiritual think tank but
+
+1484
+00:51:35,559 --> 00:51:36,820
+just instead of. Did you have
+
+1485
+00:51:36,820 --> 00:51:39,719
+that written down? No I did not.
+
+1486
+00:51:40,320 --> 00:51:41,619
+It was like you know a lot of
+
+1487
+00:51:41,619 --> 00:51:42,820
+people are just thinking about
+
+1488
+00:51:42,820 --> 00:51:44,900
+it. It'd be weird that psychics
+
+1489
+00:51:44,900 --> 00:51:48,039
+could pick up on like thought
+
+1490
+00:51:48,039 --> 00:51:50,420
+forms rather than spirits
+
+1491
+00:51:50,420 --> 00:51:51,619
+because then that makes you
+
+1492
+00:51:51,619 --> 00:51:53,780
+wonder for all these like
+
+1493
+00:51:53,780 --> 00:51:55,440
+classic haunted places even down
+
+1494
+00:51:55,440 --> 00:51:56,760
+there like Amityville and all
+
+1495
+00:51:56,760 --> 00:51:58,679
+that the psychics that go there
+
+1496
+00:51:58,679 --> 00:52:00,119
+are they picking up on spirits
+
+1497
+00:52:00,119 --> 00:52:04,139
+or on tulpas if because if a lot
+
+1498
+00:52:04,139 --> 00:52:05,059
+of people are thinking about
+
+1499
+00:52:05,059 --> 00:52:06,340
+things and you believe in that
+
+1500
+00:52:06,340 --> 00:52:08,519
+idea of a tulpa it's not
+
+1501
+00:52:08,519 --> 00:52:09,820
+entirely out of the realm of
+
+1502
+00:52:09,820 --> 00:52:11,099
+possibility that that's what it
+
+1503
+00:52:11,099 --> 00:52:12,300
+is and there aren't actually
+
+1504
+00:52:12,300 --> 00:52:15,119
+any. That's interesting. Yeah I
+
+1505
+00:52:15,119 --> 00:52:18,059
+they came they both came across
+
+1506
+00:52:18,059 --> 00:52:20,659
+as very sincere and very
+
+1507
+00:52:20,659 --> 00:52:22,300
+confident but some of the things
+
+1508
+00:52:22,300 --> 00:52:23,320
+that they said were just
+
+1509
+00:52:23,320 --> 00:52:25,699
+factually wrong so it makes you
+
+1510
+00:52:25,699 --> 00:52:27,360
+wonder right it really makes you
+
+1511
+00:52:27,360 --> 00:52:29,480
+wonder I think that there's
+
+1512
+00:52:29,480 --> 00:52:30,559
+still enough questions that are
+
+1513
+00:52:30,559 --> 00:52:32,719
+left unanswered here. I'm gonna
+
+1514
+00:52:32,719 --> 00:52:34,519
+keep digging a little bit and
+
+1515
+00:52:34,519 --> 00:52:36,179
+maybe we'll report back one day
+
+1516
+00:52:36,179 --> 00:52:37,099
+but I think it would be great to
+
+1517
+00:52:37,099 --> 00:52:42,860
+visit see if we expensive meal
+
+1518
+00:52:42,860 --> 00:52:45,639
+hopefully it'd be good. Maybe if
+
+1519
+00:52:45,639 --> 00:52:47,119
+we're nice we could visit the
+
+1520
+00:52:47,119 --> 00:52:49,780
+cemetery if we say if we
+
+1521
+00:52:49,780 --> 00:52:51,139
+impersonate FBI agents as Nick
+
+1522
+00:52:51,139 --> 00:52:52,880
+says. I'm telling you it's a
+
+1523
+00:52:52,880 --> 00:52:55,000
+surefire way for illegal
+
+1524
+00:52:55,000 --> 00:52:59,420
+purposes that's a joke. Yeah yes
+
+1525
+00:52:59,420 --> 00:53:04,059
+wink. That's the story of
+
+1526
+00:53:04,059 --> 00:53:07,199
+Annette Williamson and I have to
+
+1527
+00:53:07,199 --> 00:53:09,960
+say it made me wonder that the
+
+1528
+00:53:09,960 --> 00:53:12,039
+very first story I decided to
+
+1529
+00:53:12,039 --> 00:53:14,559
+research and tell was such a
+
+1530
+00:53:14,559 --> 00:53:16,380
+well-known story in Long Island
+
+1531
+00:53:16,380 --> 00:53:22,019
+that also proved to be on very
+
+1532
+00:53:22,019 --> 00:53:25,579
+shaky historical ground. Really
+
+1533
+00:53:25,579 --> 00:53:27,739
+makes you think. So I'm very
+
+1534
+00:53:27,739 --> 00:53:29,719
+curious to see in the things I
+
+1535
+00:53:29,719 --> 00:53:30,679
+research next I'm gonna be
+
+1536
+00:53:30,679 --> 00:53:31,639
+looking more at things in the
+
+1537
+00:53:31,639 --> 00:53:33,559
+Bronx in my hometown and also
+
+1538
+00:53:33,559 --> 00:53:34,280
+Long Island stuff because
+
+1539
+00:53:34,280 --> 00:53:35,260
+there's just a lot of history
+
+1540
+00:53:35,260 --> 00:53:36,739
+there. Is that going to be a
+
+1541
+00:53:36,739 --> 00:53:37,960
+common theme or is this an
+
+1542
+00:53:37,960 --> 00:53:42,659
+outlier? So tune in to the next
+
+1543
+00:53:42,659 --> 00:53:44,380
+episodes looking forward to what
+
+1544
+00:53:44,380 --> 00:53:45,460
+you guys have in store.
+
+1545
+00:53:45,699 --> 00:53:47,480
+Hopefully there's less deception
+
+1546
+00:53:47,480 --> 00:53:49,860
+by psychics and mediums. And
+
+1547
+00:53:49,860 --> 00:53:52,039
+what I have coming up from what
+
+1548
+00:53:52,039 --> 00:53:53,780
+I've done there are no psychics
+
+1549
+00:53:53,780 --> 00:53:55,820
+involved. It's more the
+
+1550
+00:53:55,820 --> 00:53:59,340
+retelling of others accounts of
+
+1551
+00:53:59,340 --> 00:54:03,280
+a very large cemetery right in
+
+1552
+00:54:03,280 --> 00:54:05,320
+Schenectady here in the capital
+
+1553
+00:54:05,320 --> 00:54:09,000
+region. Oh we can go there too.
+
+1554
+00:54:09,539 --> 00:54:12,179
+Yes and you can visit there it's
+
+1555
+00:54:12,179 --> 00:54:14,039
+a very and you can walk through
+
+1556
+00:54:14,039 --> 00:54:16,280
+there even at night it is just
+
+1557
+00:54:16,280 --> 00:54:18,539
+like public and you know people
+
+1558
+00:54:18,539 --> 00:54:19,920
+have taken it for like shortcuts
+
+1559
+00:54:19,920 --> 00:54:21,860
+and things but there are a lot
+
+1560
+00:54:21,860 --> 00:54:24,360
+of a lot of like individual
+
+1561
+00:54:24,360 --> 00:54:26,320
+accounts of things happening
+
+1562
+00:54:26,320 --> 00:54:29,840
+there and a lot of that's much
+
+1563
+00:54:29,840 --> 00:54:31,840
+more on the negative side of
+
+1564
+00:54:31,840 --> 00:54:34,820
+things and kind of the the
+
+1565
+00:54:34,820 --> 00:54:36,260
+playfulness that this and that
+
+1566
+00:54:36,260 --> 00:54:38,559
+has exhibited. Awesome. That's
+
+1567
+00:54:38,559 --> 00:54:39,719
+what we'll be looking at from
+
+1568
+00:54:39,719 --> 00:54:42,699
+me. Yeah from my upcoming story
+
+1569
+00:54:42,699 --> 00:54:45,960
+we're gonna be real local to us.
+
+1570
+00:54:46,360 --> 00:54:48,019
+We're gonna be looking at RPI
+
+1571
+00:54:48,019 --> 00:54:50,300
+Rensselaer Polytechnic Institute
+
+1572
+00:54:50,300 --> 00:54:54,119
+where there's legend of a nurse
+
+1573
+00:54:54,119 --> 00:55:03,639
+Betsy haunting one of the
+
+1574
+00:55:03,639 --> 00:55:05,960
+women's bad but no one really
+
+1575
+00:55:05,960 --> 00:55:09,219
+knows all that much about it but
+
+1576
+00:55:09,219 --> 00:55:10,679
+there's been some paranormal
+
+1577
+00:55:10,679 --> 00:55:13,659
+investigators that came full up.
+
+1578
+00:55:13,940 --> 00:55:14,739
+I'm looking forward to that.
+
+1579
+00:55:14,840 --> 00:55:16,059
+That's gonna be great. That's
+
+1580
+00:55:16,059 --> 00:55:17,760
+gonna be spooky. So yeah great
+
+1581
+00:55:17,760 --> 00:55:19,179
+looking forward to next episodes
+
+1582
+00:55:19,179 --> 00:55:20,440
+and I hope everyone enjoyed
+
+1583
+00:55:20,440 --> 00:55:21,820
+hearing about Annette
+
+1584
+00:55:21,820 --> 00:55:23,539
+Williamson. I encourage you to
+
+1585
+00:55:23,539 --> 00:55:24,940
+go go over there and try to talk
+
+1586
+00:55:24,940 --> 00:55:26,739
+to her and ask her what she
+
+1587
+00:55:26,739 --> 00:55:29,079
+thinks about this. Maybe play
+
+1588
+00:55:29,079 --> 00:55:30,260
+this on play this episode on the
+
+1589
+00:55:30,260 --> 00:55:31,679
+radio for her there and see if
+
+1590
+00:55:31,679 --> 00:55:37,119
+she changes the channel. That's
+
+1591
+00:55:37,119 --> 00:55:39,139
+all for tonight. Check out the
+
+1592
+00:55:39,139 --> 00:55:40,139
+show notes and all references
+
+1593
+00:55:40,139 --> 00:55:42,699
+used at Wednesday at 9 p.m. com.
+
+1594
+00:55:43,980 --> 00:55:45,960
+We hope you enjoyed the show and
+
+1595
+00:55:45,960 --> 00:57:22,519
+we'll see you next week. 3 1 14
+
+1596
+00:57:22,519 --> 00:57:32,739
+20 20 18 21 19 20 28 5 6 18 5 14
+
+1597
+00:57:32,739 --> 00:57:33,920
+3 8
