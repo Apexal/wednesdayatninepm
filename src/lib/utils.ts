@@ -12,7 +12,7 @@ export const getEpisodeImagesPath = (slug: string) =>
   `/episodes/images/${slug}/`;
 
 export const getEpisodeTranscriptPath = (slug: string) =>
-  `/episodes/transcripts/${slug}.srt`;
+  `/episodes/transcripts/${slug}.json`;
 
 export const personToItemPerson = (role: string) => (nickname: string) => {
   if (nickname in PEOPLE) {
