@@ -55,7 +55,7 @@ const episodeHtmlDescription = (
 const entryToItem = ({ slug, data: episode }: CollectionEntry<"episodes">) => ({
   guid: SITE_URL + getEpisodePagePath(slug),
   link: SITE_URL + getEpisodePagePath(slug),
-  title: episode.title,
+  title: `${episode.episodeNumber}: ${episode.title}`,
   "itunes:summary": episode.tagline,
   description: episodeHtmlDescription(slug, episode),
   pubDate: episode.publishedAt.toUTCString(),
