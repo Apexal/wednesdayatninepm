@@ -7,10 +7,10 @@ export const PODCAST_TAGLINE =
   "A very serious research podcast about weird, local stories.";
 export const PODCAST_EMAIL = "wednesdayatninepm@gmail.com";
 export const PODCAST_DESCRIPTION =
-  "Join Frank, Nick, and Aaron as they research and present local, strange stories that will make you question the validity of their STEM degrees.";
+  "Join Frank, Nick, Aaron, and Ryan as they research and discuss local, strange stories.";
 export const EPISODE_PREFACE =
   "This Wednesday night at 9pm at midnight at 3am in a cemetery... ";
-export const PODCAST_HOSTS: PEOPLE_NAME[] = ["Aaron", "Frank", "Nick"];
+export const PODCAST_HOSTS: PEOPLE_NAME[] = ["Aaron", "Frank", "Nick", "Ryan"];
 
 export type Person = {
   name: string;
@@ -25,7 +25,7 @@ export const SHARE_URLS = {
   apple: "https://podcasts.apple.com/us/podcast/wednesday-at-9pm/id1680373413",
 } as const;
 
-export const PEOPLE_NAMES = ["Frank", "Nick", "Aaron"] as const;
+export const PEOPLE_NAMES = ["Frank", "Nick", "Aaron", "Ryan"] as const;
 export type PEOPLE_NAME = (typeof PEOPLE_NAMES)[number];
 export const PEOPLE: Record<(typeof PEOPLE_NAMES)[number], Person> = {
   Frank: {
@@ -39,5 +39,8 @@ export const PEOPLE: Record<(typeof PEOPLE_NAMES)[number], Person> = {
   Nick: {
     name: "Nicholas Oertel",
     imgUrl: SITE_URL + "/people/nick.jpg",
+  },
+  Ryan: {
+    name: "Ryan Schnur",
   },
 } as const;
