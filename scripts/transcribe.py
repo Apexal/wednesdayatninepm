@@ -132,10 +132,10 @@ def export_as_html(result: Dict[str, Union[str, List]], filename: str):
 
 
 if __name__ == "__main__":
-    # result = transcribe()
-    with open("01-missing-tombstone_transcribed.json") as f:
-        result = json.loads(f.read())
+    result = transcribe()
+    # with open("01-missing-tombstone_transcribed.json") as f:
+    #     result = json.loads(f.read())
 
-    export_as_json(result, "01-missing-tombstone")
-    export_as_srt(result, "01-missing-tombstone")
-    export_as_html(result, "01-missing-tombstone")
+    export_as_json(result, "02-rpi")
+    export_as_srt(result, "02-rpi")
+    export_as_html(result, "02-rpi")

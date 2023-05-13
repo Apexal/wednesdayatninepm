@@ -42,3 +42,5 @@ function parseHtmlEntities(str: string) {
     return String.fromCharCode(num);
   });
 }
+
+export const markdownLinkRegex = /!?\[([^\]]*)\]\(([^\)]+)\)/;

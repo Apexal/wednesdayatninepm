@@ -1,4 +1,5 @@
 import { z, defineCollection } from "astro:content";
+import { markdownLinkRegex } from "src/lib/utils";
 import { PEOPLE_NAMES } from "src/podcast";
 
 // https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md
@@ -39,7 +40,9 @@ const episodeCollection = defineCollection({
         })
       )
       .optional(),
-    sources: z.array(z.string().url()).optional(),
+    sources: z
+      .array(z.string().url().or(z.string().regex(markdownLinkRegex)))
+      .optional(),
   }),
 });
 

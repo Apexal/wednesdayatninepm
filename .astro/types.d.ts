@@ -116,6 +116,13 @@ declare module 'astro:content' {
   collection: "episodes",
   data: InferEntrySchema<"episodes">
 } & { render(): Render[".mdoc"] },
+"04-hexenmeister.mdoc": {
+  id: "04-hexenmeister.mdoc",
+  slug: "04-hexenmeister",
+  body: string,
+  collection: "episodes",
+  data: InferEntrySchema<"episodes">
+} & { render(): Render[".mdoc"] },
 },
 
 	};

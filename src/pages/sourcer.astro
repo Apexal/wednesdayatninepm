@@ -1,0 +1,42 @@
+---
+import PageLayout from "../layouts/PageLayout.astro";
+---
+
+<PageLayout>
+  <section>
+    <div class="grid grid-cols-2">
+      <div>
+        <textarea class="w-full" id="in"></textarea>
+      </div>
+      <div>
+        <textarea class="w-full" id="out"></textarea>
+      </div>
+    </div>
+  </section>
+</PageLayout>
+
+<script>
+  const regex = /\[(.*?)\]\((\S*?) ?('(.*?)')?\)/s;
+
+  document.addEventListener("DOMContentLoaded", function () {
+    const inTextarea = document.getElementById("in");
+    const outTextarea = document.getElementById("out");
+    if (!inTextarea || !outTextarea) return;
+
+    inTextarea.addEventListener("input", function (event) {
+      const lines: string[] = event.currentTarget!.value.split("\n");
+
+      let rendered = lines
+        .map((line) => {
+          const match = line.match(regex);
+          if (match) {
+            return ` - '[${match[1]}](${match[2]})'`;
+          } else {
+            return line;
+          }
+        })
+        .join("\n");
+      outTextarea.value = rendered;
+    });
+  });
+</script>
