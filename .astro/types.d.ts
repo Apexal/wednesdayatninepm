@@ -123,6 +123,13 @@ declare module 'astro:content' {
   collection: "episodes",
   data: InferEntrySchema<"episodes">
 } & { render(): Render[".mdoc"] },
+"05-union-hotel.mdoc": {
+  id: "05-union-hotel.mdoc",
+  slug: "05-union-hotel",
+  body: string,
+  collection: "episodes",
+  data: InferEntrySchema<"episodes">
+} & { render(): Render[".mdoc"] },
 },
 
 	};

@@ -4,7 +4,7 @@ export const SITE_URL = BASE_URL.origin;
 export const PODCAST_TITLE = "Wednesday at 9PM";
 export const PODCAST_LOGO_URL = "/logo.png";
 export const PODCAST_TAGLINE =
-  "A very serious research podcast about weird, local stories.";
+  "A semi-serious research podcast about weird, local stories.";
 export const PODCAST_EMAIL = "wednesdayatninepm@gmail.com";
 export const PODCAST_DESCRIPTION =
   "Join Frank, Nick, Aaron, and Ryan as they research and discuss local, strange stories.";

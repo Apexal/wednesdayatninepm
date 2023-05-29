@@ -165,14 +165,15 @@ const sources = episode.sources
           episode.images && (
             <div id="images" class="mt-16">
               <h2>Photographs</h2>
-              {episode.images.map((img) => (
+              {episode.images.map((img, imgIndex) => (
                 <figure class="rounded-lg bg-black text-center">
                   <img
-                    class="rounded-tl-lg rounded-tr-lg"
+                    class="rounded-tl-lg rounded-tr-lg w-full"
                     src={getEpisodeImagesPath(slug) + img.fileName}
                     alt={img.fileName}
                   />
                   <figcaption class="text-white px-2 pb-2">
+                    <strong>Figure {imgIndex + 1}:</strong>
                     {img.description}
                   </figcaption>
                 </figure>
