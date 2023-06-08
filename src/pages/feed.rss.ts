@@ -33,16 +33,20 @@ const episodeHtmlDescription = (
   episode: CollectionEntry<"episodes">["data"]
 ) => {
   return {
-    "#cdata": `<p>${episode.description}</p>
+    "#cdata": `<p>${episode.tagline}</p>
     
     ${
       episode.images
-        ? episode.images.map(
-            (image) =>
-              `<figure><img src='${SITE_URL}${getEpisodeImagesPath(slug)}${
-                image.fileName
-              }'><figcaption>${image.description}</figcaption></figure>`
-          )
+        ? episode.images
+            .map(
+              (image, imageIndex) =>
+                `<figure><img src='${SITE_URL}${getEpisodeImagesPath(slug)}${
+                  image.fileName
+                }'><figcaption>Figure ${imageIndex + 1}: ${
+                  image.description
+                }</figcaption></figure>`
+            )
+            .join("\n")
         : ""
     }
 

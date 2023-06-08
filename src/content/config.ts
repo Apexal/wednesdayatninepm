@@ -28,8 +28,6 @@ const episodeCollection = defineCollection({
     hosts: z.array(z.enum(PEOPLE_NAMES)),
     cohosts: z.array(z.enum(PEOPLE_NAMES)).optional(),
     guests: z.array(z.string()).optional(),
-    // 1000-character episode description shown in podcast apps
-    description: z.string().max(1000),
     images: z.array(episodeImage).optional(),
     locations: z
       .array(

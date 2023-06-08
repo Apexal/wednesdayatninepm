@@ -1,0 +1,18 @@
+---
+export interface Props {
+    iframeURL: string;
+}
+
+const { iframeURL } = Astro.props;
+---
+
+<iframe
+    class="mx-auto my-10"
+    type="text/html"
+    sandbox="allow-scripts allow-same-origin allow-popups"
+    width="336"
+    height="550"
+    frameborder="0"
+    allowfullscreen
+    style="max-width:100%"
+    src={iframeURL}></iframe>
