@@ -144,6 +144,13 @@ declare module 'astro:content' {
   collection: "episodes",
   data: InferEntrySchema<"episodes">
 } & { render(): Render[".mdoc"] },
+"08-aruba.mdoc": {
+  id: "08-aruba.mdoc",
+  slug: "08-aruba",
+  body: string,
+  collection: "episodes",
+  data: InferEntrySchema<"episodes">
+} & { render(): Render[".mdoc"] },
 },
 
 	};
