@@ -151,6 +151,13 @@ declare module 'astro:content' {
   collection: "episodes",
   data: InferEntrySchema<"episodes">
 } & { render(): Render[".mdoc"] },
+"09-vampires.mdoc": {
+  id: "09-vampires.mdoc",
+  slug: "09-vampires",
+  body: string,
+  collection: "episodes",
+  data: InferEntrySchema<"episodes">
+} & { render(): Render[".mdoc"] },
 },
 
 	};
