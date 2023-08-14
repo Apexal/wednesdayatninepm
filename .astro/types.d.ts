@@ -158,6 +158,13 @@ declare module 'astro:content' {
   collection: "episodes",
   data: InferEntrySchema<"episodes">
 } & { render(): Render[".mdoc"] },
+"10-saratoga-witch.mdoc": {
+  id: "10-saratoga-witch.mdoc",
+  slug: "10-saratoga-witch",
+  body: string,
+  collection: "episodes",
+  data: InferEntrySchema<"episodes">
+} & { render(): Render[".mdoc"] },
 },
 
 	};
