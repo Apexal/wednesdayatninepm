@@ -46,6 +46,7 @@ interface Props {
 const {
   entry: { render, slug, data: episode },
 } = Astro.props;
+
 const { Content } = await render();
 
 const formattedDate = new Date(episode.publishedAt).toLocaleString("en-us", {

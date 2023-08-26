@@ -1,11 +1,9 @@
-import { defineMarkdocConfig } from "@astrojs/markdoc/config";
-
-import BookPreview from "./src/components/BookPreview.astro";
+import { defineMarkdocConfig, component } from "@astrojs/markdoc/config";
 
 export default defineMarkdocConfig({
   tags: {
     book: {
-      render: BookPreview,
+      render: component("./src/components/BookPreview.astro"),
       attributes: {
         iframeURL: { type: String },
       },
