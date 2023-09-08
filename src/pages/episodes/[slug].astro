@@ -80,8 +80,13 @@ const sources = episode.sources
           const path = title.split("/");
           title = `${path[path.length - 1]} (PDF)`;
         } else if (!title || title === url) {
-          const response = await fetch(url);
-          title = parseTitle(await response.text());
+          try {
+            const response = await fetch(url);
+            title = parseTitle(await response.text());
+          } catch (e) {
+            console.error(`Failed to fetch page for <title>: ${url}\n${e}`);
+            
+          }
         }
 
         return {

@@ -274,6 +274,13 @@ declare module 'astro:content' {
   collection: "episodes";
   data: InferEntrySchema<"episodes">
 } & { render(): Render[".mdoc"] };
+"12-rolling-hills.mdoc": {
+	id: "12-rolling-hills.mdoc";
+  slug: "12-rolling-hills";
+  body: string;
+  collection: "episodes";
+  data: InferEntrySchema<"episodes">
+} & { render(): Render[".mdoc"] };
 };
 
 	};
