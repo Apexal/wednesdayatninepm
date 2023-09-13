@@ -11,11 +11,13 @@ export const PODCAST_DESCRIPTION =
 export const EPISODE_PREFACE =
   "This Wednesday night at 9pm at midnight at 3am in a cemetery... ";
 export const PODCAST_HOSTS: PEOPLE_NAME[] = ["Aaron", "Frank", "Nick"];
+export const PODCAST_AUTHOR = "Matranga Productions";
 
 export type Person = {
   name: string;
   imgUrl?: string;
   url?: string;
+  roles?: ReadonlyArray<string>;
 };
 
 export const SHARE_URLS = {
@@ -39,13 +41,16 @@ export const PEOPLE: Record<(typeof PEOPLE_NAMES)[number], Person> = {
     name: "Frank Matranga",
     imgUrl: SITE_URL + "/people/frank.jpg",
     url: "https://www.linkedin.com/in/frank-matranga/",
+    roles: ["producer", "researcher", "co-host"]
   },
   Aaron: {
     name: "Aaron Reers",
+    roles: ["researcher", "co-host"]
   },
   Nick: {
     name: "Nicholas Oertel",
     imgUrl: SITE_URL + "/people/nick.jpg",
+    roles: ["researcher", "co-host"]
   },
   Ryan: {
     name: "Ryan Schnur",

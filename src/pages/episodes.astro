@@ -14,6 +14,18 @@ const sortedEpisodeEntries = publishedEpisodeEntries.sort(
 
 <PageLayout title="Episodes">
   <section>
+    <header class="mb-4">
+      <h1
+        class="font-extrabold text-5xl md:text-6xl tracking-tight pt-4 pb-2 overflow-hidden"
+      >
+        <span
+          class="bg-gradient-to-br from-[#fb923c] via-[#f97316] to-[#ea580c] dark:from-primary-main dark:via-primary-main dark:to-primary-main bg-clip-text text-transparent"
+        >
+          All Episodes
+        </span>
+      </h1>
+      <p class="text-2xl pb-4">Browse our extensive research catalog</p>
+    </header>
     <ul>
       {
         sortedEpisodeEntries.map(({ slug, data: episode}) => {
@@ -34,7 +46,7 @@ const sortedEpisodeEntries = publishedEpisodeEntries.sort(
                   class="unset hover:text-text-link"
                   title={episode.tagline}
                 >
-                  {episode.episodeNumber}: {episode.title}
+                  <span class="font-semibold">{episode.episodeNumber}:</span> {episode.title}
                 </a>
               </div>
               <div class="text-text-muted text-sm italic">

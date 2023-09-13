@@ -5,7 +5,6 @@ import {
   PODCAST_TITLE,
   PODCAST_TAGLINE,
   PODCAST_EMAIL,
-  SHARE_URLS,
 } from "src/podcast";
 import { getEpisodeCoverArtPath, getEpisodePagePath } from "src/lib/utils";
 
@@ -24,7 +23,7 @@ const latestEpisode = sortedEpisodeEntries[0];
 
 <PageLayout>
   <section class="mb-8">
-    <div class="mb-4">
+    <header class="mb-4">
       <h1
         class="font-extrabold text-5xl md:text-6xl tracking-tight pt-4 pb-2 overflow-hidden"
       >
@@ -35,7 +34,7 @@ const latestEpisode = sortedEpisodeEntries[0];
         </span>
       </h1>
       <p class="text-2xl pb-4">{PODCAST_TAGLINE}</p>
-    </div>
+    </header>
     <div class="space-y-5">
       <p>
         Hello! Welcome to the website for our podcast. We are 3 young

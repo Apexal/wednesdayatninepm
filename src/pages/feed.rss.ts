@@ -8,6 +8,7 @@ import {
   PODCAST_LOGO_URL,
   PODCAST_TITLE,
   SITE_URL,
+  PODCAST_AUTHOR,
 } from "src/podcast";
 import XMLBuilder from "xmlbuilder";
 import {
@@ -59,7 +60,7 @@ const episodeHtmlDescription = (
 const entryToItem = ({ slug, data: episode }: CollectionEntry<"episodes">) => ({
   guid: SITE_URL + getEpisodePagePath(slug),
   link: SITE_URL + getEpisodePagePath(slug),
-  title: `${episode.episodeNumber}: ${episode.title}`,
+  title: `EP ${episode.episodeNumber}: ${episode.title}`,
   "itunes:summary": episode.tagline,
   description: episodeHtmlDescription(slug, episode),
   pubDate: episode.publishedAt.toUTCString(),
@@ -105,6 +106,10 @@ const entryToItem = ({ slug, data: episode }: CollectionEntry<"episodes">) => ({
     },
   ],
   "podcast:episode": episode.episodeNumber,
+  "media:rights": {
+    "@status": "userCreated"
+  },
+  "dc:creator": PODCAST_AUTHOR
 });
 
 /**
@@ -118,6 +123,8 @@ export const all: APIRoute = async () => {
         "@xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
         "@xmlns:content": "http://purl.org/rss/1.0/modules/content/",
         "@xmlns:podcast": "https://podcastindex.org/namespace/1.0",
+        "@xmlns:media": "http://search.yahoo.com/mrss/",
+        "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
         channel: {
           title: PODCAST_TITLE,
           "itunes:owner": {
@@ -125,7 +132,7 @@ export const all: APIRoute = async () => {
             "itunes:email": PODCAST_EMAIL,
           },
           "itunes:author": "Matranga Productions",
-          "itunes:category": "Society & Culture",
+          "itunes:category": ["Society & Culture", "History"],
           description: PODCAST_DESCRIPTION,
           "itunes:image": {
             "@href": SITE_URL + PODCAST_LOGO_URL,
@@ -147,7 +154,11 @@ export const all: APIRoute = async () => {
       encoding: "UTF-8",
     }
   ).end({ pretty: true });
-  return {
-    body: xml,
-  };
+
+  return new Response(xml, {
+    headers: {
+      "Content-Type": "text/xml; charset=utf-8",
+      "Cache-Control": "max-age=86400, private",
+    }
+  });
 };
