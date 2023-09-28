@@ -18,6 +18,7 @@ export type Person = {
   imgUrl?: string;
   url?: string;
   roles?: ReadonlyArray<string>;
+  bio?: string;
 };
 
 export const SHARE_URLS = {
@@ -41,16 +42,18 @@ export const PEOPLE: Record<(typeof PEOPLE_NAMES)[number], Person> = {
     name: "Frank Matranga",
     imgUrl: SITE_URL + "/people/frank.jpg",
     url: "https://www.linkedin.com/in/frank-matranga/",
-    roles: ["producer", "researcher", "co-host"]
+    roles: ["producer", "researcher", "co-host", "hollow moon truther"],
+    bio: `Frank is a software engineer and non-profit consultant with a dual degree in Computer Science & Information Technology and Web Science from Rensselaer Polytechnic Institute. Originally, from the Bronx, NY, he lives in the NY Capital Region and is always interested in learning more of the local history and lore of the land. The Catskills hold a special place in his heart as his family's vacation stomping ground for two decades. Ask him if he's ever met Rip Van Winkle.`
   },
   Aaron: {
     name: "Aaron Reers",
-    roles: ["researcher", "co-host"]
+    imgUrl: SITE_URL + "/people/aaron.jpg",
+    roles: ["researcher", "co-host", "monkey man"]
   },
   Nick: {
     name: "Nicholas Oertel",
     imgUrl: SITE_URL + "/people/nick.jpg",
-    roles: ["researcher", "co-host"]
+    roles: ["researcher", "co-host", "resident poltergeist"]
   },
   Ryan: {
     name: "Ryan Schnur",

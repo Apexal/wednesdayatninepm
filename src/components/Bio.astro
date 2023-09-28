@@ -6,11 +6,13 @@ export interface Props {
 
 const { person } = Astro.props;
 ---
-<article class="border-white">
-  {person.imgUrl && <img src={person.imgUrl} alt="" class="float-left mr-4 mt-2 mb-2 rounded w-64">}
-  <header class="mb-2">
+<article class="flex flex-col lg:flex-row gap-6 items-center">
+  {person.imgUrl && <img src={person.imgUrl} alt={person.name} class="rounded-full border-white border-[4px] w-48">}
+  <div>
+    <header class="mb-2 text-center lg:text-left">
     <h3 class="text-2xl font-semibold">{person.name}</h3>
     <h4 class="text-lg font-semibold">{person.roles?.join(", ")}</h4>
   </header>
-  <p>Coming soon...</p>
+  <p class="text-sm text-gray-300 max-w-sm lg:max-w-none">{person.bio}</p>
+  </div>
 </article>
