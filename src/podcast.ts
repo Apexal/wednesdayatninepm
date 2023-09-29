@@ -48,12 +48,14 @@ export const PEOPLE: Record<(typeof PEOPLE_NAMES)[number], Person> = {
   Aaron: {
     name: "Aaron Reers",
     imgUrl: SITE_URL + "/people/aaron.jpg",
-    roles: ["researcher", "co-host", "monkey man"]
+    roles: ["researcher", "co-host", "monkey man"],
+    bio: "Aaron is an electrical engineer with Master's and Bachelor's degrees in Electrical Engineering from Rensselaer Polytechnic Institute. He grew up in the middle of nowhere New Jersey and has since moved to the NY Capital Region. Aaron likes to hear stories with different perspectives and likes to focus on local stories. He has personally tangled with the Jersey Devil. (Philly Cheesteak from a restaurant near the Pine Barrens)"
   },
   Nick: {
     name: "Nicholas Oertel",
     imgUrl: SITE_URL + "/people/nick.jpg",
-    roles: ["researcher", "co-host", "resident poltergeist"]
+    roles: ["researcher", "co-host", "resident poltergeist"],
+    bio: "Nick is an aspiring economist holding a Bachelor's in Mathematics and Economics and a Master's in Economics from Rensselaer Polytechnic Institute. He is from the Mohawk Valley region of New York State. He has an interest in the darker stories of things that go bump in the night, aka, what makes Frank sleep with the lights on.",
   },
   Ryan: {
     name: "Ryan Schnur",
