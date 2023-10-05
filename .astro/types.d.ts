@@ -288,6 +288,13 @@ declare module 'astro:content' {
   collection: "episodes";
   data: InferEntrySchema<"episodes">
 } & { render(): Render[".mdoc"] };
+"14-cropsey.mdoc": {
+	id: "14-cropsey.mdoc";
+  slug: "14-cropsey";
+  body: string;
+  collection: "episodes";
+  data: InferEntrySchema<"episodes">
+} & { render(): Render[".mdoc"] };
 };
 
 	};
