@@ -43,9 +43,7 @@ const episodeHtmlDescription = (
               (image, imageIndex) =>
                 `<figure><img src='${SITE_URL}${getEpisodeImagesPath(slug)}${
                   image.fileName
-                }'><figcaption>Figure ${imageIndex + 1}: ${
-                  image.description
-                }</figcaption></figure>`
+                }'><figcaption>Figure ${imageIndex + 1}${image.description ? `: ${image.description}` : ""}</figcaption></figure>`
             )
             .join("\n")
         : ""

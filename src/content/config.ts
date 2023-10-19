@@ -6,7 +6,7 @@ import { PEOPLE_NAMES } from "src/podcast";
 
 const episodeImage = z.object({
   fileName: z.string(),
-  description: z.string(),
+  description: z.string().optional(),
 });
 
 const episodeCollection = defineCollection({
