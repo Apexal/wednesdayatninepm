@@ -309,6 +309,13 @@ declare module 'astro:content' {
   collection: "episodes";
   data: InferEntrySchema<"episodes">
 } & { render(): Render[".mdoc"] };
+"17-ufo-bigfoot.mdoc": {
+	id: "17-ufo-bigfoot.mdoc";
+  slug: "17-ufo-bigfoot";
+  body: string;
+  collection: "episodes";
+  data: InferEntrySchema<"episodes">
+} & { render(): Render[".mdoc"] };
 };
 
 	};
