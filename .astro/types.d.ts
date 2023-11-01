@@ -316,6 +316,13 @@ declare module 'astro:content' {
   collection: "episodes";
   data: InferEntrySchema<"episodes">
 } & { render(): Render[".mdoc"] };
+"18-halloween-2023.mdoc": {
+	id: "18-halloween-2023.mdoc";
+  slug: "18-halloween-2023";
+  body: string;
+  collection: "episodes";
+  data: InferEntrySchema<"episodes">
+} & { render(): Render[".mdoc"] };
 };
 
 	};
