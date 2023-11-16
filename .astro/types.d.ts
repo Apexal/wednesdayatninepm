@@ -323,6 +323,13 @@ declare module 'astro:content' {
   collection: "episodes";
   data: InferEntrySchema<"episodes">
 } & { render(): Render[".mdoc"] };
+"19-skinwalkers.mdoc": {
+	id: "19-skinwalkers.mdoc";
+  slug: "19-skinwalkers";
+  body: string;
+  collection: "episodes";
+  data: InferEntrySchema<"episodes">
+} & { render(): Render[".mdoc"] };
 };
 
 	};
