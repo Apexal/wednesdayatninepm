@@ -3,7 +3,7 @@ import { PEOPLE, PEOPLE_NAME } from "src/podcast";
 export const getEpisodePagePath = (slug: string) => `/episodes/${slug}`;
 
 export const getEpisodeAudioURL = (slug: string) =>
-  `https://wednesdayatninepm.nyc3.cdn.digitaloceanspaces.com/${slug}.m4a`;
+  `https://cdn.wednesdayatninepm.com/${slug}.m4a`;
 
 export const getEpisodeCoverArtPath = (slug: string) =>
   `/episodes/coverart/${slug}.jpg`;
