@@ -330,9 +330,16 @@ declare module 'astro:content' {
   collection: "episodes";
   data: InferEntrySchema<"episodes">
 } & { render(): Render[".mdoc"] };
-"20-paranormal-technology.mdoc": {
-	id: "20-paranormal-technology.mdoc";
-  slug: "20-paranormal-technology";
+"20-paranormal-technology copy.mdoc": {
+	id: "20-paranormal-technology copy.mdoc";
+  slug: "20-paranormal-technology-copy";
+  body: string;
+  collection: "episodes";
+  data: InferEntrySchema<"episodes">
+} & { render(): Render[".mdoc"] };
+"21-santa.mdoc": {
+	id: "21-santa.mdoc";
+  slug: "21-santa";
   body: string;
   collection: "episodes";
   data: InferEntrySchema<"episodes">
