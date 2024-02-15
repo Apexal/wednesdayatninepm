@@ -358,6 +358,13 @@ declare module 'astro:content' {
   collection: "episodes";
   data: InferEntrySchema<"episodes">
 } & { render(): Render[".mdoc"] };
+"24-mantis-man.mdoc": {
+	id: "24-mantis-man.mdoc";
+  slug: "24-mantis-man";
+  body: string;
+  collection: "episodes";
+  data: InferEntrySchema<"episodes">
+} & { render(): Render[".mdoc"] };
 };
 
 	};
