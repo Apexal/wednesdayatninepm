@@ -35,6 +35,7 @@ export const PEOPLE_NAMES = [
   "Ryan",
   "Troy",
   "Sarah",
+  "Chris"
 ] as const;
 export type PEOPLE_NAME = (typeof PEOPLE_NAMES)[number];
 export const PEOPLE: Record<(typeof PEOPLE_NAMES)[number], Person> = {
@@ -66,4 +67,7 @@ export const PEOPLE: Record<(typeof PEOPLE_NAMES)[number], Person> = {
   Sarah: {
     name: "Sarah",
   },
+  Chris: {
+    name: "Chris"
+  }
 } as const;
