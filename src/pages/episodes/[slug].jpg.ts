@@ -24,7 +24,6 @@ export const GET: APIRoute = async function get({ params, request }) {
     path.dirname(__filename),
     "..",
     "..",
-    "..",
     "public",
     getEpisodeCoverArtPath(slug)
   );
@@ -66,8 +65,5 @@ export const GET: APIRoute = async function get({ params, request }) {
   );
 
   const buffer = await image.getBufferAsync(Jimp.MIME_JPEG);
-  return {
-    encoding: "binary",
-    body: buffer,
-  };
+  return new Response(buffer);
 };
