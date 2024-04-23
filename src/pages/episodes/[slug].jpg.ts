@@ -17,7 +17,7 @@ export async function getStaticPaths() {
   }));
 }
 
-export const get: APIRoute = async function get({ params, request }) {
+export const GET: APIRoute = async function get({ params, request }) {
   const slug = params.slug!;
 
   const coverArtPath = path.join(
