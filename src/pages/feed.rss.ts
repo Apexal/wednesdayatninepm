@@ -43,7 +43,9 @@ const episodeHtmlDescription = (
               (image, imageIndex) =>
                 `<figure><img src='${SITE_URL}${getEpisodeImagesPath(slug)}${
                   image.fileName
-                }'><figcaption>Figure ${imageIndex + 1}${image.description ? `: ${image.description}` : ""}</figcaption></figure>`
+                }'><figcaption>Figure ${imageIndex + 1}${
+                  image.description ? `: ${image.description}` : ""
+                }</figcaption></figure>`
             )
             .join("\n")
         : ""
@@ -105,15 +107,15 @@ const entryToItem = ({ slug, data: episode }: CollectionEntry<"episodes">) => ({
   ],
   "podcast:episode": episode.episodeNumber,
   "media:rights": {
-    "@status": "userCreated"
+    "@status": "userCreated",
   },
-  "dc:creator": PODCAST_AUTHOR
+  "dc:creator": PODCAST_AUTHOR,
 });
 
 /**
  * Generate podcast RSS feed.
  */
-export const all: APIRoute = async () => {
+export const ALL: APIRoute = async () => {
   const xml = XMLBuilder.create(
     {
       rss: {
@@ -157,6 +159,6 @@ export const all: APIRoute = async () => {
     headers: {
       "Content-Type": "text/xml; charset=utf-8",
       "Cache-Control": "max-age=86400, private",
-    }
+    },
   });
 };
