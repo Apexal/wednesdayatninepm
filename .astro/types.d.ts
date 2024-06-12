@@ -324,6 +324,13 @@ declare module 'astro:content' {
   collection: "episodes";
   data: InferEntrySchema<"episodes">
 } & { render(): Render[".mdoc"] };
+"28-deals-with-devil.mdoc": {
+	id: "28-deals-with-devil.mdoc";
+  slug: "28-deals-with-devil";
+  body: string;
+  collection: "episodes";
+  data: InferEntrySchema<"episodes">
+} & { render(): Render[".mdoc"] };
 };
 
 	};
