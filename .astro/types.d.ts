@@ -331,6 +331,13 @@ declare module 'astro:content' {
   collection: "episodes";
   data: InferEntrySchema<"episodes">
 } & { render(): Render[".mdoc"] };
+"29-black-eyed-kids.mdoc": {
+	id: "29-black-eyed-kids.mdoc";
+  slug: "29-black-eyed-kids";
+  body: string;
+  collection: "episodes";
+  data: InferEntrySchema<"episodes">
+} & { render(): Render[".mdoc"] };
 };
 
 	};
