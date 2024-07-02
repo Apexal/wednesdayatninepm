@@ -2,9 +2,8 @@ const BASE_URL = new URL(import.meta.env.SITE);
 export const SITE_URL = BASE_URL.origin;
 
 export const PODCAST_TITLE = "Wednesday at 9PM";
-export const PODCAST_LOGO_URL = "/logo-old.png";
-export const PODCAST_TAGLINE =
-  "A local podcast about the strange and spooky.";
+export const PODCAST_LOGO_URL = "/logo-old.jpg";
+export const PODCAST_TAGLINE = "A local podcast about the strange and spooky.";
 export const PODCAST_EMAIL = "wednesdayatninepm@gmail.com";
 export const PODCAST_DESCRIPTION =
   "Join Frank, Nick, and Aaron as they research and discuss the things that go bump in the night.";
@@ -35,7 +34,7 @@ export const PEOPLE_NAMES = [
   "Ryan",
   "Troy",
   "Sarah",
-  "Chris"
+  "Chris",
 ] as const;
 export type PEOPLE_NAME = (typeof PEOPLE_NAMES)[number];
 export const PEOPLE: Record<(typeof PEOPLE_NAMES)[number], Person> = {
@@ -44,13 +43,13 @@ export const PEOPLE: Record<(typeof PEOPLE_NAMES)[number], Person> = {
     imgUrl: SITE_URL + "/people/frank.jpg",
     url: "https://www.linkedin.com/in/frank-matranga/",
     roles: ["producer", "researcher", "co-host", "hollow moon truther"],
-    bio: `Frank is a software engineer originally from the Bronx, NY, who now lives in the NY Capital Region. He's always interested in learning more of the local history and lore of the land. The Catskills hold a special place in his heart as his family's vacation stomping ground for two decades. Ask him if he's ever met Rip Van Winkle.`
+    bio: `Frank is a software engineer originally from the Bronx, NY, who now lives in the NY Capital Region. He's always interested in learning more of the local history and lore of the land. The Catskills hold a special place in his heart as his family's vacation stomping ground for two decades. Ask him if he's ever met Rip Van Winkle.`,
   },
   Aaron: {
     name: "Aaron Reers",
     imgUrl: SITE_URL + "/people/aaron.jpg",
     roles: ["researcher", "co-host", "monkey man"],
-    bio: "Aaron is an electrical engineer who grew up in the middle of nowhere New Jersey and has since moved to the NY Capital Region. Aaron likes to hear stories with different perspectives and likes to focus on local stories. He has personally tangled with the Jersey Devil. (Philly Cheesteak from a restaurant near the Pine Barrens)"
+    bio: "Aaron is an electrical engineer who grew up in the middle of nowhere New Jersey and has since moved to the NY Capital Region. Aaron likes to hear stories with different perspectives and likes to focus on local stories. He has personally tangled with the Jersey Devil. (Philly Cheesteak from a restaurant near the Pine Barrens)",
   },
   Nick: {
     name: "Nicholas Oertel",
@@ -68,6 +67,6 @@ export const PEOPLE: Record<(typeof PEOPLE_NAMES)[number], Person> = {
     name: "Sarah",
   },
   Chris: {
-    name: "Chris"
-  }
+    name: "Chris",
+  },
 } as const;

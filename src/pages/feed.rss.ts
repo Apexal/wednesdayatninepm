@@ -132,7 +132,14 @@ export const ALL: APIRoute = async () => {
             "itunes:email": PODCAST_EMAIL,
           },
           "itunes:author": "Matranga Productions",
-          "itunes:category": ["Society & Culture", "History"],
+          "itunes:category": [
+            {
+              "@text": "Society & Culture",
+            },
+            {
+              "@text": "History",
+            },
+          ],
           description: PODCAST_DESCRIPTION,
           "itunes:image": {
             "@href": SITE_URL + PODCAST_LOGO_URL,
@@ -144,7 +151,7 @@ export const ALL: APIRoute = async () => {
               "#text": "Ryan the Skeleton",
             },
           ],
-          language: "en-us",
+          language: "en",
           link: SITE_URL,
           item: sortedEpisodeEntries.map(entryToItem),
         },
