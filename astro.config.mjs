@@ -18,12 +18,19 @@ if (isBuild) {
 // https://astro.build/config
 export default defineConfig({
   server: {
-    port: SERVER_PORT
+    port: SERVER_PORT,
   },
   site: BASE_URL,
-  integrations: [sitemap(), tailwind({
-    config: {
-      applyBaseStyles: false
-    }
-  }), markdoc()]
+  integrations: [
+    sitemap(),
+    tailwind({
+      config: {
+        applyBaseStyles: false,
+      },
+    }),
+    markdoc(),
+  ],
+  redirects: {
+    "/feed.rss": "https://soapbox.host/podcasts/roc-wednesday-at-9pm.rss",
+  },
 });
