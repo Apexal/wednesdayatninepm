@@ -338,6 +338,13 @@ declare module 'astro:content' {
   collection: "episodes";
   data: InferEntrySchema<"episodes">
 } & { render(): Render[".mdoc"] };
+"30-women-in-white.mdoc": {
+	id: "30-women-in-white.mdoc";
+  slug: "30-women-in-white";
+  body: string;
+  collection: "episodes";
+  data: InferEntrySchema<"episodes">
+} & { render(): Render[".mdoc"] };
 };
 
 	};
